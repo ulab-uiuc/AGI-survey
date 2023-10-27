@@ -1,7 +1,5 @@
 # Awesom-LLM AGI Papers
 
-## Existing Survey Paper & Github Projects
-
 ### Agent & Tool:
 - [Tool learning with foundation models](https://arxiv.org/pdf/2304.08354.pdf)
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)
