@@ -13,13 +13,13 @@ Must-read Papers on Artifical General Intelligence with foundation models.
   - [2.3 Memory](#23-memory)
   - [2.4 Metacognition](#24-metacognition)
 - [3. AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
-  - [3.1 Communication](#31-communication)
-  - [3.2 Interaction](#32-interaction)
-  - [3.3 Integration](#33-integration)
-- [4. AGI Impact: The Societal Influence of AGI](#4-agi-impact-the-societal-influence-of-agi)
-  - [4.1 Economics](#41-economics)
-  - [4.2 Ethics](#42-ethics)
-  - [4.3 Policy](#43-policy)
+  - [3.1 Interfaces to Digital World](#31-interfaces-to-digital-world)
+  - [3.2 Interfaces to Physical World](#32-interfaces-to-physical-world)
+  - [3.3 Interfaces to Intelligence](#33-interfaces-to-intelligence)
+- [4. AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
+  - [4.1 System Challenges](#41-system-challenges)
+  - [4.2 Scalable Model Architectures](#42-scalable-model-architectures)
+  - [4.3 Large-scale Training](#43-large-scale-training)
   - [4.4 Inference Techniques](#44-inference-techniques)
   - [4.5 Cost and Efficiency](#45-cost-and-efficiency)
   - [4.6 Computing Platforms](#46-computing-platforms)
@@ -74,14 +74,14 @@ Must-read Papers on Artifical General Intelligence with foundation models.
    *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* arXiv, 2023. [\[abs\]](https://arxiv.org/abs/2304.12244)
 
 ## 3. AGI Interface: Connecting the World with AGI
-### 3.1 Communication
-### 3.2 Interaction
-### 3.3 Integration
+### 3.1 Interfaces to Digital World
+### 3.2 Interfaces to Physical World
+### 3.3 Interfaces to Intelligence
 
-## 4. AGI Impact: The Societal Influence of AGI
-### 4.1 Economics
-### 4.2 Ethics
-### 4.3 Policy
+## 4. AGI Systems: Implementing the Mechanism of AGI
+### 4.1 System Challenges
+### 4.2 Scalable Model Architectures
+### 4.3 Large-scale Training
 ### 4.4 Inference Techniques
 ### 4.5 Cost and Efficiency
 ### 4.6 Computing Platforms
@@ -96,10 +96,10 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 #### 6.1.1 AGI Levels
 #### 6.1.2 Constraints and Challenges of Ultimate AGI
-#### 6.1.3 How do we get to the next level of AGI?
+#### 6.1.3 How Do We Get to the Next Level of AGI?
 ### 6.2 AGI Evaluation
-#### 6.2.1 What do we expect from AGI evaluations
-#### 6.2.2 Current evaluation frameworks and limitations
+#### 6.2.1 What Do We Expect from AGI Evaluations
+#### 6.2.2 Current Evaluation Frameworks and Limitations
 ### 6.3 Potential Ways to Future AGI
 
 ## 7. Case Studies
