@@ -1,4 +1,4 @@
-# Awesom-LLM AGI Papers
+# Awesom-AGI Survey Papers
 
 Must-read Papers on Artifical General Intelligence with foundation models.
 
@@ -6,165 +6,112 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 # 📜Content
 
-- [Goal & Definition: The AGI we imagined](#goal--definition-the-agi-we-imagined)
+- [1. Introduction](#1-introduction)
+- [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
+  - [2.1 Perception](#21-perception)
+  - [2.2 Reasoning](#22-reasoning)
+  - [2.3 Memory](#23-memory)
+  - [2.4 Metacognition](#24-metacognition)
+- [3. AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
+  - [3.1 Communication](#31-communication)
+  - [3.2 Interaction](#32-interaction)
+  - [3.3 Integration](#33-integration)
+- [4. AGI Impact: The Societal Influence of AGI](#4-agi-impact-the-societal-influence-of-agi)
+  - [4.1 Economics](#41-economics)
+  - [4.2 Ethics](#42-ethics)
+  - [4.3 Policy](#43-policy)
+  - [4.4 Inference Techniques](#44-inference-techniques)
+  - [4.5 Cost and Efficiency](#45-cost-and-efficiency)
+  - [4.6 Computing Platforms](#46-computing-platforms)
+  - [4.7 The Future of AGI Systems](#47-the-future-of-agi-systems)
+- [5. AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
+  - [5.1 Expectations of AGI Alignment](#51-expectations-of-agi-alignment)
+  - [5.2 AGI Alignment Classifications](#52-agi-alignment-classifications)
+  - [5.3 How to Implement: Solutions for Alignment](#53-how-to-implement-solutions-for-alignment)
+- [6. Approach AGI Responsibly](#6-approach-agi-responsibly)
+  - [6.1 AI Levels: Charting the Evolution of Artificial Intelligence](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
+    - [6.1.1 AGI Levels](#611-agi-levels)
+    - [6.1.2 Constraints and Challenges of Ultimate AGI](#612-constraints-and-challenges-of-ultimate-agi)
+    - [6.1.3 How do we get to the next level of AGI?](#613-how-do-we-get-to-the-next-level-of-agi)
+  - [6.2 AGI Evaluation](#62-agi-evaluation)
+    - [6.2.1 What do we expect from AGI evaluations](#621-what-do-we-expect-from-agi-evaluations)
+    - [6.2.2 Current evaluation frameworks and limitations](#622-current-evaluation-frameworks-and-limitations)
+  - [6.3 Potential Ways to Future AGI](#63-potential-ways-to-future-agi)
+- [7. Case Studies](#7-case-studies)
+  - [7.1 AI for Science Discovery and Research](#71-ai-for-science-discovery-and-research)
+  - [7.2 Generative Visual Intelligence](#72-generative-visual-intelligence)
+  - [7.3 World Models](#73-world-models)
+  - [7.4 Decentralized LLM](#74-decentralized-llm)
+  - [7.5 AI for Coding](#75-ai-for-coding)
+  - [7.6 AI for Robotics in Real World Applications](#76-ai-for-robotics-in-real-world-applications)
+  - [7.7 Human-AI Collaboration](#77-human-ai-collaboration)
+- [8. Conclusion](#8-conclusion)
 
-- [Current state & How far?](#current-state--how-far)
-  - [AGI Internal (“Brain”)](#agi-internal-brain)
-    - [Perception: multi modal (haoqin)](#perception-multi-modal-haoqin)
-    - [Memory (Chuanyang, Guanyu)](#memory-chuanyang-guanyu)
-      - [Short-term](#short-term)
-      - [Long-term: experience, knowledge](#long-term-experience-knowledge)
-    - [Reasoning (Chuanyang)](#reasoning-chuanyang)
-    - [Planning (Kunlun)](#planning-kunlun)
-    - [Meta-level capability](#meta-level-capability)
-    - [Self-evolve (Kunlun)](#self-evolve-kunlun)
-    - [Alignment capability](#alignment-capability)
 
-- [AGI External (“Body & World”)](#agi-external-body--world)
-  - [Meta-level: How to interact with “Tool” capability (Kunlun, Chuanyang)](#meta-level-how-to-interact-with-tool-capability-kunlun-chuanyang)
-  - [With non-AI tool (with objective world) (Kunlun)](#with-non-ai-tool-with-objective-world-kunlun)
-  - [With other AGI (haoqin)](#with-other-agi-haoqin)
-  - [With human (Kunlun)](#with-human-kunlun)
-  - [AGI Constraints/Alignment](#agi-constraintsalignment)
+## 1. Introduction
 
-- [How can we get to AGI - A perspective from us](#how-can-we-get-to-agi---a-perspective-from-us)
-  - [Hierarchy / levels (Kunlun, haoqin)](#hierarchy--levels-kunlun-haoqin)
-  - [Evaluation (Guanyu, fengtao)](#evaluation-guanyu-fengtao)
-  - [How to proceed to next level (Chuanyang)](#how-to-proceed-to-next-level-chuanyang)
-
-
-# Goal & Definition: The AGI we imagined
-
-# Current state & How far?
-### AGI Internal (“Brain”)
-#### Perception: multi modal (haoqin) 
-#### Memory (Chuanyang, Guanyu)
-##### Short-term
-##### Long-term: experience, knowledge
-#### Reasoning (Chuanyang)
-#### Planning (Kunlun)
-1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**
-
-   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* [[abs](https://arxiv.org/abs/2310.04406)]
-
+## 2. AGI Internal: Unveiling the Mind of AGI
+### 2.1 Perception
+### 2.2 Reasoning
+1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.04406)]
 2. **Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents**
+   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.01560)]
+3. **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**  *Zirui Zhao, Wee Sun Lee, David Hsu.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14078)]
+4. **Tree of thoughts: Deliberate problem solving with large language models**  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.10601)]
 
-   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* [[abs](https://arxiv.org/abs/2302.01560)]
-
-3. **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**
-
-   *Zirui Zhao, Wee Sun Lee, David Hsu.* [[abs](https://arxiv.org/abs/2305.14078)]
-
-4. **Tree of thoughts: Deliberate problem solving with large language models**
-
-   *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10601)]
-#### Meta-level capability
-#### Self-evolve (Kunlun) 
-1. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching**
-
-   *Nam Le.* [[eprint](https://arxiv.org/abs/1906.08865)]
+### 2.3 Memory
+### 2.4 Metacognition
+1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
+   *Nam Le.* arXiv, 2019. [\[eprint\]](https://arxiv.org/abs/1906.08865)
 
 2. **Self-Instruct: Aligning Language Models with Self-Generated Instructions**
-
-   *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* [[eprint](https://arxiv.org/abs/2212.10560)]
+   *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* arXiv, 2022. [\[eprint\]](https://arxiv.org/abs/2212.10560)
 
 3. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
-
-   *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* [[eprint](https://arxiv.org/abs/2312.10003)]
+   *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* arXiv, 2023. [\[eprint\]](https://arxiv.org/abs/2312.10003)
 
 4. **Wizardlm: Empowering large language models to follow complex instructions**
+   *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* arXiv, 2023. [\[abs\]](https://arxiv.org/abs/2304.12244)
 
-   *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* [[abs](https://arxiv.org/abs/2304.12244)]
+## 3. AGI Interface: Connecting the World with AGI
+### 3.1 Communication
+### 3.2 Interaction
+### 3.3 Integration
 
-#### Alignment capability 
+## 4. AGI Impact: The Societal Influence of AGI
+### 4.1 Economics
+### 4.2 Ethics
+### 4.3 Policy
+### 4.4 Inference Techniques
+### 4.5 Cost and Efficiency
+### 4.6 Computing Platforms
+### 4.7 The Future of AGI Systems
 
-# AGI External (“Body & World”)
-### Meta-level: How to interact with “Tool” capability (Kunlun, Chuanyang) 
-1. **Tool learning with foundation models**
+## 5. AGI Alignment: Reconciling Needs with AGI
+### 5.1 Expectations of AGI Alignment
+### 5.2 AGI Alignment Classifications
+### 5.3 How to Implement: Solutions for Alignment
 
-   *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, et al.* [[abs](https://arxiv.org/abs/2304.08354)]
+## 6. Approach AGI Responsibly
+### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
+#### 6.1.1 AGI Levels
+#### 6.1.2 Constraints and Challenges of Ultimate AGI
+#### 6.1.3 How do we get to the next level of AGI?
+### 6.2 AGI Evaluation
+#### 6.2.1 What do we expect from AGI evaluations
+#### 6.2.2 Current evaluation frameworks and limitations
+### 6.3 Potential Ways to Future AGI
 
-2. **Toolformer: Language models can teach themselves to use tools**
+## 7. Case Studies
+### 7.1 AI for Science Discovery and Research
+### 7.2 Generative Visual Intelligence
+### 7.3 World Models
+### 7.4 Decentralized LLM
+### 7.5 AI for Coding
+### 7.6 AI for Robotics in Real World Applications
+### 7.7 Human-AI Collaboration
 
-   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom.* [[abs](https://arxiv.org/abs/2302.04761)]
-
-3. **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation**
-
-   *Cheng Qian, Chi Han, Yi R Fung, Yujia Qin, Zhiyuan Liu, Heng Ji.* [[abs](https://arxiv.org/abs/2305.14318)]
-
-### With non-AI tool (with objective world) (Kunlun) 
-1. **Scaling up and distilling down: Language-guided robot skill acquisition**
-
-   *Huy Ha, Pete Florence, Shuran Song.* [[abs](https://arxiv.org/abs/2307.14535)]
-
-2. **MotionGPT: Human Motion as a Foreign Language**
-
-   *Biao Jiang, Xin Chen, Wen Liu, Jingyi Yu, Gang Yu, Tao Chen.* [[abs](https://arxiv.org/abs/2306.14795)]
-
-3. **Voxposer: Composable 3d value maps for robotic manipulation with language models**
-
-   *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei.* [[abs](https://arxiv.org/abs/2307.05973)]
-
-4. **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**
-
-   *Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, Hongsheng Li.* [[abs](https://arxiv.org/abs/2305.11176)]
-
-5. **Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action**
-
-   *Dhruv Shah, Błażej Osiński, Sergey Levine, et al.* [[abs](https://arxiv.org/abs/conference-on-robot-learning/2023/lm-nav)]
-### With other AGI (haoqin)
-### With human (Kunlun)
-1. **The Rise of the AI Co-Pilot: Lessons for Design from Aviation and Beyond**
-
-   *Abigail Sellen, Eric Horvitz.* [[abs](https://arxiv.org/abs/2311.14713)]
-
-2. **Human--AI interactions in public sector decision making: “automation bias” and “selective adherence” to algorithmic advice**
-
-   *Saar Alon-Barkat, Madalina Busuioc.* Journal of Public Administration Research and Theory, Vol. 33, No. 1, pp. 153--169, 2023. Oxford University Press US.
-
-3. **The evolution of HCI and human factors: Integrating human and artificial intelligence**
-
-   *Mark Chignell, Lu Wang, Atefeh Zare, Jamy Li.* ACM Transactions on Computer-Human Interaction, Vol. 30, No. 2, pp. 1--30, 2023. ACM New York, NY.
-
-4. **Human--Machine Relationship—Perspective and Future Roadmap for Industry 5.0 Solutions**
-
-   *Jakub Pizoń, Arkadiusz Gola.* Machines, Vol. 11, No. 2, pp. 203, 2023. MDPI.
-
-5. **Human-machine symbiosis: A multivariate perspective for physically coupled human-machine systems**
-
-   *Jairo Inga, Miriam Ruess, Jan Heinrich Robens, Thomas Nelius, Simon Rothfuß, Sean Kille, Philipp Dahlinger, Andreas Lindenmann, Roland Thomaschke, Gerhard Neumann, et al.* International Journal of Human-Computer Studies, Vol. 170, pp. 102926, 2023. Elsevier.
-
-### AGI Constraints/Alignment 
-
-# How can we get to AGI - A perspective from us
-## How can we get to AGI - A perspective from us
-### Hierarchy / levels (Kunlun, haoqin)
-
-### Evaluation (Guanyu, fengtao)
-### AI for Science Discovery and Research (Kunlun)
-1. **Benchmarking Large Language Models As AI Research Agents**
-
-   *Qian Huang, Jian Vora, Percy Liang, Jure Leskovec.* [[abs](https://arxiv.org/abs/2310.03302)]
-
-2. **The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4**
-
-   *Microsoft Research AI4Science, Microsoft Azure Quantum.* [[abs](https://arxiv.org/abs/2311.07361)]
-
-3. **Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems**
-
-   *Stefan Kramer, Mattia Cerrato, Sašo Džeroski, Ross King.* [[abs](https://arxiv.org/abs/2305.02251)]
-
-4. **LLMs for Science: Usage for Code Generation and Data Analysis**
-
-   *Mohamed Nejjar, Luca Zacharias, Fabian Stiehle, Ingo Weber.* [[abs](https://arxiv.org/abs/2311.16733)]
-
-5. **Galactica: A large language model for science**
-
-   *Ross Taylor, Marcin Kardas, Guillem Cucurull, Thomas Scialom, Anthony Hartshorn, Elvis Saravia, Andrew Poulton, Viktor Kerkez, Robert Stojnic.* [[abs](https://arxiv.org/abs/2211.09085)]
-
-### How to proceed to next level (Chuanyang)
-
-
+## 8. Conclusion
 
 
 <!-- ### Agent & Tool:
