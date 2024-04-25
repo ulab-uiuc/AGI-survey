@@ -53,11 +53,29 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 2. AGI Internal: Unveiling the Mind of AGI
 ### 2.1 Perception
 ### 2.2 Reasoning
+1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. *Jason Wei* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
+2. **ReAct: Synergizing Reasoning and Acting in Language Models**. *Shunyu Yao* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)]
+3. **Complexity-Based Prompting for Multi-Step Reasoning**. *Yao Fu* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2210.00720)]
+4. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks**. *Tushar Khot* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2210.02406)]
+5. **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**. *Maarten Sap* et al. EMNLP 2022. [[paper](https://arxiv.org/abs/2210.13312)]
+6. **Towards Reasoning in Large Language Models: A Survey**. *Jie Huang* et al. ACL Findings 2023. [[paper](https://arxiv.org/abs/2212.10403)]
+7. **Inner Monologue: Embodied Reasoning through Planning with Language Models**. *Wenlong Huang* et al. CoRL 2022. [[paper](https://arxiv.org/abs/2207.05608)]
+8. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**. *Denny Zhou* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2205.10625)]
+9. **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**. *Ishika Singh* et al. ICRA 2023. [[paper](https://arxiv.org/abs/2209.11302)]
+10. **Reasoning with Language Model is Planning with World Model**. *Shibo Hao* et al. EMNLP 2023. [[paper](https://arxiv.org/abs/2305.14992)]
+11. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**. *Shunyu Yao* et al. NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.10601)]
+12. ****. ** et al. EMNLP 2020. [[paper]()]
+13. ****. ** et al. EMNLP 2020. [[paper]()]
+14. ****. ** et al. EMNLP 2020. [[paper]()]
+15. ****. ** et al. EMNLP 2020. [[paper]()]
+16. ****. ** et al. EMNLP 2020. [[paper]()]
+17. ****. ** et al. EMNLP 2020. [[paper]()]
+
+
 1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.04406)]
 2. **Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents**
    *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.01560)]
 3. **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**  *Zirui Zhao, Wee Sun Lee, David Hsu.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14078)]
-4. **Tree of thoughts: Deliberate problem solving with large language models**  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.10601)]
 
 ### 2.3 Memory
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
@@ -66,6 +84,8 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 4. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
 5. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
 6. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+7. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+8. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
