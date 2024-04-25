@@ -60,12 +60,12 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 4. **Tree of thoughts: Deliberate problem solving with large language models**  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.10601)]
 
 ### 2.3 Memory
-1. **Dense passage retrieval for open-domain question answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
-2. **Retrieval-augmented generation for knowledge-intensive nlp tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
-3. **Retrieval augmented language model pre-training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
-4. **Retrieval augmentation reduces hallucination in conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
-5. **Improving language models by retrieving from trillions of tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
-6. **Flashattention: Fast and memory-efficient exact attention with io-awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
+2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
+3. **REALM: Retrieval-Augmented Language Model Pre-Training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
+4. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
+5. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
+6. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
