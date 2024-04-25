@@ -126,6 +126,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 12. **Adding Conditional Control to Text-to-Image Diffusion Models**. *Lvmin Zhang* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2302.05543)]
 13. **Scalable Diffusion Models with Transformers**. *William Peebles* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2212.09748)]
 14. **Sequential Modeling Enables Scalable Learning for Large Vision Models**. *Yutong Bai* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.00785)]
+15. **Video Generation Models as World Simulators**. *Tim Brooks* et al. OpenAI 2024. [[paper](https://openai.com/research/video-generation-models-as-world-simulators)]
 
 ### 7.3 World Models
 ### 7.4 Decentralized LLM
