@@ -60,13 +60,12 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 4. **Tree of thoughts: Deliberate problem solving with large language models**  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.10601)]
 
 ### 2.3 Memory
-1. **Dense passage retrieval for open-domain question answering** *Karpukhin, Vladimir.* No journal, No year.
-2. **Retrieval-augmented generation for knowledge-intensive nlp tasks** *Lewis, Patrick, Perez, Ethan, Piktus, Aleksandra, Petroni, Fabio, Karpukhin, Vladimir, Goyal, Naman.* Advances in Neural Information Processing Systems, 2020.
-4. **Retrieval augmented language model pre-training** *Guu, Kelvin, Lee, Kenton, Tung, Zora, Pasupat, Panupong, Chang, Mingwei.* Presented at International conference on machine learning, 2020. [Link](No URL)
-5. **Retrieval augmentation reduces hallucination in conversation** *Shuster, Kurt, Poff, Spencer, Chen, Moya, Kiela, Douwe, Weston, Jason.* arXiv preprint arXiv:2104.07567, 2021. [[abs](https://arxiv.org/abs/2104.07567)]
-6. **Improving language models by retrieving from trillions of tokens** *Borgeaud, Sebastian, Mensch, Arthur, Hoffmann, Jordan, Cai, Trevor, Rutherford, Eliza, Millican, Katie, Van Den Driessche, George Bm, Lespiau, Jean-Baptiste, Damoc, Bogdan, Clark, Aidan, others.* Presented at International conference on machine learning, 2022. [Link](No URL)
-7. **Flashattention: Fast and memory-efficient exact attention with io-awareness** *Dao, Tri, Fu, Dan, Ermon, Stefano, Rudra, Atri, R\'e.* Advances in Neural Information Processing Systems, 2022.
-8. **Efficient transformers: A survey** *Tay, Yi, Dehghani, Mostafa, Bahri, Dara, Metzler, Donald.* ACM Computing Surveys, 2022.
+1. **Dense passage retrieval for open-domain question answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
+2. **Retrieval-augmented generation for knowledge-intensive nlp tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
+4. **Retrieval augmented language model pre-training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
+5. **Retrieval augmentation reduces hallucination in conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
+6. **Improving language models by retrieving from trillions of tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
+7. **Flashattention: Fast and memory-efficient exact attention with io-awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
