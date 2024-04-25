@@ -62,10 +62,10 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 2.3 Memory
 1. **Dense passage retrieval for open-domain question answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
 2. **Retrieval-augmented generation for knowledge-intensive nlp tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
-4. **Retrieval augmented language model pre-training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
-5. **Retrieval augmentation reduces hallucination in conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
-6. **Improving language models by retrieving from trillions of tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
-7. **Flashattention: Fast and memory-efficient exact attention with io-awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+3. **Retrieval augmented language model pre-training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
+4. **Retrieval augmentation reduces hallucination in conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
+5. **Improving language models by retrieving from trillions of tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
+6. **Flashattention: Fast and memory-efficient exact attention with io-awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
@@ -112,6 +112,21 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 7. Case Studies
 ### 7.1 AI for Science Discovery and Research
 ### 7.2 Generative Visual Intelligence
+1. **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. *Jascha Sohl-Dickstein* et al. ICML 2015. [[paper](https://arxiv.org/abs/1503.03585)]
+2. **Generative Modeling by Estimating Gradients of the Data Distribution**. *Yang Song* et al. NeurIPS 2019. [[paper](https://arxiv.org/abs/1907.05600)]
+3. **Denoising Diffusion Probabilistic Models**. *Jonathan Ho* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2006.11239)]
+4. **Score-Based Generative Modeling through Stochastic Differential Equations**. *Yang Song* et al. ICLR 2021. [[paper](https://arxiv.org/abs/2011.13456)]
+5. **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**. *Alex Nichol* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2112.10741)]
+6. **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations**. *Chenlin Meng* et al. ICLR 2022. [[paper](https://arxiv.org/abs/2108.01073)]
+7. **Video Diffusion Models**. *Jonathan Ho* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2204.03458)]
+8. **Hierarchical Text-Conditional Image Generation with CLIP Latents**. *Aditya Ramesh* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2204.06125)]
+9. **Classifier-Free Diffusion Guidance**. *Jonathan Ho* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2207.12598)]
+10. **Palette: Image-to-Image Diffusion Models**. *Chitwan Saharia* et al. SIGGRAPH 2022. [[paper](https://arxiv.org/abs/2111.05826)]
+11. **High-Resolution Image Synthesis with Latent Diffusion Models**. *Robin Rombach* et al. CVPR 2022. [[paper](https://arxiv.org/abs/2112.10752)]
+12. **Adding Conditional Control to Text-to-Image Diffusion Models**. *Lvmin Zhang* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2302.05543)]
+13. **Scalable Diffusion Models with Transformers**. *William Peebles* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2212.09748)]
+14. **Sequential Modeling Enables Scalable Learning for Large Vision Models**. *Yutong Bai* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.00785)]
+
 ### 7.3 World Models
 ### 7.4 Decentralized LLM
 ### 7.5 AI for Coding
