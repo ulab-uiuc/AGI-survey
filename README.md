@@ -18,6 +18,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     - [3.1 Interfaces to Digital World](#31-interfaces-to-digital-world)
     - [3.2 Interfaces to Physical World](#32-interfaces-to-physical-world)
     - [3.3 Interfaces to Intelligence](#33-interfaces-to-intelligence)
+      - [3.3.1 Interfaces to AI Agents](#331-interfaces-to-ai-agents)
       - [3.3.2 Interfaces to Humans](#332-interfaces-to-humans)
   - [4. AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
     - [4.1 System Challenges](#41-system-challenges)
