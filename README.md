@@ -107,49 +107,34 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 1. **Guidelines for Human-AI Interaction**
    *Saleema Amershi, Dan Weld, Mihaela Vorvoreanu, Adam Fourney, Besmira Nushi, Penny Collisson, Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-Gil, Eric Horvitz*. CHI 2019. [[paper](https://dl.acm.org/doi/10.1145/3290605.3300233)]
-
 2. **Design Principles for Generative AI Applications**
    *Justin D. Weisz, Jessica He, Michael Muller, Gabriela Hoefer, Rachel Miles, Werner Geyer*. CHI 2024. [[paper](http://arxiv.org/abs/2401.14484)]
-
 3. **Graphologue: Exploring Large Language Model Responses with Interactive Diagrams**
    *Peiling Jiang, Jude Rayan, Steven P. Dow, Haijun Xia*. UIST 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606737)]
-
 4. **Sensecape: Enabling Multilevel Exploration and Sensemaking with Large Language Models**
    *Sangho Suh, Bryan Min, Srishti Palani, Haijun Xia*. UIST 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606756)]
-
 5. **Supporting Sensemaking of Large Language Model Outputs at Scale**
    *Katy Ilonka Gero, Chelse Swoopes, Ziwei Gu, Jonathan K. Kummerfeld, Elena L. Glassman*. CHI 2024. [[paper](https://arxiv.org/abs/2401.13726)]
-
 6. **Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation**
    *Sangho Suh, Meng Chen, Bryan Min, Toby Jia-Jun Li, Haijun Xia*. CHI 2024. [[Paper](http://arxiv.org/abs/2310.12953)]
-
 7. **AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**
    *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
-
 8. **Promptify: Text-to-Image Generation through Interactive Prompt Exploration with Large Language Models**
    *Stephen Brade, Bryan Wang, Mauricio Sousa, Sageev Oore, Tovi Grossman*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606725)]
-
 9. **ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**
    *Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena Glassman*. CHI 2024. [[paper](https://doi.org/10.48550/arXiv.2309.09128)]
-
 10. **CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming**
     *Li Feng, Ryan Yen, Yuzhe You, Mingming Fan, Jian Zhao, Zhicong Lu*. CHI 2024. [[paper](http://arxiv.org/abs/2310.09235)]
-
 11. **Generating Automatic Feedback on UI Mockups with Large Language Models**
     *Peitong Duan, Jeremy Warner, Yang Li, Björn Hartmann*. CHI 2024. [[paper](http://arxiv.org/abs/2403.13139)]
-
 12. **Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation**
     *Susan Lin, Jeremy Warner, J. D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Björn Hartmann, Can Liu*. CHI 2024. [[paper](http://arxiv.org/abs/2401.10838)]
-
 13. **Embedding Large Language Models into Extended Reality: Opportunities and Challenges for Inclusion, Engagement, and Privacy**
     *Efe Bozkir, Süleyman Özdel, Ka Hei Carrie Lau, Mengdi Wang, Hong Gao, Enkelejda Kasneci*. arXiv 2024. [[paper](http://arxiv.org/abs/2402.03907)]
-
 14. **GenAssist: Making Image Generation Accessible**
     *Mina Huh, Yi-Hao Peng, Amy Pavel*. UIST 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606735)]
-
 15. **“The less I type, the better”: How AI Language Models can Enhance or Impede Communication for AAC Users**
     *Stephanie Valencia, Richard Cave, Krystal Kallarackal, Katie Seaver, Michael Terry, Shaun K. Kane*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581560)]
-
 16. **Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design**
     *Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman*. CHI 2020. [[paper](https://dl.acm.org/doi/10.1145/3313831.3376301)]
 
@@ -241,6 +226,36 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 7.5 AI for Coding
 ### 7.6 AI for Robotics in Real World Applications
 ### 7.7 Human-AI Collaboration
+
+1. **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities**
+   *Mina Lee, Percy Liang, Qian Yang*. CHI 2022. [[paper](http://arxiv.org/abs/2201.06796)]
+2. **A Design Space for Intelligent and Interactive Writing Assistants**
+   *Mina Lee, Katy Ilonka Gero, John Joon Young Chung, Simon Buckingham Shum, Vipul Raheja, Hua Shen, Subhashini Venugopalan, Thiemo Wambsganss, David Zhou, Emad A. Alghamdi, Tal August, Avinash Bhat, Madiha Zahrah Choksi, Senjuti Dutta, Jin L. C. Guo, Md Naimul Hoque, Yewon Kim, Seyed Parsa Neshaei, Agnia Sergeyuk, Antonette Shibani, Disha Shrivastava, Lila Shroff, Jessi Stark, Sarah Sterman, Sitong Wang, Antoine Bosselut, Daniel Buschek, Joseph Chee Chang, Sherol Chen, Max Kreminski, Joonsuk Park, Roy Pea, Eugenia H. Rho, Shannon Zejiang Shen, Pao Siangliulue*. CHI 2024. [[paper](http://arxiv.org/abs/2403.14117)]
+3. **CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI**
+   *DaEun Choi, Sumin Hong, Jeongeon Park, John Joon Young Chung, Juho Kim*
+   CHI 2024. [[paper](http://arxiv.org/abs/2312.11949)]
+4. **I Lead, You Help but Only with Enough Details: Understanding User Experience of Co-Creation with Artificial Intelligence**
+   *Changhoon Oh, Jungwoo Song, Jinhan Choi, Seonghyeon Kim, Sungwoo Lee, Bongwon Suh*. CHI 2018. [[paper](https://dl.acm.org/doi/10.1145/3173574.3174223)]
+5. **CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs**
+   *Majeed Kazemitabaar, Runlong Ye, Xiaoning Wang, Austin Z. Henley, Paul Denny, Michelle Craig, Tovi Grossman*. CHI 2024. [[paper](http://arxiv.org/abs/2401.11314)]
+6. **AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation**
+   *Orit Shaer, Angelora Cooper, Osnat Mokryn, Andrew L. Kun, Hagit Ben Shoshan*. CHI 2024. [[paper](http://arxiv.org/abs/2402.14978)]
+7. **Is the Most Accurate AI the Best Teammate? Optimizing AI for Teamwork**
+   *Gagan Bansal, Besmira Nushi, Ece Kamar, Eric Horvitz, Daniel S. Weld*. AAAI 2021. [[paper](http://arxiv.org/abs/2004.13102)]
+8. **Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff**
+   *Gagan Bansal, Besmira Nushi, Ece Kamar, Daniel S. Weld, Walter S. Lasecki, Eric Horvitz*. AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4087)]
+9. **Harnessing Biomedical Literature to Calibrate Clinicians’ Trust in AI Decision Support Systems**
+   *Qian Yang, Yuexing Hao, Kexin Quan, Stephen Yang, Yiran Zhao, Volodymyr Kuleshov, Fei Wang*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581393)]
+10. **AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**
+   *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
+11. **Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows**
+    *Madeleine Grunde-McLaughlin, Michelle S. Lam, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer*. arXiv, 2023. [[paper](http://arxiv.org/abs/2312.11681)]
+12. **Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts**
+    *J.D. Zamfirescu-Pereira, Richmond Y. Wong, Bjoern Hartmann, Qian Yang*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581388)]
+13. **Designing Theory-Driven User-Centric Explainable AI**
+    *Danding Wang, Qian Yang, Ashraf Abdul, Brian Y. Lim*. CHI 2019. [[paper](https://dl.acm.org/doi/10.1145/3290605.3300831)]
+14. **Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning**
+    *Krzysztof Z. Gajos, Lena Mamykina*. IUI 2022. [[paper](https://dl.acm.org/doi/10.1145/3490099.3511138)]
 
 ## 8. Conclusion
 
