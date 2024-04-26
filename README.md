@@ -333,6 +333,28 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 5.3 How to approach AGI Alignments
 
+1. **Ethical and social risks of harm from Language**  arXiv 2021. [[abs](https://arxiv.org/abs/2112.04359)]
+2. **Beijing AI Safety International Consensus** *Beijing Academy of Artificial Intelligence.* 2024. [Link](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)
+3. **Counterfactual explanations without opening the black box: Automated decisions and the GDPR** *Wachter, Sandra, Mittelstadt, Brent, Russell, Chris.* Harvard Journal of Law \& Technology, 2017.
+4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan, Krueger, David, Everitt, Tom, Martic, Miljan, Maini, Vishal, Legg, Shane.* arXiv preprint arXiv:1811.07871, 2018. [[abs](https://arxiv.org/abs/1811.07871)]
+5. **Building ethics into artificial intelligence** *Yu, Han, Shen, Zhiqi, Miao, Chunyan, Leung, Cyril, Lesser, Victor R, Yang, Qiang.* Presented at Proceedings of the 27th International Joint Conference on Artificial Intelligence, 2018. [Link](No URL)
+6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [Link](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)
+7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [Link](https://link.springer.com/book/10.1007/978-3-030-30371-6)
+8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F, Michael, Katina, Pitt, Jeremy, Evers, Vanessa.* Proceedings of the IEEE, 2019. [Link](https://ieeexplore.ieee.org/document/8662743)
+9. **Open problems in cooperative AI** *Dafoe, Allan, Hughes, Edward, Bachrach, Yoram, Collins, Tantum, McKee, Kevin R, Leibo, Joel Z, Larson, Kate, Graepel, Thore.* arXiv preprint arXiv:2012.08630, 2020. [[abs](https://arxiv.org/abs/2012.08630)]
+10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[abs](https://arxiv.org/abs/2001.09768)]
+11. **Artificial Intelligence Safety and Security** *Yampolskiy, Roman V.* CRC Press, 2020. [Link](https://www.routledge.com/Artificial-Intelligence-Safety-and-Security/Yampolskiy/p/book/9780815369820)
+12. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan, Bachrach, Yoram, Hadfield, Gillian, Horvitz, Eric, Larson, Kate, Graepel, Thore.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
+13. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben, Sinclair, Thomas.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
+14. **X-risk analysis for ai research** *Hendrycks, Dan, Mazeika, Mantas.* arXiv preprint arXiv:2206.05862, 2022. [[abs](https://arxiv.org/abs/2206.05862)]
+15. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+16. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin, Izmailov, Pavel, Kirchner, Jan Hendrik, Baker, Bowen, Gao, Leo, Aschenbrenner, Leopold, Chen, Yining, Ecoffet, Adrien, Joglekar, Manas, Leike, Jan, others.* arXiv preprint arXiv:2312.09390, 2023. [[abs](https://arxiv.org/abs/2312.09390)]
+17. **Whose opinions do language models reflect?** *Santurkar, Shibani, Durmus, Esin, Ladhak, Faisal, Lee, Cinoo, Liang, Percy, Hashimoto, Tatsunori.* Presented at International Conference on Machine Learning, 2023. [Link](No URL)
+18. **Ai alignment: A comprehensive survey** *Ji, Jiaming, Qiu, Tianyi, Chen, Boyuan, Zhang, Borong, Lou, Hantao, Wang, Kaile, Duan, Yawen, He, Zhonghao, Zhou, Jiayi, Zhang, Zhaowei, others.* arXiv preprint arXiv:2310.19852, 2023. [[abs](https://arxiv.org/abs/2310.19852)]
+19. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[abs](https://arxiv.org/abs/2307.15217)]
+20. **The unlocking spell on base llms: Rethinking alignment via in-context learning** *Lin, Bill Yuchen, Ravichander, Abhilasha, Lu, Ximing, Dziri, Nouha, Sclar, Melanie, Chandu, Khyathi, Bhagavatula, Chandra, Choi, Yejin.* arXiv preprint arXiv:2312.01552, 2023. [[abs](https://arxiv.org/abs/2312.01552)]
+21. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[abs](https://arxiv.org/abs/2309.15025)]
+
 ## 6. Approach AGI Responsibly
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 #### 6.1.1 AGI Levels
