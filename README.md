@@ -294,8 +294,44 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 19. **Privacy in the Age of AI**
     *Sauvik Das, Hao-Ping (Hank) Lee, Jodi Forlizzi*. Communications of the ACM, 2023. [[paper](https://dl.acm.org/doi/10.1145/3625254)]
 
-### 5.2 AGI Alignment Classifications
-### 5.3 How to Implement: Solutions for Alignment
+### 5.2 Current Alignment Techniques
+
+1. **AI safety via debate** *Irving, Geoffrey, Christiano, Paul, Amodei, Dario.* arXiv preprint arXiv:1805.00899, 2018. [[abs](https://arxiv.org/abs/1805.00899)]
+2. **AI safety needs social scientists** *Irving, Geoffrey, Askell, Amanda.* Distill, 2019. [Link](https://distill.pub/2019/safety-needs-social-scientists/)
+3. **Learning to summarize with human feedback** *Stiennon, Nisan, Ouyang, Long, Wu, Jeffrey, Ziegler, Daniel, Lowe, Ryan, Voss, Chelsea, Radford, Alec, Amodei, Dario, Christiano, Paul F.* Advances in Neural Information Processing Systems, 2020. [[abs](https://arxiv.org/abs/2009.01325)]
+4. **Slic-hf: Sequence likelihood calibration with human feedback** *Zhao, Yao, Joshi, Rishabh, Liu, Tianqi, Khalman, Misha, Saleh, Mohammad, Liu, Peter J.* arXiv preprint arXiv:2305.10425, 2023. [[abs](https://arxiv.org/abs/2305.10425)]
+5. **The cringe loss: Learning what language not to model** *Adolphs, Leonard, Gao, Tianyu, Xu, Jing, Shuster, Kurt, Sukhbaatar, Sainbayar, Weston, Jason.* arXiv preprint arXiv:2211.05826, 2022. [[abs](https://arxiv.org/abs/2211.05826)]
+6. **Second thoughts are best: Learning to re-align with human values from text edits** *Liu, Ruibo, Jia, Chenyan, Zhang, Ge, Zhuang, Ziyu, Liu, Tony, Vosoughi, Soroush.* Advances in Neural Information Processing Systems, 2022. [[abs](https://arxiv.org/abs/2301.00355)]
+7. **Training language models to follow instructions with human feedback** *Ouyang, Long, Wu, Jeffrey, Jiang, Xu, Almeida, Diogo, Wainwright, Carroll, Mishkin, Pamela, Zhang, Chong, Agarwal, Sandhini, Slama, Katarina, Ray, Alex, others.* Advances in neural information processing systems, 2022. [[abs](https://arxiv.org/abs/2203.02155)]
+8. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen, He, Zexue, He, Zhankui, McAuley, Julian.* Presented at Proceedings of the AAAI Conference on Artificial Intelligence, 2022. [Link](No URL)
+9. **Aligning generative language models with human values** *Liu, Ruibo, Zhang, Ge, Feng, Xinyu, Vosoughi, Soroush.* Presented at Findings of the Association for Computational Linguistics: NAACL 2022, 2022. [Link](No URL)
+10. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao, Jones, Andy, Ndousse, Kamal, Askell, Amanda, Chen, Anna, DasSarma, Nova, Drain, Dawn, Fort, Stanislav, Ganguli, Deep, Henighan, Tom, others.* arXiv preprint arXiv:2204.05862, 2022. [[abs](https://arxiv.org/abs/2204.05862)]
+11. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao, Kadavath, Saurav, Kundu, Sandipan, Askell, Amanda, Kernion, Jackson, Jones, Andy, Chen, Anna, Goldie, Anna, Mirhoseini, Azalia, McKinnon, Cameron, others.* arXiv preprint arXiv:2212.08073, 2022. [[abs](https://arxiv.org/abs/2212.08073)]
+12. **Raft: Reward ranked finetuning for generative foundation model alignment** *Dong, Hanze, Xiong, Wei, Goyal, Deepanshu, Pan, Rui, Diao, Shizhe, Zhang, Jipeng, Shum, Kashun, Zhang, Tong.* arXiv preprint arXiv:2304.06767, 2023. [[abs](https://arxiv.org/abs/2304.06767)]
+13. **Chain of hindsight aligns language models with feedback** *Liu, Hao, Sferrazza, Carmelo, Abbeel, Pieter.* arXiv preprint arXiv:2302.02676, 2023. [[abs](https://arxiv.org/abs/2302.02676)]
+14. **Improving Language Models with Advantage-based Offline Policy Gradients** *Baheti, Ashutosh, Lu, Ximing, Brahman, Faeze, Bras, Ronan Le, Sap, Maarten, Riedl, Mark.* arXiv preprint arXiv:2305.14718, 2023. [[abs](https://arxiv.org/abs/2305.14718)]
+15. **Training language models with language feedback at scale** *Scheurer, J\'e.* arXiv preprint arXiv:2303.16755, 2023. [[abs](https://arxiv.org/abs/2303.16755)]
+16. **Slic-hf: Sequence likelihood calibration with human feedback** *Zhao, Yao, Joshi, Rishabh, Liu, Tianqi, Khalman, Misha, Saleh, Mohammad, Liu, Peter J.* arXiv preprint arXiv:2305.10425, 2023. [[abs](https://arxiv.org/abs/2305.10425)]
+17. **Principle-driven self-alignment of language models from scratch with minimal human supervision** *Sun, Zhiqing, Shen, Yikang, Zhou, Qinhong, Zhang, Hongxin, Chen, Zhenfang, Cox, David, Yang, Yiming, Gan, Chuang.* arXiv preprint arXiv:2305.03047, 2023. [[abs](https://arxiv.org/abs/2305.03047)]
+18. **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs** *Aky\"u.* arXiv preprint arXiv:2305.08844, 2023. [[abs](https://arxiv.org/abs/2305.08844)]
+19. **Aligning language models with preferences through f-divergence minimization** *Go, Dongyoung, Korbak, Tomasz, Kruszewski, Germ\'a.* arXiv preprint arXiv:2302.08215, 2023. [[abs](https://arxiv.org/abs/2302.08215)]
+20. **A general theoretical paradigm to understand learning from human preferences** *Azar, Mohammad Gheshlaghi, Rowland, Mark, Piot, Bilal, Guo, Daniel, Calandriello, Daniele, Valko, Michal, Munos, R\'e.* arXiv preprint arXiv:2310.12036, 2023. [[abs](https://arxiv.org/abs/2310.12036)]
+21. **Let's Verify Step by Step** *Lightman, Hunter, Kosaraju, Vineet, Burda, Yura, Edwards, Harri, Baker, Bowen, Lee, Teddy, Leike, Jan, Schulman, John, Sutskever, Ilya, Cobbe, Karl.* arXiv preprint arXiv:2305.20050, 2023. [[abs](https://arxiv.org/abs/2305.20050)]
+22. **AI safety via market making.** *Evan Hubinger.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+23. **Principled Reinforcement Learning with Human Feedback from Pairwise or $ K $-wise Comparisons** *Zhu, Banghua, Jiao, Jiantao, Jordan, Michael I.* arXiv preprint arXiv:2301.11270, 2023. [[abs](https://arxiv.org/abs/2301.11270)]
+24. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[abs](https://arxiv.org/abs/2307.15217)]
+25. **Aligning Large Language Models through Synthetic Feedback** *Kim, Sungdong, Bae, Sanghwan, Shin, Jamin, Kang, Soyoung, Kwak, Donghyun, Yoo, Kang Min, Seo, Minjoon.* arXiv preprint arXiv:2305.13735, 2023. [[abs](https://arxiv.org/abs/2305.13735)]
+26. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan, Yongjun He, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, Ce Zhang.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01288)]
+27. **Rlaif: Scaling reinforcement learning from human feedback with ai feedback** *Lee, Harrison, Phatale, Samrat, Mansoor, Hassan, Lu, Kellie, Mesnard, Thomas, Bishop, Colton, Carbune, Victor, Rastogi, Abhinav.* arXiv preprint arXiv:2309.00267, 2023. [[abs](https://arxiv.org/abs/2309.00267)]
+28. **Preference ranking optimization for human alignment** *Song, Feifan, Yu, Bowen, Li, Minghao, Yu, Haiyang, Huang, Fei, Li, Yongbin, Wang, Houfeng.* arXiv preprint arXiv:2306.17492, 2023. [[abs](https://arxiv.org/abs/2306.17492)]
+29. **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Du, Yilun, Li, Shuang, Torralba, Antonio, Tenenbaum, Joshua B, Mordatch, Igor.* arXiv preprint arXiv:2305.14325, 2023. [[abs](https://arxiv.org/abs/2305.14325)]
+30. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[abs](https://arxiv.org/abs/2309.15025)]
+31. **Direct preference optimization: Your language model is secretly a reward model** *Rafailov, Rafael, Sharma, Archit, Mitchell, Eric, Manning, Christopher D, Ermon, Stefano, Finn, Chelsea.* Advances in Neural Information Processing Systems, 2024.
+32. **Self-play fine-tuning converts weak language models to strong language models** *Chen, Zixiang, Deng, Yihe, Yuan, Huizhuo, Ji, Kaixuan, Gu, Quanquan.* arXiv preprint arXiv:2401.01335, 2024. [[abs](https://arxiv.org/abs/2401.01335)]
+33. **Guiding large language models via directional stimulus prompting** *Li, Zekun, Peng, Baolin, He, Pengcheng, Galley, Michel, Gao, Jianfeng, Yan, Xifeng.* Advances in Neural Information Processing Systems, 2024. [[abs](https://arxiv.org/abs/2302.11520)]
+34. **Lima: Less is more for alignment** *Zhou, Chunting, Liu, Pengfei, Xu, Puxin, Iyer, Srinivasan, Sun, Jiao, Mao, Yuning, Ma, Xuezhe, Efrat, Avia, Yu, Ping, Yu, Lili, others.* Advances in Neural Information Processing Systems, 2024. [[abs](https://arxiv.org/abs/2305.11206)]
+
+### 5.3 How to approach AGI Alignments
 
 ## 6. Approach AGI Responsibly
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
@@ -352,7 +388,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 9. **Harnessing Biomedical Literature to Calibrate Clinicians’ Trust in AI Decision Support Systems**
    *Qian Yang, Yuexing Hao, Kexin Quan, Stephen Yang, Yiran Zhao, Volodymyr Kuleshov, Fei Wang*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581393)]
 10. **AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**
-   *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
+      *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
 11. **Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows**
     *Madeleine Grunde-McLaughlin, Michelle S. Lam, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer*. arXiv, 2023. [[paper](http://arxiv.org/abs/2312.11681)]
 12. **Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts**
