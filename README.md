@@ -54,19 +54,34 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 2. AGI Internal: Unveiling the Mind of AGI
 ### 2.1 Perception
 ### 2.2 Reasoning
-1. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.04406)]
-2. **Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents**
-   *Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.01560)]
-3. **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**  *Zirui Zhao, Wee Sun Lee, David Hsu.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14078)]
-4. **Tree of thoughts: Deliberate problem solving with large language models**  *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L Griffiths, Yuan Cao, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.10601)]
+1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. *Jason Wei* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
+4. **Decomposed Prompting: A Modular Approach for Solving Complex Tasks**. *Tushar Khot* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2210.02406)]
+5. **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**. *Maarten Sap* et al. EMNLP 2022. [[paper](https://arxiv.org/abs/2210.13312)]
+6. **Inner Monologue: Embodied Reasoning through Planning with Language Models**. *Wenlong Huang* et al. CoRL 2022. [[paper](https://arxiv.org/abs/2207.05608)]
+7. **Survey of Hallucination in Natural Language Generation**. *Ziwei Ji* et al. ACM Computing Surveys 2022. [[paper](https://arxiv.org/abs/2202.03629)]
+8. **ReAct: Synergizing Reasoning and Acting in Language Models**. *Shunyu Yao* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)]
+3. **Complexity-Based Prompting for Multi-Step Reasoning**. *Yao Fu* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2210.00720)]
+7. **Towards Reasoning in Large Language Models: A Survey**. *Jie Huang* et al. ACL Findings 2023. [[paper](https://arxiv.org/abs/2212.10403)]
+9. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**. *Denny Zhou* et al. ICLR 2023. [[paper](https://arxiv.org/abs/2205.10625)]
+10. **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**. *Ishika Singh* et al. ICRA 2023. [[paper](https://arxiv.org/abs/2209.11302)]
+11. **Reasoning with Language Model is Planning with World Model**. *Shibo Hao* et al. EMNLP 2023. [[paper](https://arxiv.org/abs/2305.14992)]
+12. **Evaluating Object Hallucination in Large Vision-Language Models**. *Yifan Li* et al. EMNLP 2023. [[paper](https://arxiv.org/abs/2305.10355)]
+13. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**. *Shunyu Yao* et al. NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.10601)]
+14. **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**. *Zihao Wang* et al. NeurIPS 2023. [[paper](https://arxiv.org/abs/2302.01560)]
+15. **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**. *Bo Liu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.11477)]
+16. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**. *Zhiting Hu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.05230)]
+17. **MMToM-QA: Multimodal Theory of Mind Question Answering**. *Chuanyang Jin* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.08743)]
+18. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)]
 
 ### 2.3 Memory
-1. **Dense passage retrieval for open-domain question answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
-2. **Retrieval-augmented generation for knowledge-intensive nlp tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
-4. **Retrieval augmented language model pre-training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
-5. **Retrieval augmentation reduces hallucination in conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
-6. **Improving language models by retrieving from trillions of tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
-7. **Flashattention: Fast and memory-efficient exact attention with io-awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
+2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
+3. **REALM: Retrieval-Augmented Language Model Pre-Training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
+4. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
+5. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
+6. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+7. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. UIST 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+8. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
@@ -164,6 +179,22 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 7. Case Studies
 ### 7.1 AI for Science Discovery and Research
 ### 7.2 Generative Visual Intelligence
+1. **Deep Unsupervised Learning using Nonequilibrium Thermodynamics**. *Jascha Sohl-Dickstein* et al. ICML 2015. [[paper](https://arxiv.org/abs/1503.03585)]
+2. **Generative Modeling by Estimating Gradients of the Data Distribution**. *Yang Song* et al. NeurIPS 2019. [[paper](https://arxiv.org/abs/1907.05600)]
+3. **Denoising Diffusion Probabilistic Models**. *Jonathan Ho* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2006.11239)]
+4. **Score-Based Generative Modeling through Stochastic Differential Equations**. *Yang Song* et al. ICLR 2021. [[paper](https://arxiv.org/abs/2011.13456)]
+5. **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**. *Alex Nichol* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2112.10741)]
+6. **SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations**. *Chenlin Meng* et al. ICLR 2022. [[paper](https://arxiv.org/abs/2108.01073)]
+7. **Video Diffusion Models**. *Jonathan Ho* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2204.03458)]
+8. **Hierarchical Text-Conditional Image Generation with CLIP Latents**. *Aditya Ramesh* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2204.06125)]
+9. **Classifier-Free Diffusion Guidance**. *Jonathan Ho* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2207.12598)]
+10. **Palette: Image-to-Image Diffusion Models**. *Chitwan Saharia* et al. SIGGRAPH 2022. [[paper](https://arxiv.org/abs/2111.05826)]
+11. **High-Resolution Image Synthesis with Latent Diffusion Models**. *Robin Rombach* et al. CVPR 2022. [[paper](https://arxiv.org/abs/2112.10752)]
+12. **Adding Conditional Control to Text-to-Image Diffusion Models**. *Lvmin Zhang* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2302.05543)]
+13. **Scalable Diffusion Models with Transformers**. *William Peebles* et al. ICCV 2023. [[paper](https://arxiv.org/abs/2212.09748)]
+14. **Sequential Modeling Enables Scalable Learning for Large Vision Models**. *Yutong Bai* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.00785)]
+15. **Video Generation Models as World Simulators**. *Tim Brooks* et al. OpenAI 2024. [[paper](https://openai.com/research/video-generation-models-as-world-simulators)]
+
 ### 7.3 World Models
 ### 7.4 Decentralized LLM
 ### 7.5 AI for Coding
