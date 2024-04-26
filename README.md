@@ -151,7 +151,6 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     *Stephanie Valencia, Richard Cave, Krystal Kallarackal, Katie Seaver, Michael Terry, Shaun K. Kane*. CHI 2023. [[Paper](https://dl.acm.org/doi/10.1145/3544548.3581560)]
 
 16. **Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design**
-
     *Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman*. CHI 2020. [[Paper](https://dl.acm.org/doi/10.1145/3313831.3376301)]
 
 ## 4. AGI Systems: Implementing the Mechanism of AGI
