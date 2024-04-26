@@ -169,6 +169,40 @@ Must-read Papers on Artifical General Intelligence with foundation models.
    *Stuart Russell*. Viking, 2019.
 2. **Artificial Intelligence, Values and Alignment**
    *Iason Gabriel*. Minds and Machines, 2020. [[paper](http://arxiv.org/abs/2001.09768)]
+3. **Alignment of Language Agents**
+   *Zachary Kenton, Tom Everitt, Laura Weidinger, Iason Gabriel, Vladimir Mikulik, Geoffrey Irving*. arXiv, 2021. [[Paper](http://arxiv.org/abs/2103.14659)]
+4. **The Value Learning Problem** 
+   *Nate Soares*. Machine Intelligence Research Institute Technical Report [[paper](https://intelligence.org/files/ValueLearningProblem.pdf)]
+5. **Concrete Problems in AI Safety**
+   *Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané*. arXiv, 2016. [[paper](http://arxiv.org/abs/1606.06565)]
+6. **Ethical and social risks of harm from Language Models**
+   *Laura Weidinger, John Mellor, Maribeth Rauh, Conor Griffin, Jonathan Uesato, Po-Sen Huang, Myra Cheng, Mia Glaese, Borja Balle, Atoosa Kasirzadeh, Zac Kenton, Sasha Brown, Will Hawkins, Tom Stepleton, Courtney Biles, Abeba Birhane, Julia Haas, Laura Rimell, Lisa Anne Hendricks, William Isaac, Sean Legassick, Geoffrey Irving, Iason Gabriel*. arXiv, 2021. [[paper](http://arxiv.org/abs/2112.04359)]
+7. **On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?**
+   *Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell*. FAccT 2021. [[paper](https://dl.acm.org/doi/10.1145/3442188.3445922)]
+8. **The global landscape of AI ethics guidelines**
+   *Anna Jobin, Marcello Ienca, Effy Vayena*. Nature Machine Intelligence, 2019. [[paper](https://www.nature.com/articles/s42256-019-0088-2)]
+9. **Persistent Anti-Muslim Bias in Large Language Models**
+   *Abubakar Abid, Maheen Farooqi, James Zou*. AIES, 2021. [[paper](http://arxiv.org/abs/2101.05783)]
+10. **Toward Gender-Inclusive Coreference Resolution**
+   *Yang Trista Cao, Hal Daumé III*. ACL, 2020. [[paper](https://aclanthology.org/2020.acl-main.418)]
+11. **The Social Impact of Natural Language Processing**
+    *Dirk Hovy, Shannon L. Spruit*. ACL 2016. [[paper](https://aclanthology.org/P16-2096)]
+12. **TruthfulQA: Measuring How Models Mimic Human Falsehoods**
+    *Stephanie Lin, Jacob Hilton, Owain Evans*. ACL 2022. [[paper](https://aclanthology.org/2022.acl-long.229)]
+13. **The Radicalization Risks of GPT-3 and Advanced Neural Language Models**
+    *Kris McGuffie, Alex Newhouse*. arXiv, 2020. [[paper](http://arxiv.org/abs/2009.06807)]
+14. **AI Transparency in the Age of LLMs: A Human-Centered Research Roadmap**
+    *Q. Vera Liao, Jennifer Wortman Vaughan*. arXiv 2023. [[paper](http://arxiv.org/abs/2306.01941)]
+15. **Beyond Expertise and Roles: A Framework to Characterize the Stakeholders of Interpretable Machine Learning and their Needs**
+    *Harini Suresh, Steven R. Gomez, Kevin K. Nam, Arvind Satyanarayan*. CHI 2021. [[paper](https://dl.acm.org/doi/10.1145/3411764.3445088)]
+16. **Identifying and Mitigating the Security Risks of Generative AI**
+    *Clark Barrett, Brad Boyd, Elie Burzstein, Nicholas Carlini, Brad Chen, Jihye Choi, Amrita Roy Chowdhury, Mihai Christodorescu, Anupam Datta, Soheil Feizi, Kathleen Fisher, Tatsunori Hashimoto, Dan Hendrycks, Somesh Jha, Daniel Kang, Florian Kerschbaum, Eric Mitchell, John Mitchell, Zulfikar Ramzan, Khawaja Shams, Dawn Song, Ankur Taly, Diyi Yang*. arXiv, 2023. [[paper](http://arxiv.org/abs/2308.14840)]
+17. **LLM Agents can Autonomously Hack Websites**
+    *Richard Fang, Rohan Bindu, Akul Gupta, Qiusi Zhan, Daniel Kang*. arXiv, 2024. [[paper](http://arxiv.org/abs/2402.06664)]
+18. **Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks**
+    *Hao-Ping Lee, Yu-Ju Yang, Thomas Serban von Davier, Jodi Forlizzi, Sauvik Das*. CHI 2024. [[paper](http://arxiv.org/abs/2310.07879)]
+19. **Privacy in the Age of AI**
+    *Sauvik Das, Hao-Ping (Hank) Lee, Jodi Forlizzi*. Communications of the ACM, 2023. [[paper](https://dl.acm.org/doi/10.1145/3625254)]
 
 ### 5.2 AGI Alignment Classifications
 ### 5.3 How to Implement: Solutions for Alignment
