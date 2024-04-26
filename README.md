@@ -124,34 +124,34 @@ Must-read Papers on Artifical General Intelligence with foundation models.
    *Sangho Suh, Meng Chen, Bryan Min, Toby Jia-Jun Li, Haijun Xia*. CHI 2024. [[Paper](http://arxiv.org/abs/2310.12953)]
 
 7. **AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**
-   *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[Paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
+   *Tongshuang Wu, Michael Terry, Carrie Jun Cai*. CHI 2022. [[paper](https://dl.acm.org/doi/10.1145/3491102.3517582)]
 
 8. **Promptify: Text-to-Image Generation through Interactive Prompt Exploration with Large Language Models**
-   *Stephen Brade, Bryan Wang, Mauricio Sousa, Sageev Oore, Tovi Grossman*. CHI 2023. [[Paper](https://dl.acm.org/doi/10.1145/3586183.3606725)]
+   *Stephen Brade, Bryan Wang, Mauricio Sousa, Sageev Oore, Tovi Grossman*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606725)]
 
 9. **ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**
-   *Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena Glassman*. CHI 2024. [[Paper](https://doi.org/10.48550/arXiv.2309.09128)]
+   *Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena Glassman*. CHI 2024. [[paper](https://doi.org/10.48550/arXiv.2309.09128)]
 
 10. **CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming**
-    *Li Feng, Ryan Yen, Yuzhe You, Mingming Fan, Jian Zhao, Zhicong Lu*. CHI 2024. [[Paper](http://arxiv.org/abs/2310.09235)]
+    *Li Feng, Ryan Yen, Yuzhe You, Mingming Fan, Jian Zhao, Zhicong Lu*. CHI 2024. [[paper](http://arxiv.org/abs/2310.09235)]
 
 11. **Generating Automatic Feedback on UI Mockups with Large Language Models**
-    *Peitong Duan, Jeremy Warner, Yang Li, Björn Hartmann*. CHI 2024. [[Paper](http://arxiv.org/abs/2403.13139)]
+    *Peitong Duan, Jeremy Warner, Yang Li, Björn Hartmann*. CHI 2024. [[paper](http://arxiv.org/abs/2403.13139)]
 
 12. **Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation**
-    *Susan Lin, Jeremy Warner, J. D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Björn Hartmann, Can Liu*. CHI 2024. [[Paper](http://arxiv.org/abs/2401.10838)]
+    *Susan Lin, Jeremy Warner, J. D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Björn Hartmann, Can Liu*. CHI 2024. [[paper](http://arxiv.org/abs/2401.10838)]
 
 13. **Embedding Large Language Models into Extended Reality: Opportunities and Challenges for Inclusion, Engagement, and Privacy**
-    *Efe Bozkir, Süleyman Özdel, Ka Hei Carrie Lau, Mengdi Wang, Hong Gao, Enkelejda Kasneci*. arXiv 2024. [[Paper](http://arxiv.org/abs/2402.03907)]
+    *Efe Bozkir, Süleyman Özdel, Ka Hei Carrie Lau, Mengdi Wang, Hong Gao, Enkelejda Kasneci*. arXiv 2024. [[paper](http://arxiv.org/abs/2402.03907)]
 
 14. **GenAssist: Making Image Generation Accessible**
-    *Mina Huh, Yi-Hao Peng, Amy Pavel*. UIST 2023. [[Paper](https://dl.acm.org/doi/10.1145/3586183.3606735)]
+    *Mina Huh, Yi-Hao Peng, Amy Pavel*. UIST 2023. [[paper](https://dl.acm.org/doi/10.1145/3586183.3606735)]
 
 15. **“The less I type, the better”: How AI Language Models can Enhance or Impede Communication for AAC Users**
-    *Stephanie Valencia, Richard Cave, Krystal Kallarackal, Katie Seaver, Michael Terry, Shaun K. Kane*. CHI 2023. [[Paper](https://dl.acm.org/doi/10.1145/3544548.3581560)]
+    *Stephanie Valencia, Richard Cave, Krystal Kallarackal, Katie Seaver, Michael Terry, Shaun K. Kane*. CHI 2023. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581560)]
 
 16. **Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design**
-    *Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman*. CHI 2020. [[Paper](https://dl.acm.org/doi/10.1145/3313831.3376301)]
+    *Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman*. CHI 2020. [[paper](https://dl.acm.org/doi/10.1145/3313831.3376301)]
 
 ## 4. AGI Systems: Implementing the Mechanism of AGI
 ### 4.1 System Challenges
@@ -164,6 +164,12 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ## 5. AGI Alignment: Reconciling Needs with AGI
 ### 5.1 Expectations of AGI Alignment
+
+1. **Human Compatible: Artificial Intelligence and the Problem of Control**
+   *Stuart Russell*. Viking, 2019.
+2. **Artificial Intelligence, Values and Alignment**
+   *Iason Gabriel*. Minds and Machines, 2020. [[paper](http://arxiv.org/abs/2001.09768)]
+
 ### 5.2 AGI Alignment Classifications
 ### 5.3 How to Implement: Solutions for Alignment
 
