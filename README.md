@@ -383,7 +383,40 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 #### 6.1.3 How Do We Get to the Next Level of AGI?
 ### 6.2 AGI Evaluation
 #### 6.2.1 What Do We Expect from AGI Evaluations
+
+1. **Towards the systematic reporting of the energy and carbon footprints of machine learning** *Henderson, Peter, Hu, Jieru, Romoff, Joshua, Brunskill, Emma, Jurafsky, Dan, Pineau, Joelle.* Journal of Machine Learning Research, 2020.
+2. **Green ai** *Schwartz, Roy, Dodge, Jesse, Smith, Noah A, Etzioni, Oren.* Communications of the ACM, 2020.
+3. **Evaluating Large Language Models Trained on Code** *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder, Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens Winter, Philippe Tillet, Felipe Petroski Such, Dave Cummings, Matthias Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss, William Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher Hesse, Andrew N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa, Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, Wojciech Zaremba.* No journal, 2021.
+4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Dodge, Jesse, Sap, Maarten, Marasovi\'c.* arXiv preprint arXiv:2104.08758, 2021. [[abs](https://arxiv.org/abs/2104.08758)]
+5. **On the opportunities and risks of foundation models** *Bommasani, Rishi, Hudson, Drew A, Adeli, Ehsan, Altman, Russ, Arora, Simran, von Arx, Sydney, Bernstein, Michael S, Bohg, Jeannette, Bosselut, Antoine, Brunskill, Emma, others.* arXiv preprint arXiv:2108.07258, 2021. [[abs](https://arxiv.org/abs/2108.07258)]
+6. **Human-like systematic generalization through a meta-learning neural network** *Lake, Brenden M, Baroni, Marco.* Nature, 2023.
+7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+8. **Holistic Evaluation of Language Models** *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.09110)]
+
+
 #### 6.2.2 Current Evaluation Frameworks and Limitations
+
+1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang.* arXiv 2016. [[abs](https://arxiv.org/abs/1606.05250)]
+2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi, Eunsol Choi, Daniel S. Weld, Luke Zettlemoyer.* arXiv 2017. [[abs](https://arxiv.org/abs/1705.03551)]
+3. **Coqa: A conversational question answering challenge** *Reddy, Siva, Chen, Danqi, Manning, Christopher D.* Transactions of the Association for Computational Linguistics, 2019.
+4. **Accurate, reliable and fast robustness evaluation** *Brendel, Wieland, Rauber, Jonas, K\"u.* Advances in neural information processing systems, 2019.
+5. **Measuring massive multitask language understanding** *Hendrycks, Dan, Burns, Collin, Basart, Steven, Zou, Andy, Mazeika, Mantas, Song, Dawn, Steinhardt, Jacob.* arXiv preprint arXiv:2009.03300, 2020. [[abs](https://arxiv.org/abs/2009.03300)]
+6. **Evaluating model robustness and stability to dataset shift** *Subbaswamy, Adarsh, Adams, Roy, Saria, Suchi.* Presented at International conference on artificial intelligence and statistics, 2021. [Link](No URL)
+7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Feng, Jiazhan, Sun, Qingfeng, Xu, Can, Zhao, Pu, Yang, Yaming, Tao, Chongyang, Zhao, Dongyan, Lin, Qingwei.* arXiv preprint arXiv:2211.05719, 2022. [[abs](https://arxiv.org/abs/2211.05719)]
+8. **Self-instruct: Aligning language models with self-generated instructions** *Wang, Yizhong, Kordi, Yeganeh, Mishra, Swaroop, Liu, Alisa, Smith, Noah A, Khashabi, Daniel, Hajishirzi, Hannaneh.* arXiv preprint arXiv:2212.10560, 2022. [[abs](https://arxiv.org/abs/2212.10560)]
+9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Wang, Yizhong, Mishra, Swaroop, Alipoormolabashi, Pegah, Kordi, Yeganeh, Mirzaei, Amirreza, Arunkumar, Anjana, Ashok, Arjun, Dhanasekaran, Arut Selvan, Naik, Atharva, Stap, David, others.* arXiv preprint arXiv:2204.07705, 2022. [[abs](https://arxiv.org/abs/2204.07705)]
+10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges** *Cui, Chenhang, Zhou, Yiyang, Yang, Xinyu, Wu, Shirley, Zhang, Linjun, Zou, James, Yao, Huaxiu.* arXiv preprint arXiv:2311.03287, 2023. [[abs](https://arxiv.org/abs/2311.03287)]
+11. **Evaluating the Robustness to Instructions of Large Language Models** *Ni, Yuansheng, Jiang, Sichao, Shen, Hui, Zhou, Yuli, others.* arXiv preprint arXiv:2308.14306, 2023. [[abs](https://arxiv.org/abs/2308.14306)]
+12. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12983)]
+13. **A comprehensive evaluation framework for deep model robustness** *Guo, Jun, Bao, Wei, Wang, Jiakai, Ma, Yuqing, Gao, Xinghai, Xiao, Gang, Liu, Aishan, Dong, Jian, Liu, Xianglong, Wu, Wenjun.* Pattern Recognition, 2023.
+14. **Agieval: A human-centric benchmark for evaluating foundation models** *Zhong, Wanjun, Cui, Ruixiang, Guo, Yiduo, Liang, Yaobo, Lu, Shuai, Wang, Yanlin, Saied, Amin, Chen, Weizhu, Duan, Nan.* arXiv preprint arXiv:2304.06364, 2023. [[abs](https://arxiv.org/abs/2304.06364)]
+15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Yue, Xiang, Ni, Yuansheng, Zhang, Kai, Zheng, Tianyu, Liu, Ruoqi, Zhang, Ge, Stevens, Samuel, Jiang, Dongfu, Ren, Weiming, Sun, Yuxuan, others.* arXiv preprint arXiv:2311.16502, 2023. [[abs](https://arxiv.org/abs/2311.16502)]
+16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Shanahan, Murray, Clarke, Catherine.* arXiv preprint arXiv:2312.03746, 2023. [[abs](https://arxiv.org/abs/2312.03746)]
+17. **AgentBench: Evaluating LLM** *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang.* Presented at The Twelfth International Conference on Learning Representations, 2024. [Link](https://openreview.net/forum?id=zAdUB0aCTQ)
+18. **Assessing and Understanding Creativity in Large Language Models** *Zhao, Yunpu, Zhang, Rui, Li, Wenyi, Huang, Di, Guo, Jiaming, Peng, Shaohui, Hao, Yifan, Wen, Yuanbo, Hu, Xing, Du, Zidong, others.* arXiv preprint arXiv:2401.12491, 2024. [[abs](https://arxiv.org/abs/2401.12491)]
+19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Zheng, Lianmin, Chiang, Wei-Lin, Sheng, Ying, Zhuang, Siyuan, Wu, Zhanghao, Zhuang, Yonghao, Lin, Zi, Li, Zhuohan, Li, Dacheng, Xing, Eric, others.* Advances in Neural Information Processing Systems, 2024.
+
+
 ### 6.3 Potential Ways to Future AGI
 
 ## 7. Case Studies
