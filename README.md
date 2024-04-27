@@ -102,6 +102,8 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 16. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**. *Zhiting Hu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.05230)]
 17. **MMToM-QA: Multimodal Theory of Mind Question Answering**. *Chuanyang Jin* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.08743)]
 18. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)]
+19. **Self-Refine: Iterative Refinement with Self-Feedback**. *Aman Madaan* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2303.17651)]
+20. **Reflexion: Language Agents with Verbal Reinforcement Learning**. *Noah Shinn* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2303.11366)]
 
 ### 2.3 Memory
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
