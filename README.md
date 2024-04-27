@@ -199,91 +199,90 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 4. AGI Systems: Implementing the Mechanism of AGI
 
 ### 4.2 Scalable Model Architectures
-1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Shazeer, Noam, Mirhoseini, Azalia, Maziarz, Krzysztof, Davis, Andy, Le, Quoc, Hinton, Geoffrey, Dean, Jeff.* arXiv preprint arXiv:1701.06538, 2017. [[abs](https://arxiv.org/abs/1701.06538)]
-2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention** *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret.* arXiv 2020. [[abs](https://arxiv.org/abs/2006.16236)]
-3. **Longformer: The Long-Document Transformer** *Iz Beltagy, Matthew E. Peters, Arman Cohan.* arXiv 2020. [[abs](https://arxiv.org/abs/2004.05150)]
-4. **LightSeq: A High Performance Inference Library for Transformers** *Xiaohui Wang, Ying Xiong, Yang Wei, Mingxuan Wang, Lei Li.* arXiv 2021. [[abs](https://arxiv.org/abs/2010.13887)]
-5. **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** *William Fedus, Barret Zoph, Noam Shazeer.* arXiv 2022. [[abs](https://arxiv.org/abs/2101.03961)]
-6. **Efficiently Modeling Long Sequences with Structured State Spaces** *Albert Gu, Karan Goel, Christopher Ré.* arXiv 2022. [[abs](https://arxiv.org/abs/2111.00396)]
-7. **MegaBlocks: Efficient Sparse Training with Mixture-of-Experts** *Trevor Gale, Deepak Narayanan, Cliff Young, Matei Zaharia.* arXiv 2022. [[abs](https://arxiv.org/abs/2211.15841)]
-8. **Training Compute-Optimal Large Language Models** *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.15556)]
-9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong, Jingyu Liu, Igor Molybog, Hejia Zhang, Prajjwal Bhargava, Rui Hou, Louis Martin, Rashi Rungta, Karthik Abinav Sankararaman, Barlas Oguz, Madian Khabsa, Han Fang, Yashar Mehdad, Sharan Narang, Kshitiz Malik, Angela Fan, Shruti Bhosale, Sergey Edunov, Mike Lewis, Sinong Wang, Hao Ma.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.16039)]
-10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli, Stefano Massaroli, Eric Nguyen, Daniel Y. Fu, Tri Dao, Stephen Baccus, Yoshua Bengio, Stefano Ermon, Christopher Ré.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.10866)]
-11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, Tatsunori B. Hashimoto.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-12. **Rwkv: Reinventing rnns for the transformer era** *Peng, Bo, Alcaide, Eric, Anthony, Quentin, Albalak, Alon, Arcadinho, Samuel, Cao, Huanqi, Cheng, Xin, Chung, Michael, Grella, Matteo, GV, Kranthi Kiran, others.* arXiv preprint arXiv:2305.13048, 2023. [[abs](https://arxiv.org/abs/2305.13048)]
-13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.17157)]
-14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia, Zhen Zheng, Yuchao Li, Donglin Zhuang, Zhongzhu Zhou, Xiafei Qiu, Yong Li, Wei Lin, Shuaiwen Leon Song.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.10285)]
-15. **ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs** *Yujia Zhai, Chengquan Jiang, Leyuan Wang, Xiaoying Jia, Shang Zhang, Zizhong Chen, Xin Liu, Yibo Zhu.* arXiv 2023. [[abs](https://arxiv.org/abs/2210.03052)]
-16. **Tutel: Adaptive Mixture-of-Experts at Scale** *Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, Peng Cheng, Fan Yang, Mao Yang, Yongqiang Xiong.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.03382)]
+1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer et al* arXiv preprint arXiv:1701.06538, 2017. [[abs](https://arxiv.org/abs/1701.06538)]
+2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention** *Angelos Katharopoulos et al.* arXiv 2020. [[abs](https://arxiv.org/abs/2006.16236)]
+3. **Longformer: The Long-Document Transformer** *Iz Beltagy et al.* arXiv 2020. [[abs](https://arxiv.org/abs/2004.05150)]
+4. **LightSeq: A High Performance Inference Library for Transformers** *Xiaohui Wang et al.* arXiv 2021. [[abs](https://arxiv.org/abs/2010.13887)]
+5. **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** *William Fedus et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2101.03961)]
+6. **Efficiently Modeling Long Sequences with Structured State Spaces** *Albert Gu et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2111.00396)]
+7. **MegaBlocks: Efficient Sparse Training with Mixture-of-Experts** *Trevor Gale et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2211.15841)]
+8. **Training Compute-Optimal Large Language Models** *Jordan Hoffmann et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.15556)]
+9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.16039)]
+10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.10866)]
+11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori et al.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng et al.* arXiv preprint arXiv:2305.13048, 2023. [[abs](https://arxiv.org/abs/2305.13048)]
+13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.17157)]
+14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.10285)]
+15. **ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs** *Yujia Zhai et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2210.03052)]
+16. **Tutel: Adaptive Mixture-of-Experts at Scale** *Changho Hwang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.03382)]
 17. **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** *Albert Gu, Tri Dao.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.00752)]
-18. **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** *Daniel Y. Fu, Tri Dao, Khaled K. Saab, Armin W. Thomas, Atri Rudra, Christopher Ré.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.14052)]
-19. **Retentive Network: A Successor to Transformer for Large Language Models** *Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.* ArXiv, 2023.
-20. **Mechanistic Design and Scaling of Hybrid Architectures** *Michael Poli, Armin W Thomas, Eric Nguyen, Pragaash Ponnusamy, Björn Deiseroth, Kristian Kersting, Taiji Suzuki, Brian Hie, Stefano Ermon, Christopher Ré, Ce Zhang, Stefano Massaroli.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.17844)]
+18. **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** *Daniel Y. Fu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.14052)]
+19. **Retentive Network: A Successor to Transformer for Large Language Models** *Yutao Sun et al.* ArXiv, 2023.
+20. **Mechanistic Design and Scaling of Hybrid Architectures** *Michael Poli et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.17844)]
 
 ### 4.3 Large-scale Training
-1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen, Bing Xu, Chiyuan Zhang, Carlos Guestrin.* arXiv 2016. [[abs](https://arxiv.org/abs/1604.06174)]
-2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia, Matei Zaharia, Alex Aiken.* arXiv 2018. [[abs](https://arxiv.org/abs/1807.05358)]
-3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang, Youlong Cheng, Ankur Bapna, Orhan Firat, Mia Xu Chen, Dehao Chen, HyoukJoong Lee, Jiquan Ngiam, Quoc V. Le, Yonghui Wu, Zhifeng Chen.* arXiv 2019. [[abs](https://arxiv.org/abs/1811.06965)]
-4. **Parameter-efficient transfer learning for NLP** *Houlsby, Neil, Giurgiu, Andrei, Jastrzebski, Stanislaw, Morrone, Bruna, De Laroussilhe, Quentin, Gesmundo, Andrea, Attariyan, Mona, Gelly, Sylvain.* Presented at International conference on machine learning, 2019. [Link](No URL)
-5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro.* arXiv 2020. [[abs](https://arxiv.org/abs/1909.08053)]
-6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng, Zhuohan Li, Hao Zhang, Yonghao Zhuang, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica.* arXiv 2022. [[abs](https://arxiv.org/abs/2201.12023)]
-7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.00032)]
-8. **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models** *Kushal Tirumala, Aram H. Markosyan, Luke Zettlemoyer, Armen Aghajanyan.* arXiv 2022. [[abs](https://arxiv.org/abs/2205.10770)]
-9. **SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient** *Max Ryabinin, Tim Dettmers, Michael Diskin, Alexander Borzunov.* arXiv 2023. [[abs](https://arxiv.org/abs/2301.11913)]
-10. **Training Trajectories of Language Models Across Scales** *Mengzhou Xia, Mikel Artetxe, Chunting Zhou, Xi Victoria Lin, Ramakanth Pasunuru, Danqi Chen, Luke Zettlemoyer, Ves Stoyanov.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.09803)]
-11. **HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment** *Youhe Jiang, Ran Yan, Xiaozhe Yao, Beidi Chen, Binhang Yuan.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.11514)]
-12. **FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs** *Zhenheng Tang, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, Kaiyong Zhao, Shaohuai Shi, Bingsheng He, Xiaowen Chu.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.01172)]
-13. **Ring Attention with Blockwise Transformers for Near-Infinite Context** *Hao Liu, Matei Zaharia, Pieter Abbeel.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.01889)]
-14. **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling** *Stella Biderman, Hailey Schoelkopf, Quentin Anthony, Herbie Bradley, Kyle O'Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar van der Wal.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01373)]
-15. **Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees** *Jue Wang, Binhang Yuan, Luka Rimanic, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, Ce Zhang.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01299)]
-16. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** *Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.16199)]
-17. **QLoRA: Efficient Finetuning of Quantized LLMs** *Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14314)]
-18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.06180)]
-19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li, Zhigang Ji, Yong Li, Wei Lin.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.02669)]
-20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A. Smith, Hannaneh Hajishirzi.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.00838)]
+1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen et al.* arXiv 2016. [[abs](https://arxiv.org/abs/1604.06174)]
+2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia et al.* arXiv 2018. [[abs](https://arxiv.org/abs/1807.05358)]
+3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang et al.* arXiv 2019. [[abs](https://arxiv.org/abs/1811.06965)]
+4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* Presented at International conference on machine learning, 2019. [Link](No URL)
+5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi et al.* arXiv 2020. [[abs](https://arxiv.org/abs/1909.08053)]
+6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2201.12023)]
+7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.00032)]
+8. **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models** *Kushal Tirumala et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2205.10770)]
+9. **SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient** *Max Ryabinin et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2301.11913)]
+10. **Training Trajectories of Language Models Across Scales** *Mengzhou Xia et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.09803)]
+11. **HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment** *Youhe Jiang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.11514)]
+12. **FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs** *Zhenheng Tang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.01172)]
+13. **Ring Attention with Blockwise Transformers for Near-Infinite Context** *Hao Liu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.01889)]
+14. **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling** *Stella Biderman et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01373)]
+15. **Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees** *Jue Wang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01299)]
+16. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** *Renrui Zhang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.16199)]
+17. **QLoRA: Efficient Finetuning of Quantized LLMs** *Tim Dettmers et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14314)]
+18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.06180)]
+19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.02669)]
+20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.00838)]
 
 ### 4.4 Inference Techniques
 1. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
-2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.08168)]
-3. **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems** *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.15234)]
-4. **FlashDecoding++: Faster Large Language Model Inference on GPUs** *Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong, Yu Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.01282)]
-5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan, Matan Kalman, Yossi Matias.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.17192)]
-6. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.06180)]
-7. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu, Yinmin Zhong, Zili Zhang, Gang Huang, Xuanzhe Liu, Xin Jin.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05920)]
-8. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng, Shiyi Cao, Dacheng Li, Coleman Hooper, Nicholas Lee, Shuo Yang, Christopher Chou, Banghua Zhu, Lianmin Zheng, Kurt Keutzer, Joseph E. Gonzalez, Ion Stoica.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.03285)]
-9. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-10. **Punica: Multi-Tenant LoRA Serving** *Lequn Chen, Zihao Ye, Yongji Wu, Danyang Zhuo, Luis Ceze, Arvind Krishnamurthy.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.18547)]
-11. **S$^3** *Yunho Jin, Chun-Feng Wu, David Brooks, Gu-Yeon Wei.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.06000)]
-12. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-13. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-14. **FasterTransformer** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-15. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes, Masahiro Tanaka, Michael Wyatt, Ammar Ahmad Awan, Jeff Rasley, Samyam Rajbhandari, Reza Yazdani Aminabadi, Heyang Qin, Arash Bakhtiari, Lev Kurilenko, Yuxiong He.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.08671)]
-16. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.09781)]
-17. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.10774)]
+2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Jun Zhang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.08168)]
+3. **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems** *Xupeng Miao et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.15234)]
+4. **FlashDecoding++: Faster Large Language Model Inference on GPUs** *Ke Hong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.01282)]
+5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.17192)]
+6. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05920)]
+7. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.03285)]
+8. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+9.  **Punica: Multi-Tenant LoRA Serving** *Lequn Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.18547)]
+10. **S$^3: Increasing GPU Utilization during Generative Inference for Higher Throughput** *Yunho Jin et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.06000)]
+11. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+12. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+13. **FasterTransformer** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+14. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.08671)]
+15. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.09781)]
+16. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.10774)]
 
 
 ### 4.5 Cost and Efficiency
 
-1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *No author.* No journal, No year.
-2. **Automated Machine Learning: Methods, Systems, Challenges** *Hutter, Frank, Kotthoff, Lars, Vanschoren, Joaquin.* Springer Publishing Company, Incorporated, 2019.
-3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.05482)]
-4. **Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines** *Bojan Karlaš, David Dao, Matteo Interlandi, Bo Li, Sebastian Schelter, Wentao Wu, Ce Zhang.* arXiv 2022. [[abs](https://arxiv.org/abs/2204.11131)]
-5. **Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference** *Chi Wang, Susan Xueqing Liu, Ahmed H. Awadallah.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.04673)]
-6. **Large Language Models Are Human-Level Prompt Engineers** *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.01910)]
-7. **Merging by Matching Models in Task Subspaces** *Derek Tam, Mohit Bansal, Colin Raffel.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.04339)]
-8. **Editing Models with Task Arithmetic** *Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.04089)]
-9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik, Edward Bergman, Carl Hvarfner, Danny Stoll, Maciej Janowski, Marius Lindauer, Luigi Nardi, Frank Hutter.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.12370)]
-10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung, Linjie Li, Kevin Lin, Zhe Gan, Mohit Bansal, Lijuan Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.14933)]
-11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Khattab, Omar, Singhvi, Arnav, Maheshwari, Paridhi, Zhang, Zhiyuan, Santhanam, Keshav, Vardhamanan, Sri, Haq, Saiful, Sharma, Ashutosh, Joshi, Thomas T., Moazam, Hanna, Miller, Heather, Zaharia, Matei, Potts, Christopher.* arXiv preprint arXiv:2310.03714, 2023. [[abs](https://arxiv.org/abs/2310.03714)]
-12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen, Matei Zaharia, James Zou.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05176)]
-13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.08644)]
-14. **AIOS: LLM Agent Operating System** *Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.16971)]
-15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, Min Lin.* arXiv 2024. [[abs](https://arxiv.org/abs/2307.13269)]
-16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede, Difan Deng, Theresa Eimer, Joseph Giovanelli, Aditya Mohan, Tim Ruhkopf, Sarah Segel, Daphne Theodorakopoulos, Tanja Tornede, Henning Wachsmuth, Marius Lindauer.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
+1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *Omar Khattab et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.14024)]
+2. **Automated Machine Learning: Methods, Systems, Challenges** *Frank Hutter et al.* Springer Publishing Company, Incorporated, 2019.
+3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.05482)]
+4. **Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines** *Bojan Karlaš et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2204.11131)]
+5. **Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference** *Chi Wang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.04673)]
+6. **Large Language Models Are Human-Level Prompt Engineers** *Yongchao Zhou et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.01910)]
+7. **Merging by Matching Models in Task Subspaces** *Derek Tam et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.04339)]
+8. **Editing Models with Task Arithmetic** *Gabriel Ilharco et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.04089)]
+9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.12370)]
+10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.14933)]
+11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Omar Khattab et al.* arXiv preprint arXiv:2310.03714, 2023. [[abs](https://arxiv.org/abs/2310.03714)]
+12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05176)]
+13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.08644)]
+14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.16971)]
+15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2307.13269)]
+16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
 
 ### 4.6 Computing Platforms
-1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** *Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Meghan Cowan, Haichen Shen, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy.* arXiv 2018. [[abs](https://arxiv.org/abs/1802.04799)]
-2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** *Norman P. Jouppi, George Kurian, Sheng Li, Peter Ma, Rahul Nagarajan, Lifeng Nai, Nishant Patil, Suvinay Subramanian, Andy Swing, Brian Towles, Cliff Young, Xiang Zhou, Zongwei Zhou, David Patterson.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01433)]
+1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** *Tianqi Chen et al.* arXiv 2018. [[abs](https://arxiv.org/abs/1802.04799)]
+2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** *Norman P. Jouppi et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01433)]
 
 
 ## 5. AGI Alignment: Reconciling Needs with AGI
@@ -384,37 +383,37 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 6.2 AGI Evaluation
 #### 6.2.1 What Do We Expect from AGI Evaluations
 
-1. **Towards the systematic reporting of the energy and carbon footprints of machine learning** *Henderson, Peter, Hu, Jieru, Romoff, Joshua, Brunskill, Emma, Jurafsky, Dan, Pineau, Joelle.* Journal of Machine Learning Research, 2020.
-2. **Green ai** *Schwartz, Roy, Dodge, Jesse, Smith, Noah A, Etzioni, Oren.* Communications of the ACM, 2020.
-3. **Evaluating Large Language Models Trained on Code** *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder, Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens Winter, Philippe Tillet, Felipe Petroski Such, Dave Cummings, Matthias Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss, William Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher Hesse, Andrew N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa, Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, Wojciech Zaremba.* No journal, 2021.
-4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Dodge, Jesse, Sap, Maarten, Marasovi\'c.* arXiv preprint arXiv:2104.08758, 2021. [[abs](https://arxiv.org/abs/2104.08758)]
-5. **On the opportunities and risks of foundation models** *Bommasani, Rishi, Hudson, Drew A, Adeli, Ehsan, Altman, Russ, Arora, Simran, von Arx, Sydney, Bernstein, Michael S, Bohg, Jeannette, Bosselut, Antoine, Brunskill, Emma, others.* arXiv preprint arXiv:2108.07258, 2021. [[abs](https://arxiv.org/abs/2108.07258)]
-6. **Human-like systematic generalization through a meta-learning neural network** *Lake, Brenden M, Baroni, Marco.* Nature, 2023.
-7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-8. **Holistic Evaluation of Language Models** *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel Orr, Lucia Zheng, Mert Yuksekgonul, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.09110)]
+1. **Towards the systematic reporting of the energy and carbon footprints of machine learning** *Peter Henderson et al.* Journal of Machine Learning Research, 2020.
+2. **Green ai** *Roy Schwartz* Communications of the ACM, 2020.
+3. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
+4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv preprint arXiv:2104.08758, 2021. [[abs](https://arxiv.org/abs/2104.08758)]
+5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv preprint arXiv:2108.07258, 2021. [[abs](https://arxiv.org/abs/2108.07258)]
+6. **Human-like systematic generalization through a meta-learning neural network** *Brenden M Lake et al.* Nature, 2023.
+7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023.
+8. **Holistic Evaluation of Language Models** *Percy Liang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.09110)]
 
 
 #### 6.2.2 Current Evaluation Frameworks and Limitations
 
-1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang.* arXiv 2016. [[abs](https://arxiv.org/abs/1606.05250)]
-2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi, Eunsol Choi, Daniel S. Weld, Luke Zettlemoyer.* arXiv 2017. [[abs](https://arxiv.org/abs/1705.03551)]
-3. **Coqa: A conversational question answering challenge** *Reddy, Siva, Chen, Danqi, Manning, Christopher D.* Transactions of the Association for Computational Linguistics, 2019.
-4. **Accurate, reliable and fast robustness evaluation** *Brendel, Wieland, Rauber, Jonas, K\"u.* Advances in neural information processing systems, 2019.
-5. **Measuring massive multitask language understanding** *Hendrycks, Dan, Burns, Collin, Basart, Steven, Zou, Andy, Mazeika, Mantas, Song, Dawn, Steinhardt, Jacob.* arXiv preprint arXiv:2009.03300, 2020. [[abs](https://arxiv.org/abs/2009.03300)]
-6. **Evaluating model robustness and stability to dataset shift** *Subbaswamy, Adarsh, Adams, Roy, Saria, Suchi.* Presented at International conference on artificial intelligence and statistics, 2021. [Link](No URL)
-7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Feng, Jiazhan, Sun, Qingfeng, Xu, Can, Zhao, Pu, Yang, Yaming, Tao, Chongyang, Zhao, Dongyan, Lin, Qingwei.* arXiv preprint arXiv:2211.05719, 2022. [[abs](https://arxiv.org/abs/2211.05719)]
-8. **Self-instruct: Aligning language models with self-generated instructions** *Wang, Yizhong, Kordi, Yeganeh, Mishra, Swaroop, Liu, Alisa, Smith, Noah A, Khashabi, Daniel, Hajishirzi, Hannaneh.* arXiv preprint arXiv:2212.10560, 2022. [[abs](https://arxiv.org/abs/2212.10560)]
-9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Wang, Yizhong, Mishra, Swaroop, Alipoormolabashi, Pegah, Kordi, Yeganeh, Mirzaei, Amirreza, Arunkumar, Anjana, Ashok, Arjun, Dhanasekaran, Arut Selvan, Naik, Atharva, Stap, David, others.* arXiv preprint arXiv:2204.07705, 2022. [[abs](https://arxiv.org/abs/2204.07705)]
-10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges** *Cui, Chenhang, Zhou, Yiyang, Yang, Xinyu, Wu, Shirley, Zhang, Linjun, Zou, James, Yao, Huaxiu.* arXiv preprint arXiv:2311.03287, 2023. [[abs](https://arxiv.org/abs/2311.03287)]
-11. **Evaluating the Robustness to Instructions of Large Language Models** *Ni, Yuansheng, Jiang, Sichao, Shen, Hui, Zhou, Yuli, others.* arXiv preprint arXiv:2308.14306, 2023. [[abs](https://arxiv.org/abs/2308.14306)]
-12. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12983)]
-13. **A comprehensive evaluation framework for deep model robustness** *Guo, Jun, Bao, Wei, Wang, Jiakai, Ma, Yuqing, Gao, Xinghai, Xiao, Gang, Liu, Aishan, Dong, Jian, Liu, Xianglong, Wu, Wenjun.* Pattern Recognition, 2023.
-14. **Agieval: A human-centric benchmark for evaluating foundation models** *Zhong, Wanjun, Cui, Ruixiang, Guo, Yiduo, Liang, Yaobo, Lu, Shuai, Wang, Yanlin, Saied, Amin, Chen, Weizhu, Duan, Nan.* arXiv preprint arXiv:2304.06364, 2023. [[abs](https://arxiv.org/abs/2304.06364)]
-15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Yue, Xiang, Ni, Yuansheng, Zhang, Kai, Zheng, Tianyu, Liu, Ruoqi, Zhang, Ge, Stevens, Samuel, Jiang, Dongfu, Ren, Weiming, Sun, Yuxuan, others.* arXiv preprint arXiv:2311.16502, 2023. [[abs](https://arxiv.org/abs/2311.16502)]
-16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Shanahan, Murray, Clarke, Catherine.* arXiv preprint arXiv:2312.03746, 2023. [[abs](https://arxiv.org/abs/2312.03746)]
-17. **AgentBench: Evaluating LLM** *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang.* Presented at The Twelfth International Conference on Learning Representations, 2024. [Link](https://openreview.net/forum?id=zAdUB0aCTQ)
-18. **Assessing and Understanding Creativity in Large Language Models** *Zhao, Yunpu, Zhang, Rui, Li, Wenyi, Huang, Di, Guo, Jiaming, Peng, Shaohui, Hao, Yifan, Wen, Yuanbo, Hu, Xing, Du, Zidong, others.* arXiv preprint arXiv:2401.12491, 2024. [[abs](https://arxiv.org/abs/2401.12491)]
-19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Zheng, Lianmin, Chiang, Wei-Lin, Sheng, Ying, Zhuang, Siyuan, Wu, Zhanghao, Zhuang, Yonghao, Lin, Zi, Li, Zhuohan, Li, Dacheng, Xing, Eric, others.* Advances in Neural Information Processing Systems, 2024.
+1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar et al.* arXiv 2016. [[abs](https://arxiv.org/abs/1606.05250)]
+2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi et al.* arXiv 2017. [[abs](https://arxiv.org/abs/1705.03551)]
+3. **Coqa: A conversational question answering challenge** *Siva Reddy et al.* Transactions of the Association for Computational Linguistics, 2019.
+4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* Advances in neural information processing systems, 2019.
+5. **Measuring massive multitask language understanding** *Dan Hendrycks et al.* arXiv preprint arXiv:2009.03300, 2020. [[abs](https://arxiv.org/abs/2009.03300)]
+6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [Link](No URL)
+7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Jiazhan Feng et al.* arXiv preprint arXiv:2211.05719, 2022. [[abs](https://arxiv.org/abs/2211.05719)]
+8. **Self-instruct: Aligning language models with self-generated instructions** *Yizhong Wang et al.* arXiv preprint arXiv:2212.10560, 2022. [[abs](https://arxiv.org/abs/2212.10560)]
+9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Yizhong Wang et al.* arXiv preprint arXiv:2204.07705, 2022. [[abs](https://arxiv.org/abs/2204.07705)]
+10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges** *Chenhang Cui et al.* arXiv preprint arXiv:2311.03287, 2023. [[abs](https://arxiv.org/abs/2311.03287)]
+11. **Evaluating the Robustness to Instructions of Large Language Models** *Yuansheng Ni et al.* arXiv preprint arXiv:2308.14306, 2023. [[abs](https://arxiv.org/abs/2308.14306)]
+12. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12983)]
+13. **A comprehensive evaluation framework for deep model robustness** *Jun Guo et al.* Pattern Recognition, 2023.
+14. **Agieval: A human-centric benchmark for evaluating foundation models** *Wanjun Zhong et al.* arXiv preprint arXiv:2304.06364, 2023. [[abs](https://arxiv.org/abs/2304.06364)]
+15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Xiang et al.* arXiv preprint arXiv:2311.16502, 2023. [[abs](https://arxiv.org/abs/2311.16502)]
+16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Murray Shanahan et al.* arXiv preprint arXiv:2312.03746, 2023. [[abs](https://arxiv.org/abs/2312.03746)]
+17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* Presented at The Twelfth International Conference on Learning Representations, 2024. [Link](https://openreview.net/forum?id=zAdUB0aCTQ)
+18. **Assessing and Understanding Creativity in Large Language Models** *Yunpu Zhao et al.* arXiv preprint arXiv:2401.12491, 2024. [[abs](https://arxiv.org/abs/2401.12491)]
+19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Lianmin Zheng et al.* Advances in Neural Information Processing Systems, 2024.
 
 
 ### 6.3 Potential Ways to Future AGI
@@ -441,34 +440,34 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 7.3 World Models
 ### 7.4 Decentralized LLM
 
-1. **Petals: Collaborative Inference and Fine-tuning of Large Models** *Borzunov, Alexander, Baranchuk, Dmitry, Dettmers, Tim, Ryabinin, Max, Belkada, Younes, Chumachenko, Artem, Samygin, Pavel, Raffel, Colin.* arXiv preprint arXiv:2209.01188, 2022. [[abs](https://arxiv.org/abs/2209.01188)]
+1. **Petals: Collaborative Inference and Fine-tuning of Large Models** *Alexander Borzunov et al.* arXiv preprint arXiv:2209.01188, 2022. [[abs](https://arxiv.org/abs/2209.01188)]
 2. **Blockchain for Deep Learning: Review and Open Challenges** *The Economic Times.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
-3. **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** *Ying Sheng, Lianmin Zheng, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.06865)]
-4. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan, Yongjun He, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, Ce Zhang.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01288)]
+3. **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** *Ying Sheng et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.06865)]
+4. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01288)]
 
 ### 7.5 AI for Coding
 
-1. **A framework for the evaluation of code generation models** *Ben Allal et al." arXiv. [[abs](https://arxiv.org/abs/No eprint ID)]
-2. **Evaluating Large Language Models Trained on Code** *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder, Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens Winter, Philippe Tillet, Felipe Petroski Such, Dave Cummings, Matthias Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss, William Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher Hesse, Andrew N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa, Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, Wojciech Zaremba.* No journal, 2021.
-3. **Program Synthesis with Large Language Models** *Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, Charles Sutton.* arXiv 2021. [[abs](https://arxiv.org/abs/2108.07732)]
-4. **Competition-level code generation with AlphaCode** *Li, Yujia, Choi, David, Chung, Junyoung, Kushman, Nate, Schrittwieser, Julian, Leblond, Rémi, Eccles, Tom, Keeling, James, Gimeno, Felix, Dal Lago, Agustin, Hubert, Thomas, Choy, Peter, de Masson d’Autume, Cyprien, Babuschkin, Igor, Chen, Xinyun, Huang, Po-Sen, Welbl, Johannes, Gowal, Sven, Cherepanov, Alexey, Molloy, James, Mankowitz, Daniel J., Sutherland Robson, Esme, Kohli, Pushmeet, de Freitas, Nando, Kavukcuoglu, Koray, Vinyals, Oriol.* Science, 2022.
-5. **Efficient Training of Language Models to Fill in the Middle** *Mohammad Bavarian, Heewoo Jun, Nikolas Tezak, John Schulman, Christine McLeavey, Jerry Tworek, Mark Chen.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.14255)]
-6. **SantaCoder: don't reach for the stars!** *Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra.* Mind, 2023.
-7. **StarCoder: may the source be with you!** *Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.06161)]
-8. **Large Language Models for Compiler Optimization** *Chris Cummins, Volker Seeker, Dejan Grubisic, Mostafa Elhoushi, Youwei Liang, Baptiste Roziere, Jonas Gehring, Fabian Gloeckle, Kim Hazelwood, Gabriel Synnaeve, Hugh Leather.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.07062)]
-9. **Textbooks Are All You Need** *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.11644)]
-10. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.14898)]
-11. **Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation** *Benjamin Steenhoek, Michele Tufano, Neel Sundaresan, Alexey Svyatkovskiy.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.02368)]
-12. **InCoder: A Generative Model for Code Infilling and Synthesis** *Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, Ruiqi Zhong, Wen-tau Yih, Luke Zettlemoyer, Mike Lewis.* arXiv 2023. [[abs](https://arxiv.org/abs/2204.05999)]
-13. **Refining Decompiled C Code with Large Language Models** *Wai Kin Wong, Huaijin Wang, Zongjie Li, Zhibo Liu, Shuai Wang, Qiyi Tang, Sen Nie, Shi Wu.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06530)]
-14. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** *Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06770)]
-15. **EvoPrompting: Language Models for Code-Level Neural Architecture Search** *Angelica Chen, David M. Dohan, David R. So.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.14838)]
-16. **Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet** *Saad Ullah, Mingji Han, Saurabh Pujar, Hammond Pearce, Ayse Coskun, Gianluca Stringhini.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.12575)]
-17. **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** *Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.01248)]
-18. **DebugBench: Evaluating Debugging Capability of Large Language Models** *Runchu Tian, Yining Ye, Yujia Qin, Xin Cong, Yankai Lin, Yinxu Pan, Yesai Wu, Zhiyuan Liu, Maosong Sun.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.04621)]
-19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali, Chandra Maddila, Imad Ahmad, Michael Bolin, Daniel Cheng, Negar Ghorbani, Renuka Fernandez, Nachiappan Nagappan, Peter C. Rigby.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.12050)]
-20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Romain Sauvestre, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve.* arXiv 2024. [[abs](https://arxiv.org/abs/2308.12950)]
-21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Li, Jinyang, Hui, Binyuan, Qu, Ge, Yang, Jiaxi, Li, Binhua, Li, Bowen, Wang, Bailin, Qin, Bowen, Geng, Ruiying, Huo, Nan, others.* Advances in Neural Information Processing Systems, 2024.
+1. **A framework for the evaluation of code generation models** *Ben Allal et al.* arXiv. [[abs](https://arxiv.org/abs/No eprint ID)]
+2. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
+3. **Program Synthesis with Large Language Models** *Jacob Austin et al.* arXiv 2021. [[abs](https://arxiv.org/abs/2108.07732)]
+4. **Competition-level code generation with AlphaCode** *Yujia Li et al.* Science, 2022.
+5. **Efficient Training of Language Models to Fill in the Middle** *Mohammad Bavarian et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.14255)]
+6. **SantaCoder: don't reach for the stars!** *Loubna Ben Allal et al.* Mind, 2023.
+7. **StarCoder: may the source be with you!** *Raymond Li et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.06161)]
+8. **Large Language Models for Compiler Optimization** *Chris Cummins et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.07062)]
+9. **Textbooks Are All You Need** *Suriya Gunasekar et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.11644)]
+10. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** *John Yang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.14898)]
+11. **Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation** *Benjamin Steenhoek et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.02368)]
+12. **InCoder: A Generative Model for Code Infilling and Synthesis** *Daniel Fried et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2204.05999)]
+13. **Refining Decompiled C Code with Large Language Models** *Wai Kin Wong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06530)]
+14. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** *Carlos E et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06770)]
+15. **EvoPrompting: Language Models for Code-Level Neural Architecture Search** *Angelica Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.14838)]
+16. **Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet** *Saad Ullah et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.12575)]
+17. **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** *Ziniu Hu et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.01248)]
+18. **DebugBench: Evaluating Debugging Capability of Large Language Models** *Runchu Tian et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.04621)]
+19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.12050)]
+20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2308.12950)]
+21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Jinyang Li et al.* Advances in Neural Information Processing Systems, 2024.
 
 
 ### 7.6 AI for Robotics in Real World Applications
