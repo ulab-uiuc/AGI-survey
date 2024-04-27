@@ -109,9 +109,8 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 3. **REALM: Retrieval-Augmented Language Model Pre-Training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
 4. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
 5. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
-6. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
-7. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. UIST 2023. [[paper](https://arxiv.org/abs/2304.03442)]
-8. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
+6. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. UIST 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+7. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 
 ### 2.4 Metacognition
 1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
@@ -247,6 +246,27 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 23. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A. Smith, Hannaneh Hajishirzi.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.00838)]
 
 ### 4.4 Inference Techniques
+1. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
+2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.08168)]
+3. **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems** *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Hongyi Jin, Tianqi Chen, Zhihao Jia.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.15234)]
+4. **FlashDecoding++: Faster Large Language Model Inference on GPUs** *Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong, Yu Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.01282)]
+5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan, Matan Kalman, Yossi Matias.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.17192)]
+6. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, Ion Stoica.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.06180)]
+7. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu, Yinmin Zhong, Zili Zhang, Gang Huang, Xuanzhe Liu, Xin Jin.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05920)]
+8. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng, Shiyi Cao, Dacheng Li, Coleman Hooper, Nicholas Lee, Shuo Yang, Christopher Chou, Banghua Zhu, Lianmin Zheng, Kurt Keutzer, Joseph E. Gonzalez, Ion Stoica.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.03285)]
+9. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+10. **Punica: Multi-Tenant LoRA Serving** *Lequn Chen, Zihao Ye, Yongji Wu, Danyang Zhuo, Luis Ceze, Arvind Krishnamurthy.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.18547)]
+11. **S$^3** *Yunho Jin, Chun-Feng Wu, David Brooks, Gu-Yeon Wei.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.06000)]
+12. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+13. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+14. **FasterTransformer** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
+15. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes, Masahiro Tanaka, Michael Wyatt, Ammar Ahmad Awan, Jeff Rasley, Samyam Rajbhandari, Reza Yazdani Aminabadi, Heyang Qin, Arash Bakhtiari, Lev Kurilenko, Yuxiong He.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.08671)]
+16. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Xinhao Cheng, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, Zhihao Jia.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.09781)]
+17. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.10774)]
+
+
+### 4.5 Cost and Efficiency
+
 1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *No author.* No journal, No year.
 2. **Automated Machine Learning: Methods, Systems, Challenges** *Hutter, Frank, Kotthoff, Lars, Vanschoren, Joaquin.* Springer Publishing Company, Incorporated, 2019.
 3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.05482)]
@@ -263,10 +283,6 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 14. **AIOS: LLM Agent Operating System** *Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.16971)]
 15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, Min Lin.* arXiv 2024. [[abs](https://arxiv.org/abs/2307.13269)]
 16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede, Difan Deng, Theresa Eimer, Joseph Giovanelli, Aditya Mohan, Tim Ruhkopf, Sarah Segel, Daphne Theodorakopoulos, Tanja Tornede, Henning Wachsmuth, Marius Lindauer.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
-
-
-### 4.5 Cost and Efficiency
-
 
 ### 4.6 Computing Platforms
 
