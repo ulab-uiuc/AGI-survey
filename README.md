@@ -247,7 +247,27 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 23. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A. Smith, Hannaneh Hajishirzi.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.00838)]
 
 ### 4.4 Inference Techniques
+1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *No author.* No journal, No year.
+2. **Automated Machine Learning: Methods, Systems, Challenges** *Hutter, Frank, Kotthoff, Lars, Vanschoren, Joaquin.* Springer Publishing Company, Incorporated, 2019.
+3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.05482)]
+4. **Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines** *Bojan Karlaš, David Dao, Matteo Interlandi, Bo Li, Sebastian Schelter, Wentao Wu, Ce Zhang.* arXiv 2022. [[abs](https://arxiv.org/abs/2204.11131)]
+5. **Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference** *Chi Wang, Susan Xueqing Liu, Ahmed H. Awadallah.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.04673)]
+6. **Large Language Models Are Human-Level Prompt Engineers** *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.01910)]
+7. **Merging by Matching Models in Task Subspaces** *Derek Tam, Mohit Bansal, Colin Raffel.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.04339)]
+8. **Editing Models with Task Arithmetic** *Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.04089)]
+9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik, Edward Bergman, Carl Hvarfner, Danny Stoll, Maciej Janowski, Marius Lindauer, Luigi Nardi, Frank Hutter.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.12370)]
+10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung, Linjie Li, Kevin Lin, Zhe Gan, Mohit Bansal, Lijuan Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.14933)]
+11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Khattab, Omar, Singhvi, Arnav, Maheshwari, Paridhi, Zhang, Zhiyuan, Santhanam, Keshav, Vardhamanan, Sri, Haq, Saiful, Sharma, Ashutosh, Joshi, Thomas T., Moazam, Hanna, Miller, Heather, Zaharia, Matei, Potts, Christopher.* arXiv preprint arXiv:2310.03714, 2023. [[abs](https://arxiv.org/abs/2310.03714)]
+12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen, Matei Zaharia, James Zou.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05176)]
+13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S, Pranav Ajit Nair, Yashas Samaga, Toby Boyd, Sanjiv Kumar, Prateek Jain, Praneeth Netrapalli.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.08644)]
+14. **AIOS: LLM Agent Operating System** *Kai Mei, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.16971)]
+15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, Min Lin.* arXiv 2024. [[abs](https://arxiv.org/abs/2307.13269)]
+16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede, Difan Deng, Theresa Eimer, Joseph Giovanelli, Aditya Mohan, Tim Ruhkopf, Sarah Segel, Daphne Theodorakopoulos, Tanja Tornede, Henning Wachsmuth, Marius Lindauer.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
+
+
 ### 4.5 Cost and Efficiency
+
+
 ### 4.6 Computing Platforms
 
 ## 5. AGI Alignment: Reconciling Needs with AGI
