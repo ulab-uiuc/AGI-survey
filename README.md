@@ -285,6 +285,9 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede, Difan Deng, Theresa Eimer, Joseph Giovanelli, Aditya Mohan, Tim Ruhkopf, Sarah Segel, Daphne Theodorakopoulos, Tanja Tornede, Henning Wachsmuth, Marius Lindauer.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
 
 ### 4.6 Computing Platforms
+1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** *Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Meghan Cowan, Haichen Shen, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy.* arXiv 2018. [[abs](https://arxiv.org/abs/1802.04799)]
+2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** *Norman P. Jouppi, George Kurian, Sheng Li, Peter Ma, Rahul Nagarajan, Lifeng Nai, Nishant Patil, Suvinay Subramanian, Andy Swing, Brian Towles, Cliff Young, Xiang Zhou, Zongwei Zhou, David Patterson.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01433)]
+
 
 ## 5. AGI Alignment: Reconciling Needs with AGI
 ### 5.1 Expectations of AGI Alignment
