@@ -106,23 +106,29 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
 2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
 3. **REALM: Retrieval-Augmented Language Model Pre-Training**. *Kelvin Guu* et al. ICML 2020. [[paper](https://arxiv.org/abs/2002.08909)]
-4. **Editing Factual Knowledge in Language Models**. *Nicola De Cao* et al. EMNLP 2021. [[paper](https://arxiv.org/abs/2104.08164)]
-5. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
-6. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
-7. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. UIST 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+4. **Retrieval Augmentation Reduces Hallucination in Conversation**. *Kurt Shuster* et al. EMNLP Findings 2021. [[paper](https://arxiv.org/abs/2104.07567)]
+5. **Improving Language Models by Retrieving from Trillions of Tokens**. *Sebastian Borgeaud* et al. ICML 2022. [[paper](https://arxiv.org/abs/2112.04426)]
+6. **Generative Agents: Interactive Simulacra of Human Behavior**. *Joon Sung Park* et al. UIST 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+7. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 8. **Voyager: An Open-Ended Embodied Agent with Large Language Models**. *Guanzhi Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.16291)]
-9. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
-10. **A Survey on the Memory Mechanism of Large Language Model based Agents**. *Zeyu Zhang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.13501)] 
+9. **A Survey on the Memory Mechanism of Large Language Model based Agents**. *Zeyu Zhang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.13501)]
 
 ### 2.4 Metacognition
-1. **Evolving Self-supervised Neural Networks: Autonomous Intelligence from Evolved Self-teaching**
-   *Nam Le.* arXiv, 2019. [\[eprint\]](https://arxiv.org/abs/1906.08865)
-2. **Self-Instruct: Aligning Language Models with Self-Generated Instructions**
-   *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* arXiv, 2022. [[eprint](https://arxiv.org/abs/2212.10560)]
-3. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
-   *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* arXiv, 2023. [\[eprint\]](https://arxiv.org/abs/2312.10003)
-4. **Wizardlm: Empowering large language models to follow complex instructions**
-   *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* arXiv, 2023. [[abs](https://arxiv.org/abs/2304.12244)]
+1. **Does the chimpanzee have a theory of mind?** *Premack, David, Woodruff, Guy.* Behavioral and brain sciences, 1978. [[link](https://www.researchgate.net/profile/Guy-Woodruff/publication/232003352_Does_a_chimpanzee_have_a_theory_of_mind/links/61e7fad48d338833e37df26a/Does-a-chimpanzee-have-a-theory-of-mind.pdf)]
+2. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning** *Choudrie, Jyoti, Selamat, Mohamad.* HICSS, 2006. [[link](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
+3. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching** *Nam Le.* arXiv 2019. [[abs](https://arxiv.org/abs/1906.08865)]
+4. **Making pre-trained language models better few-shot learners** *Gao, Tianyu, Fisch, Adam, Chen, Danqi.* arXiv preprint arXiv:2012.15723, 2020. [[abs](https://arxiv.org/abs/2012.15723)]
+5. **Evaluating and Inducing Personality in Pre-trained Language Models** *Jiang, Guangyuan, Xu, Manjie, Zhu, Song-Chun, Han, Wenjuan, Zhang, Chi, Zhu, Yixin.* NeurIPS, 2024. [[link](https://proceedings.neurips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf)]
+6. **Identifying and manipulating the personality traits of language models** *Caron, Graham, Srivastava, Shashank.* arXiv preprint arXiv:2212.10276, 2022. [[abs](https://arxiv.org/abs/2212.10276)]
+7. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can, Sun, Qingfeng, Zheng, Kai, Geng, Xiubo, Zhao, Pu, Feng, Jiazhan, Tao, Chongyang, Jiang, Daxin.* arXiv preprint arXiv:2304.12244, 2023. [[abs](https://arxiv.org/abs/2304.12244)]
+8. **Self-Instruct: Aligning Language Models with Self-Generated Instructions** *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.10560)]
+9. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent** *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.10003)]
+10. **The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?** *Jin, Chuanyang, Zhang, Songyang, Shu, Tianmin, Cui, Zhihan.* arXiv preprint arXiv:2308.14242, 2023. [[abs](https://arxiv.org/abs/2308.14242)]
+11. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness** *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen.* arXiv 2023. [[abs](https://arxiv.org/abs/2308.08708)]
+12. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[abs](https://arxiv.org/abs/2305.16291)]
+13. **ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models** *Huang, Jen-tse, Wang, Wenxuan, Lam, Man Ho, Li, Eric John, Jiao, Wenxiang, Lyu, Michael R.* arXiv preprint arXiv:2305.19926, 2023. [[abs](https://arxiv.org/abs/2305.19926)]
+14. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[abs](https://arxiv.org/abs/2311.02462)]
+15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution** *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.13996)]
 
 ## 3. AGI Interface: Connecting the World with AGI
 ### 3.1 Interfaces to Digital World
@@ -601,7 +607,6 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 14. **Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning**
     *Krzysztof Z. Gajos, Lena Mamykina*. IUI 2022. [[paper](https://dl.acm.org/doi/10.1145/3490099.3511138)]
 
-## 8. Conclusion
 
 
 <!-- ### Agent & Tool:
