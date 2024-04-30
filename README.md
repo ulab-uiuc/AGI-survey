@@ -8,29 +8,29 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 - [Awesom-AGI Survey Papers](#awesom-agi-survey-papers)
 - [📜 Content](#content)
-  - [1. Introduction](#1-introduction)
-  - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
+  <!-- - [1. Introduction](#1-introduction) -->
+  - [2. 🧠 AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
     - [2.1 Perception](#21-perception)
     - [2.2 Reasoning](#22-reasoning)
     - [2.3 Memory](#23-memory)
     - [2.4 Metacognition](#24-metacognition)
-  - [3. AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
+  - [3. 🗺️ AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
     - [3.1 Interfaces to Digital World](#31-interfaces-to-digital-world)
     - [3.2 Interfaces to Physical World](#32-interfaces-to-physical-world)
     - [3.3 Interfaces to Intelligence](#33-interfaces-to-intelligence)
       - [3.3.1 Interfaces to AI Agents](#331-interfaces-to-ai-agents)
       - [3.3.2 Interfaces to Human](#332-interfaces-to-human)
-  - [4. AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
+  - [4. 💻 AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
     - [4.2 Scalable Model Architectures](#42-scalable-model-architectures)
     - [4.3 Large-scale Training](#43-large-scale-training)
     - [4.4 Inference Techniques](#44-inference-techniques)
     - [4.5 Cost and Efficiency](#45-cost-and-efficiency)
     - [4.6 Computing Platforms](#46-computing-platforms)
-  - [5. AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
+  - [5. 🫂 AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
     - [5.1 Expectations of AGI Alignment](#51-expectations-of-agi-alignment)
     - [5.2 Current Alignment Techniques](#52-current-alignment-techniques)
     - [5.3 How to approach AGI Alignments](#53-how-to-approach-agi-alignments)
-  - [6. Approach AGI Responsibly](#6-approach-agi-responsibly)
+  - [6. 🦺 Approach AGI Responsibly](#6-approach-agi-responsibly)
     - [6.1 AI Levels: Charting the Evolution of Artificial Intelligence](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
       - [6.1.1 AGI Levels](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
       - [6.1.2 Constraints and Challenges of Ultimate AGI](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
@@ -39,7 +39,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
       - [6.2.1 What Do We Expect from AGI Evaluations](#621-what-do-we-expect-from-agi-evaluations)
       - [6.2.2 Current Evaluation Frameworks and Limitations](#622-current-evaluation-frameworks-and-limitations)
     <!-- - [6.3 Potential Ways to Future AGI](#63-potential-ways-to-future-agi) -->
-  - [7. Case Studies](#7-case-studies)
+  - [7. 📚 Case Studies](#7-case-studies)
     - [7.1 AI for Science Discovery and Research](#71-ai-for-science-discovery-and-research)
     - [7.2 Generative Visual Intelligence](#72-generative-visual-intelligence)
     - [7.3 World Models](#73-world-models)
@@ -48,8 +48,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     - [7.6 AI for Robotics in Real World Applications](#76-ai-for-robotics-in-real-world-applications)
     - [7.7 Human-AI Collaboration](#77-human-ai-collaboration)
 
-
-## 1. Introduction
+<!-- ## 1. Introduction -->
 
 ## 2. AGI Internal: Unveiling the Mind of AGI
 
