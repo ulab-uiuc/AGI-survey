@@ -7,7 +7,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 # 📜Content
 
 - [Awesom-AGI Survey Papers](#awesom-agi-survey-papers)
-- [📜Content](#content)
+- [📜 Content](#content)
   - [1. Introduction](#1-introduction)
   - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
     - [2.1 Perception](#21-perception)
@@ -38,7 +38,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     - [6.2 AGI Evaluation](#62-agi-evaluation)
       - [6.2.1 What Do We Expect from AGI Evaluations](#621-what-do-we-expect-from-agi-evaluations)
       - [6.2.2 Current Evaluation Frameworks and Limitations](#622-current-evaluation-frameworks-and-limitations)
-    - [6.3 Potential Ways to Future AGI](#63-potential-ways-to-future-agi)
+    <!-- - [6.3 Potential Ways to Future AGI](#63-potential-ways-to-future-agi) -->
   - [7. Case Studies](#7-case-studies)
     - [7.1 AI for Science Discovery and Research](#71-ai-for-science-discovery-and-research)
     - [7.2 Generative Visual Intelligence](#72-generative-visual-intelligence)
@@ -56,23 +56,23 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 2.1 Perception
 
 1. **Flamingo: a visual language model for few-shot learning** *Alayrac, Jean-Baptiste, Donahue, Jeff, Luc, Pauline, Miech, Antoine, Barr, Iain, Hasson, Yana, Lenc, Karel, Mensch, Arthur, Millican, Katherine, Reynolds, Malcolm, others.* No journal, 2022.
-2. **Otter: A multi-modal model with in-context instruction tuning** *Li, Bo, Zhang, Yuanhan, Chen, Liangyu, Wang, Jinghao, Yang, Jingkang, Liu, Ziwei.* arXiv preprint arXiv:2305.03726, 2023. [[abs](https://arxiv.org/abs/2305.03726)]
-3. **Videochat: Chat-centric video understanding** *Li, KunChang, He, Yinan, Wang, Yi, Li, Yizhuo, Wang, Wenhai, Luo, Ping, Wang, Yali, Wang, Limin, Qiao, Yu.* arXiv preprint arXiv:2305.06355, 2023. [[abs](https://arxiv.org/abs/2305.06355)]
-4. **mplug-owl: Modularization empowers large language models with multimodality** *Ye, Qinghao, Xu, Haiyang, Xu, Guohai, Ye, Jiabo, Yan, Ming, Zhou, Yiyang, Wang, Junyang, Hu, Anwen, Shi, Pengcheng, Shi, Yaya, others.* arXiv preprint arXiv:2304.14178, 2023. [[abs](https://arxiv.org/abs/2304.14178)]
-5. **A Survey on Multimodal Large Language Models** *Yin, Shukang, Fu, Chaoyou, Zhao, Sirui, Li, Ke, Sun, Xing, Xu, Tong, Chen, Enhong.* arXiv preprint arXiv:2306.13549, 2023. [[abs](https://arxiv.org/abs/2306.13549)]
-6. **Pandagpt: One model to instruction-follow them all** *Su, Yixuan, Lan, Tian, Li, Huayang, Xu, Jialu, Wang, Yan, Cai, Deng.* arXiv preprint arXiv:2305.16355, 2023. [[abs](https://arxiv.org/abs/2305.16355)]
-7. **Minigpt-4: Enhancing vision-language understanding with advanced large language models** *Zhu, Deyao, Chen, Jun, Shen, Xiaoqian, Li, Xiang, Elhoseiny, Mohamed.* arXiv preprint arXiv:2304.10592, 2023. [[abs](https://arxiv.org/abs/2304.10592)]
+2. **Otter: A multi-modal model with in-context instruction tuning** *Li, Bo, Zhang, Yuanhan, Chen, Liangyu, Wang, Jinghao, Yang, Jingkang, Liu, Ziwei.* arXiv preprint arXiv:2305.03726, 2023. [[paper](https://arxiv.org/abs/2305.03726)]
+3. **Videochat: Chat-centric video understanding** *Li, KunChang, He, Yinan, Wang, Yi, Li, Yizhuo, Wang, Wenhai, Luo, Ping, Wang, Yali, Wang, Limin, Qiao, Yu.* arXiv preprint arXiv:2305.06355, 2023. [[paper](https://arxiv.org/abs/2305.06355)]
+4. **mplug-owl: Modularization empowers large language models with multimodality** *Ye, Qinghao, Xu, Haiyang, Xu, Guohai, Ye, Jiabo, Yan, Ming, Zhou, Yiyang, Wang, Junyang, Hu, Anwen, Shi, Pengcheng, Shi, Yaya, others.* arXiv preprint arXiv:2304.14178, 2023. [[paper](https://arxiv.org/abs/2304.14178)]
+5. **A Survey on Multimodal Large Language Models** *Yin, Shukang, Fu, Chaoyou, Zhao, Sirui, Li, Ke, Sun, Xing, Xu, Tong, Chen, Enhong.* arXiv preprint arXiv:2306.13549, 2023. [[paper](https://arxiv.org/abs/2306.13549)]
+6. **Pandagpt: One model to instruction-follow them all** *Su, Yixuan, Lan, Tian, Li, Huayang, Xu, Jialu, Wang, Yan, Cai, Deng.* arXiv preprint arXiv:2305.16355, 2023. [[paper](https://arxiv.org/abs/2305.16355)]
+7. **Minigpt-4: Enhancing vision-language understanding with advanced large language models** *Zhu, Deyao, Chen, Jun, Shen, Xiaoqian, Li, Xiang, Elhoseiny, Mohamed.* arXiv preprint arXiv:2304.10592, 2023. [[paper](https://arxiv.org/abs/2304.10592)]
 8. **Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models** *Li, Junnan, Li, Dongxu, Savarese, Silvio, Hoi, Steven.* No journal, 2023.
-9. **Llama-adapter: Efficient fine-tuning of language models with zero-init attention** *Zhang, Renrui, Han, Jiaming, Zhou, Aojun, Hu, Xiangfei, Yan, Shilin, Lu, Pan, Li, Hongsheng, Gao, Peng, Qiao, Yu.* arXiv preprint arXiv:2303.16199, 2023. [[abs](https://arxiv.org/abs/2303.16199)]
-10. **Visual instruction tuning** *Liu, Haotian, Li, Chunyuan, Wu, Qingyang, Lee, Yong Jae.* arXiv preprint arXiv:2304.08485, 2023. [[abs](https://arxiv.org/abs/2304.08485)]
-11. **Gemini: a family of highly capable multimodal models** *Team, Gemini, Anil, Rohan, Borgeaud, Sebastian, Wu, Yonghui, Alayrac, Jean-Baptiste, Yu, Jiahui, Soricut, Radu, Schalkwyk, Johan, Dai, Andrew M, Hauth, Anja, others.* arXiv preprint arXiv:2312.11805, 2023. [[abs](https://arxiv.org/abs/2312.11805)]
-12. **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic** *Chen, Keqin, Zhang, Zhao, Zeng, Weili, Zhang, Richong, Zhu, Feng, Zhao, Rui.* arXiv preprint arXiv:2306.15195, 2023. [[abs](https://arxiv.org/abs/2306.15195)]
+9. **Llama-adapter: Efficient fine-tuning of language models with zero-init attention** *Zhang, Renrui, Han, Jiaming, Zhou, Aojun, Hu, Xiangfei, Yan, Shilin, Lu, Pan, Li, Hongsheng, Gao, Peng, Qiao, Yu.* arXiv preprint arXiv:2303.16199, 2023. [[paper](https://arxiv.org/abs/2303.16199)]
+10. **Visual instruction tuning** *Liu, Haotian, Li, Chunyuan, Wu, Qingyang, Lee, Yong Jae.* arXiv preprint arXiv:2304.08485, 2023. [[paper](https://arxiv.org/abs/2304.08485)]
+11. **Gemini: a family of highly capable multimodal models** *Team, Gemini, Anil, Rohan, Borgeaud, Sebastian, Wu, Yonghui, Alayrac, Jean-Baptiste, Yu, Jiahui, Soricut, Radu, Schalkwyk, Johan, Dai, Andrew M, Hauth, Anja, others.* arXiv preprint arXiv:2312.11805, 2023. [[paper](https://arxiv.org/abs/2312.11805)]
+12. **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic** *Chen, Keqin, Zhang, Zhao, Zeng, Weili, Zhang, Richong, Zhu, Feng, Zhao, Rui.* arXiv preprint arXiv:2306.15195, 2023. [[paper](https://arxiv.org/abs/2306.15195)]
 13. **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models** *Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Jiao Qiao.* ArXiv, 2023.
-14. **Gpt4tools: Teaching large language model to use tools via self-instruction** *Yang, Rui, Song, Lin, Li, Yanwei, Zhao, Sijie, Ge, Yixiao, Li, Xiu, Shan, Ying.* arXiv preprint arXiv:2305.18752, 2023. [[abs](https://arxiv.org/abs/2305.18752)]
-15. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment** *Zhu, Bin, Lin, Bin, Ning, Munan, Yan, Yang, Cui, Jiaxi, Wang, HongFa, Pang, Yatian, Jiang, Wenhao, Zhang, Junwu, Li, Zongwei, others.* arXiv preprint arXiv:2310.01852, 2023. [[abs](https://arxiv.org/abs/2310.01852)]
-16. **Imagebind: One embedding space to bind them all** *Girdhar, Rohit, El-Nouby, Alaaeldin, Liu, Zhuang, Singh, Mannat, Alwala, Kalyan Vasudev, Joulin, Armand, Misra, Ishan.* Presented at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023. [Link](No URL)
-17. **Mobilevlm: A fast, reproducible and strong vision language assistant for mobile devices** *Chu, Xiangxiang, Qiao, Limeng, Lin, Xinyang, Xu, Shuang, Yang, Yang, Hu, Yiming, Wei, Fei, Zhang, Xinyu, Zhang, Bo, Wei, Xiaolin, others.* arXiv preprint arXiv:2312.16886, 2023. [[abs](https://arxiv.org/abs/2312.16886)]
-18. **What Makes for Good Visual Tokenizers for Large Language Models?** *Wang, Guangzhi, Ge, Yixiao, Ding, Xiaohan, Kankanhalli, Mohan, Shan, Ying.* arXiv preprint arXiv:2305.12223, 2023. [[abs](https://arxiv.org/abs/2305.12223)]
+14. **Gpt4tools: Teaching large language model to use tools via self-instruction** *Yang, Rui, Song, Lin, Li, Yanwei, Zhao, Sijie, Ge, Yixiao, Li, Xiu, Shan, Ying.* arXiv preprint arXiv:2305.18752, 2023. [[paper](https://arxiv.org/abs/2305.18752)]
+15. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment** *Zhu, Bin, Lin, Bin, Ning, Munan, Yan, Yang, Cui, Jiaxi, Wang, HongFa, Pang, Yatian, Jiang, Wenhao, Zhang, Junwu, Li, Zongwei, others.* arXiv preprint arXiv:2310.01852, 2023. [[paper](https://arxiv.org/abs/2310.01852)]
+16. **Imagebind: One embedding space to bind them all** *Girdhar, Rohit, El-Nouby, Alaaeldin, Liu, Zhuang, Singh, Mannat, Alwala, Kalyan Vasudev, Joulin, Armand, Misra, Ishan.* Presented at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023. [paper](No URL)
+17. **Mobilevlm: A fast, reproducible and strong vision language assistant for mobile devices** *Chu, Xiangxiang, Qiao, Limeng, Lin, Xinyang, Xu, Shuang, Yang, Yang, Hu, Yiming, Wei, Fei, Zhang, Xinyu, Zhang, Bo, Wei, Xiaolin, others.* arXiv preprint arXiv:2312.16886, 2023. [[paper](https://arxiv.org/abs/2312.16886)]
+18. **What Makes for Good Visual Tokenizers for Large Language Models?** *Wang, Guangzhi, Ge, Yixiao, Ding, Xiaohan, Kankanhalli, Mohan, Shan, Ying.* arXiv preprint arXiv:2305.12223, 2023. [[paper](https://arxiv.org/abs/2305.12223)]
 
 ### 2.2 Reasoning
 
@@ -111,90 +111,88 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 2.4 Metacognition
 
-1. **Does the chimpanzee have a theory of mind?** *Premack, David, Woodruff, Guy.* Behavioral and brain sciences, 1978. [[link](https://www.researchgate.net/profile/Guy-Woodruff/publication/232003352_Does_a_chimpanzee_have_a_theory_of_mind/links/61e7fad48d338833e37df26a/Does-a-chimpanzee-have-a-theory-of-mind.pdf)]
-2. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning** *Choudrie, Jyoti, Selamat, Mohamad.* HICSS, 2006. [[link](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
-3. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching** *Nam Le.* arXiv 2019. [[abs](https://arxiv.org/abs/1906.08865)]
-4. **Making pre-trained language models better few-shot learners** *Gao, Tianyu, Fisch, Adam, Chen, Danqi.* arXiv preprint arXiv:2012.15723, 2020. [[abs](https://arxiv.org/abs/2012.15723)]
-5. **Evaluating and Inducing Personality in Pre-trained Language Models** *Jiang, Guangyuan, Xu, Manjie, Zhu, Song-Chun, Han, Wenjuan, Zhang, Chi, Zhu, Yixin.* NeurIPS, 2024. [[link](https://proceedings.neurips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf)]
-6. **Identifying and manipulating the personality traits of language models** *Caron, Graham, Srivastava, Shashank.* arXiv preprint arXiv:2212.10276, 2022. [[abs](https://arxiv.org/abs/2212.10276)]
-7. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can, Sun, Qingfeng, Zheng, Kai, Geng, Xiubo, Zhao, Pu, Feng, Jiazhan, Tao, Chongyang, Jiang, Daxin.* arXiv preprint arXiv:2304.12244, 2023. [[abs](https://arxiv.org/abs/2304.12244)]
-8. **Self-Instruct: Aligning Language Models with Self-Generated Instructions** *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.10560)]
-9. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent** *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.10003)]
-10. **The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?** *Jin, Chuanyang, Zhang, Songyang, Shu, Tianmin, Cui, Zhihan.* arXiv preprint arXiv:2308.14242, 2023. [[abs](https://arxiv.org/abs/2308.14242)]
-11. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness** *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen.* arXiv 2023. [[abs](https://arxiv.org/abs/2308.08708)]
-12. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[abs](https://arxiv.org/abs/2305.16291)]
-13. **ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models** *Huang, Jen-tse, Wang, Wenxuan, Lam, Man Ho, Li, Eric John, Jiao, Wenxiang, Lyu, Michael R.* arXiv preprint arXiv:2305.19926, 2023. [[abs](https://arxiv.org/abs/2305.19926)]
-14. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[abs](https://arxiv.org/abs/2311.02462)]
-15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution** *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.13996)]
+1. **Does the chimpanzee have a theory of mind?** *Premack, David, Woodruff, Guy.* Behavioral and brain sciences, 1978. [[paper](https://www.researchgate.net/profile/Guy-Woodruff/publication/232003352_Does_a_chimpanzee_have_a_theory_of_mind/links/61e7fad48d338833e37df26a/Does-a-chimpanzee-have-a-theory-of-mind.pdf)]
+2. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning** *Choudrie, Jyoti, Selamat, Mohamad.* HICSS, 2006. [[paper](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
+3. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching** *Nam Le.* arXiv 2019. [[paper](https://arxiv.org/abs/1906.08865)]
+4. **Making pre-trained language models better few-shot learners** *Gao, Tianyu, Fisch, Adam, Chen, Danqi.* arXiv preprint arXiv:2012.15723, 2020. [[paper](https://arxiv.org/abs/2012.15723)]
+5. **Evaluating and Inducing Personality in Pre-trained Language Models** *Jiang, Guangyuan, Xu, Manjie, Zhu, Song-Chun, Han, Wenjuan, Zhang, Chi, Zhu, Yixin.* NeurIPS, 2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf)]
+6. **Identifying and manipulating the personality traits of language models** *Caron, Graham, Srivastava, Shashank.* arXiv preprint arXiv:2212.10276, 2022. [[paper](https://arxiv.org/abs/2212.10276)]
+7. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can, Sun, Qingfeng, Zheng, Kai, Geng, Xiubo, Zhao, Pu, Feng, Jiazhan, Tao, Chongyang, Jiang, Daxin.* arXiv preprint arXiv:2304.12244, 2023. [[paper](https://arxiv.org/abs/2304.12244)]
+8. **Self-Instruct: Aligning Language Models with Self-Generated Instructions** *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.10560)]
+9. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent** *Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.10003)]
+10. **The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?** *Jin, Chuanyang, Zhang, Songyang, Shu, Tianmin, Cui, Zhihan.* arXiv preprint arXiv:2308.14242, 2023. [[paper](https://arxiv.org/abs/2308.14242)]
+11. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness** *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen.* arXiv 2023. [[paper](https://arxiv.org/abs/2308.08708)]
+12. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
+13. **ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models** *Huang, Jen-tse, Wang, Wenxuan, Lam, Man Ho, Li, Eric John, Jiao, Wenxiang, Lyu, Michael R.* arXiv preprint arXiv:2305.19926, 2023. [[paper](https://arxiv.org/abs/2305.19926)]
+14. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
+15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution** *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)]
 
 ## 3. AGI Interface: Connecting the World with AGI
 
 ### 3.1 Interfaces to Digital World
 
-1. **Principles of mixed-initiative user interfaces** *Horvitz, Eric.* SIGCHI, 1999. [Link](https://dl.acm.org/doi/pdf/10.1145/302979.303030)
-2. **The rise and potential of large language model based agents: A survey** *Xi, Zhiheng, Chen, Wenxiang, Guo, Xin, He, Wei, Ding, Yiwen, Hong, Boyang, Zhang, Ming, Wang, Junzhe, Jin, Senjie, Zhou, Enyu, others.* arXiv preprint arXiv:2309.07864, 2023. [[abs](https://arxiv.org/abs/2309.07864)]
-3. **Tool learning with foundation models** *Qin, Yujia, Hu, Shengding, Lin, Yankai, Chen, Weize, Ding, Ning, Cui, Ganqu, Zeng, Zheni, Huang, Yufei, Xiao, Chaojun, Han, Chi, others.* arXiv preprint arXiv:2304.08354, 2023. [[abs](https://arxiv.org/abs/2304.08354)]
-4. **Creator: Disentangling abstract and concrete reasonings of large language models through tool creation** *Qian, Cheng, Han, Chi, Fung, Yi R, Qin, Yujia, Liu, Zhiyuan, Ji, Heng.* arXiv preprint arXiv:2305.14318, 2023. [[abs](https://arxiv.org/abs/2305.14318)]
-5. **AppAgent: Multimodal Agents as Smartphone Users** *Yang, Zhao, Liu, Jiaxuan, Han, Yucheng, Chen, Xin, Huang, Zebiao, Fu, Bin, Yu, Gang.* arXiv preprint arXiv:2312.13771, 2023. [[abs](https://arxiv.org/abs/2312.13771)]
-6. **Mind2Web: Towards a Generalist Agent for the Web** *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* NeurIPS benchmark, 2023. [Link](https://openreview.net/forum?id=kiYqbO3wqw)
-7. **ToolQA: A Dataset for LLM Question Answering with External Tools** *Zhuang, Yuchen, Yu, Yue, Wang, Kuan, Sun, Haotian, Zhang, Chao.* arXiv preprint arXiv:2306.13304, 2023. [[abs](https://arxiv.org/abs/2306.13304)]
-8. **Generative agents: Interactive simulacra of human behavior** *Park, Joon Sung, O'Brien, Joseph C, Cai, Carrie J, Morris, Meredith Ringel, Liang, Percy, Bernstein, Michael S.* arXiv preprint arXiv:2304.03442, 2023. [[abs](https://arxiv.org/abs/2304.03442)]
-9. **Toolformer: Language models can teach themselves to use tools** *Schick, Timo, Dwivedi-Yu, Jane, Dess\`\i.* arXiv preprint arXiv:2302.04761, 2023. [[abs](https://arxiv.org/abs/2302.04761)]
-10. **Gorilla: Large language model connected with massive apis** *Patil, Shishir G, Zhang, Tianjun, Wang, Xin, Gonzalez, Joseph E.* arXiv preprint arXiv:2305.15334, 2023. [[abs](https://arxiv.org/abs/2305.15334)]
-11. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[abs](https://arxiv.org/abs/2305.16291)]
-12. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.07456)]
-13. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig.* ICLR, 2024. [Link](https://openreview.net/forum?id=oKn9c6ytLx)
-14. **Large Language Models as Tool Makers** *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou.* ICLR, 2024. [Link](https://openreview.net/forum?id=qV83K9d5WB)
+1. **Principles of mixed-initiative user interfaces** *Horvitz, Eric.* SIGCHI, 1999. [[paper](https://dl.acm.org/doi/pdf/10.1145/302979.303030)]
+2. **The rise and potential of large language model based agents: A survey** *Xi, Zhiheng, Chen, Wenxiang, Guo, Xin, He, Wei, Ding, Yiwen, Hong, Boyang, Zhang, Ming, Wang, Junzhe, Jin, Senjie, Zhou, Enyu, others.* arXiv preprint arXiv:2309.07864, 2023. [[paper](https://arxiv.org/abs/2309.07864)]
+3. **Tool learning with foundation models** *Qin, Yujia, Hu, Shengding, Lin, Yankai, Chen, Weize, Ding, Ning, Cui, Ganqu, Zeng, Zheni, Huang, Yufei, Xiao, Chaojun, Han, Chi, others.* arXiv preprint arXiv:2304.08354, 2023. [[paper](https://arxiv.org/abs/2304.08354)]
+4. **Creator: Disentangling abstract and concrete reasonings of large language models through tool creation** *Qian, Cheng, Han, Chi, Fung, Yi R, Qin, Yujia, Liu, Zhiyuan, Ji, Heng.* arXiv preprint arXiv:2305.14318, 2023. [[paper](https://arxiv.org/abs/2305.14318)]
+5. **AppAgent: Multimodal Agents as Smartphone Users** *Yang, Zhao, Liu, Jiaxuan, Han, Yucheng, Chen, Xin, Huang, Zebiao, Fu, Bin, Yu, Gang.* arXiv preprint arXiv:2312.13771, 2023. [[paper](https://arxiv.org/abs/2312.13771)]
+6. **Mind2Web: Towards a Generalist Agent for the Web** *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* NeurIPS benchmark, 2023. [[paper](https://openreview.net/forum?id=kiYqbO3wqw)]
+7. **ToolQA: A Dataset for LLM Question Answering with External Tools** *Zhuang, Yuchen, Yu, Yue, Wang, Kuan, Sun, Haotian, Zhang, Chao.* arXiv preprint arXiv:2306.13304, 2023. [[paper](https://arxiv.org/abs/2306.13304)]
+8. **Generative agents: Interactive simulacra of human behavior** *Park, Joon Sung, O'Brien, Joseph C, Cai, Carrie J, Morris, Meredith Ringel, Liang, Percy, Bernstein, Michael S.* arXiv preprint arXiv:2304.03442, 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+9. **Toolformer: Language models can teach themselves to use tools** *Schick, Timo, Dwivedi-Yu, Jane, Dess\`\i.* arXiv preprint arXiv:2302.04761, 2023. [[paper](https://arxiv.org/abs/2302.04761)]
+10. **Gorilla: Large language model connected with massive apis** *Patil, Shishir G, Zhang, Tianjun, Wang, Xin, Gonzalez, Joseph E.* arXiv preprint arXiv:2305.15334, 2023. [[paper](https://arxiv.org/abs/2305.15334)]
+11. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
+12. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.07456)]
+13. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig.* ICLR, 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
+14. **Large Language Models as Tool Makers** *Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou.* ICLR, 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
 
 
 ### 3.2 Interfaces to Physical World
 
-1. **Lessons from the amazon picking challenge: Four aspects of building robotic systems.** *Eppner, Clemens, H\"o.* RSS, 2016. [Link](https://m.roboticsproceedings.org/rss12/p36.pdf)
-2. **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation** *Mohit Shridhar, Lucas Manuelli, Dieter Fox.* arXiv 2022. [[abs](https://arxiv.org/abs/2209.05451)]
-3. **Vima: General robot manipulation with multimodal prompts** *Jiang, Yunfan, Gupta, Agrim, Zhang, Zichen, Wang, Guanzhi, Dou, Yongqiang, Chen, Yanjun, Fei-Fei, Li, Anandkumar, Anima, Zhu, Yuke, Fan, Linxi.* arXiv preprint arXiv:arXiv, 2022. [[abs](https://arxiv.org/abs/arXiv)]
-4. **Do as i can, not as i say: Grounding language in robotic affordances** *Ahn, Michael, Brohan, Anthony, Brown, Noah, Chebotar, Yevgen, Cortes, Omar, David, Byron, Finn, Chelsea, Fu, Chuyuan, Gopalakrishnan, Keerthana, Hausman, Karol, others.* arXiv preprint arXiv:2204.01691, 2022. [[abs](https://arxiv.org/abs/2204.01691)]
-5. **Voxposer: Composable 3d value maps for robotic manipulation with language models** *Huang, Wenlong, Wang, Chen, Zhang, Ruohan, Li, Yunzhu, Wu, Jiajun, Fei-Fei, Li.* arXiv preprint arXiv:2307.05973, 2023. [[abs](https://arxiv.org/abs/2307.05973)]
-6. **MotionGPT: Human Motion as a Foreign Language** *Jiang, Biao, Chen, Xin, Liu, Wen, Yu, Jingyi, Yu, Gang, Chen, Tao.* arXiv preprint arXiv:2306.14795, 2023. [[abs](https://arxiv.org/abs/2306.14795)]
-7. **Rt-2: Vision-language-action models transfer web knowledge to robotic control** *Brohan, Anthony, Brown, Noah, Carbajal, Justice, Chebotar, Yevgen, Chen, Xi, Choromanski, Krzysztof, Ding, Tianli, Driess, Danny, Dubey, Avinava, Finn, Chelsea, others.* arXiv preprint arXiv:2307.15818, 2023. [[abs](https://arxiv.org/abs/2307.15818)]
+1. **Lessons from the amazon picking challenge: Four aspects of building robotic systems.** *Eppner, Clemens, H\"o.* RSS, 2016. [[paper](https://m.roboticsproceedings.org/rss12/p36.pdf)]
+2. **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation** *Mohit Shridhar, Lucas Manuelli, Dieter Fox.* arXiv 2022. [[paper](https://arxiv.org/abs/2209.05451)]
+3. **Vima: General robot manipulation with multimodal prompts** *Jiang, Yunfan, Gupta, Agrim, Zhang, Zichen, Wang, Guanzhi, Dou, Yongqiang, Chen, Yanjun, Fei-Fei, Li, Anandkumar, Anima, Zhu, Yuke, Fan, Linxi.* arXiv preprint arXiv:arXiv, 2022. [[paper](https://arxiv.org/abs/arXiv)]
+4. **Do as i can, not as i say: Grounding language in robotic affordances** *Ahn, Michael, Brohan, Anthony, Brown, Noah, Chebotar, Yevgen, Cortes, Omar, David, Byron, Finn, Chelsea, Fu, Chuyuan, Gopalakrishnan, Keerthana, Hausman, Karol, others.* arXiv preprint arXiv:2204.01691, 2022. [[paper](https://arxiv.org/abs/2204.01691)]
+5. **Voxposer: Composable 3d value maps for robotic manipulation with language models** *Huang, Wenlong, Wang, Chen, Zhang, Ruohan, Li, Yunzhu, Wu, Jiajun, Fei-Fei, Li.* arXiv preprint arXiv:2307.05973, 2023. [[paper](https://arxiv.org/abs/2307.05973)]
+6. **MotionGPT: Human Motion as a Foreign Language** *Jiang, Biao, Chen, Xin, Liu, Wen, Yu, Jingyi, Yu, Gang, Chen, Tao.* arXiv preprint arXiv:2306.14795, 2023. [[paper](https://arxiv.org/abs/2306.14795)]
+7. **Rt-2: Vision-language-action models transfer web knowledge to robotic control** *Brohan, Anthony, Brown, Noah, Carbajal, Justice, Chebotar, Yevgen, Chen, Xi, Choromanski, Krzysztof, Ding, Tianli, Driess, Danny, Dubey, Avinava, Finn, Chelsea, others.* arXiv preprint arXiv:2307.15818, 2023. [[paper](https://arxiv.org/abs/2307.15818)]
 8. **Navigating to objects in the real world** *Theophile Gervet , Soumith Chintala , Dhruv Batra , Jitendra Malik , Devendra Singh Chaplot.* Science Robotics, 2023.
-9. **Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action** *Shah, Dhruv, Osi\'n.* CRL, 2023. [Link](https://proceedings.mlr.press/v205/shah23b/shah23b.pdf)
-10. **Palm-e: An embodied multimodal language model** *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan, Vuong, Quan, Yu, Tianhe, others.* arXiv preprint arXiv:2303.03378, 2023. [[abs](https://arxiv.org/abs/2303.03378)]
-11. **Llm-planner: Few-shot grounded planning for embodied agents with large language models** *Song, Chan Hee, Wu, Jiaman, Washington, Clayton, Sadler, Brian M, Chao, Wei-Lun, Su, Yu.* CVPR, 2023. [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.pdf)
-12. **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** *Huang, Siyuan, Jiang, Zhengkai, Dong, Hao, Qiao, Yu, Gao, Peng, Li, Hongsheng.* arXiv preprint arXiv:2305.11176, 2023. [[abs](https://arxiv.org/abs/2305.11176)]
-13. **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** *Alexander Khazatsky et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.12945)]
-14. **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** *Chengshu Li, Ruohan Zhang, Josiah Wong, Cem Gokmen, Sanjana Srivastava, Roberto Martín-Martín, Chen Wang, Gabrael Levine, Wensi Ai, Benjamin Martinez, Hang Yin, Michael Lingelbach, Minjune Hwang, Ayano Hiranaka, Sujay Garlanka, Arman Aydin, Sharon Lee, Jiankai Sun, Mona Anvari, Manasi Sharma, Dhruva Bansal, Samuel Hunter, Kyu-Young Kim, Alan Lou, Caleb R Matthews, Ivan Villa-Renteria, Jerry Huayang Tang, Claire Tang, Fei Xia, Yunzhu Li, Silvio Savarese, Hyowon Gweon, C. Karen Liu, Jiajun Wu, Li Fei-Fei.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.09227)]
-
-
+9. **Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action** *Shah, Dhruv, Osi\'n.* CRL, 2023. [[paper](https://proceedings.mlr.press/v205/shah23b/shah23b.pdf)]
+10. **Palm-e: An embodied multimodal language model** *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan, Vuong, Quan, Yu, Tianhe, others.* arXiv preprint arXiv:2303.03378, 2023. [[paper](https://arxiv.org/abs/2303.03378)]
+11. **Llm-planner: Few-shot grounded planning for embodied agents with large language models** *Song, Chan Hee, Wu, Jiaman, Washington, Clayton, Sadler, Brian M, Chao, Wei-Lun, Su, Yu.* CVPR, 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_LLM-Planner_Few-Shot_Grounded_Planning_for_Embodied_Agents_with_Large_Language_ICCV_2023_paper.pdf)]
+12. **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** *Huang, Siyuan, Jiang, Zhengkai, Dong, Hao, Qiao, Yu, Gao, Peng, Li, Hongsheng.* arXiv preprint arXiv:2305.11176, 2023. [[paper](https://arxiv.org/abs/2305.11176)]
+13. **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** *Alexander Khazatsky et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.12945)]
+14. **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** *Chengshu Li, Ruohan Zhang, Josiah Wong, Cem Gokmen, Sanjana Srivastava, Roberto Martín-Martín, Chen Wang, Gabrael Levine, Wensi Ai, Benjamin Martinez, Hang Yin, Michael Lingelbach, Minjune Hwang, Ayano Hiranaka, Sujay Garlanka, Arman Aydin, Sharon Lee, Jiankai Sun, Mona Anvari, Manasi Sharma, Dhruva Bansal, Samuel Hunter, Kyu-Young Kim, Alan Lou, Caleb R Matthews, Ivan Villa-Renteria, Jerry Huayang Tang, Claire Tang, Fei Xia, Yunzhu Li, Silvio Savarese, Hyowon Gweon, C. Karen Liu, Jiajun Wu, Li Fei-Fei.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.09227)]
 
 
 ### 3.3 Interfaces to Intelligence
 
 #### 3.3.1 Interfaces to AI Agents
 
-1. **Counterfactual multi-agent policy gradients** *Foerster, Jakob, Farquhar, Gregory, Afouras, Triantafyllos, Nardelli, Nantas, Whiteson, Shimon.* Presented at Proceedings of the AAAI conference on artificial intelligence, 2018. [[abs](https://arxiv.org/abs/1705.08926)]
-2. **Explanations from large language models make small reasoners better** *Li, Shiyang, Chen, Jianshu, Shen, Yelong, Chen, Zhiyu, Zhang, Xinlu, Li, Zekun, Wang, Hong, Qian, Jing, Peng, Baolin, Mao, Yi, others.* arXiv preprint arXiv:2210.06726, 2022. [[abs](https://arxiv.org/abs/2210.06726)]
-3. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models** *Huang, Yukun, Chen, Yanda, Yu, Zhou, McKeown, Kathleen.* arXiv preprint arXiv:2212.10670, 2022. [[abs](https://arxiv.org/abs/2212.10670)]
-4. **Autoagents: A framework for automatic agent generation** *Chen, Guangyao, Dong, Siwei, Shu, Yu, Zhang, Ge, Sesay, Jaward, Karlsson, B\"o.* arXiv preprint arXiv:2309.17288, 2023. [[abs](https://arxiv.org/abs/2309.17288)]
-5. **Neural amortized inference for nested multi-agent reasoning** *Jha, Kunal, Le, Tuan Anh, Jin, Chuanyang, Kuo, Yen-Ling, Tenenbaum, Joshua B, Shu, Tianmin.* arXiv preprint arXiv:2308.11071, 2023. [[abs](https://arxiv.org/abs/2308.11071)]
-6. **Knowledge Distillation of Large Language Models** *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.08543)]
-7. **Metagpt: Meta programming for multi-agent collaborative framework** *Hong, Sirui, Zheng, Xiawu, Chen, Jonathan, Cheng, Yuheng, Wang, Jinlin, Zhang, Ceyao, Wang, Zili, Yau, Steven Ka Shing, Lin, Zijuan, Zhou, Liyang, others.* arXiv preprint arXiv:2308.00352, 2023. [[abs](https://arxiv.org/abs/2308.00352)]
-8. **Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents** *Wang, Zihao, Cai, Shaofei, Liu, Anji, Ma, Xiaojian, Liang, Yitao.* arXiv preprint arXiv:2302.01560, 2023. [[abs](https://arxiv.org/abs/2302.01560)]
-9. **Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors in agents** *Chen, Weize, Su, Yusheng, Zuo, Jingwei, Yang, Cheng, Yuan, Chenfei, Qian, Chen, Chan, Chi-Min, Qin, Yujia, Lu, Yaxi, Xie, Ruobing, others.* arXiv preprint arXiv:2308.10848, 2023. [[abs](https://arxiv.org/abs/2308.10848)]
-10. **Mindstorms in natural language-based societies of mind** *Zhuge, Mingchen, Liu, Haozhe, Faccio, Francesco, Ashley, Dylan R, Csord\'a.* arXiv preprint arXiv:2305.17066, 2023. [[abs](https://arxiv.org/abs/2305.17066)]
-11. **Jarvis-1: Open-world multi-task agents with memory-augmented multimodal language models** *Wang, Zihao, Cai, Shaofei, Liu, Anji, Jin, Yonggang, Hou, Jinbing, Zhang, Bowei, Lin, Haowei, He, Zhaofeng, Zheng, Zilong, Yang, Yaodong, others.* arXiv preprint arXiv:2311.05997, 2023. [[abs](https://arxiv.org/abs/2311.05997)]
-12. **Symbolic chain-of-thought distillation: Small models can also" think" step-by-step** *Li, Liunian Harold, Hessel, Jack, Yu, Youngjae, Ren, Xiang, Chang, Kai-Wei, Choi, Yejin.* arXiv preprint arXiv:2306.14050, 2023. [[abs](https://arxiv.org/abs/2306.14050)]
-13. **Distilling step-by-step! outperforming larger language models with less training data and smaller model sizes** *Hsieh, Cheng-Yu, Li, Chun-Liang, Yeh, Chih-Kuan, Nakhost, Hootan, Fujii, Yasuhisa, Ratner, Alexander, Krishna, Ranjay, Lee, Chen-Yu, Pfister, Tomas.* arXiv preprint arXiv:2305.02301, 2023. [[abs](https://arxiv.org/abs/2305.02301)]
-14. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin, Izmailov, Pavel, Kirchner, Jan Hendrik, Baker, Bowen, Gao, Leo, Aschenbrenner, Leopold, Chen, Yining, Ecoffet, Adrien, Joglekar, Manas, Leike, Jan, others.* arXiv preprint arXiv:2312.09390, 2023. [[abs](https://arxiv.org/abs/2312.09390)]
-15. **Enhancing chat language models by scaling high-quality instructional conversations** *Ding, Ning, Chen, Yulin, Xu, Bokai, Qin, Yujia, Zheng, Zhi, Hu, Shengding, Liu, Zhiyuan, Sun, Maosong, Zhou, Bowen.* arXiv preprint arXiv:2305.14233, 2023. [[abs](https://arxiv.org/abs/2305.14233)]
-16. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12983)]
-17. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[abs](https://arxiv.org/abs/2305.16291)]
-18. **Camel: Communicative agents for" mind" exploration of large scale language model society** *Li, Guohao, Hammoud, Hasan Abed Al Kader, Itani, Hani, Khizbullin, Dmitrii, Ghanem, Bernard.* arXiv preprint arXiv:2303.17760, 2023. [[abs](https://arxiv.org/abs/2303.17760)]
-19. **Tailoring self-rationalizers with multi-reward distillation** *Ramnath, Sahana, Joshi, Brihi, Hallinan, Skyler, Lu, Ximing, Li, Liunian Harold, Chan, Aaron, Hessel, Jack, Choi, Yejin, Ren, Xiang.* arXiv preprint arXiv:2311.02805, 2023. [[abs](https://arxiv.org/abs/2311.02805)]
-20. **Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models** *Guo, Jianyuan, Chen, Hanting, Wang, Chengcheng, Han, Kai, Xu, Chang, Wang, Yunhe.* arXiv preprint arXiv:2402.03749, 2024. [[abs](https://arxiv.org/abs/2402.03749)]
-21. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig.* Presented at The Twelfth International Conference on Learning Representations, 2024. [Link](https://openreview.net/forum?id=oKn9c6ytLx)
+1. **Counterfactual multi-agent policy gradients** *Foerster, Jakob, Farquhar, Gregory, Afouras, Triantafyllos, Nardelli, Nantas, Whiteson, Shimon.* Presented at Proceedings of the AAAI conference on artificial intelligence, 2018. [[paper](https://arxiv.org/abs/1705.08926)]
+2. **Explanations from large language models make small reasoners better** *Li, Shiyang, Chen, Jianshu, Shen, Yelong, Chen, Zhiyu, Zhang, Xinlu, Li, Zekun, Wang, Hong, Qian, Jing, Peng, Baolin, Mao, Yi, others.* arXiv preprint arXiv:2210.06726, 2022. [[paper](https://arxiv.org/abs/2210.06726)]
+3. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models** *Huang, Yukun, Chen, Yanda, Yu, Zhou, McKeown, Kathleen.* arXiv preprint arXiv:2212.10670, 2022. [[paper](https://arxiv.org/abs/2212.10670)]
+4. **Autoagents: A framework for automatic agent generation** *Chen, Guangyao, Dong, Siwei, Shu, Yu, Zhang, Ge, Sesay, Jaward, Karlsson, B\"o.* arXiv preprint arXiv:2309.17288, 2023. [[paper](https://arxiv.org/abs/2309.17288)]
+5. **Neural amortized inference for nested multi-agent reasoning** *Jha, Kunal, Le, Tuan Anh, Jin, Chuanyang, Kuo, Yen-Ling, Tenenbaum, Joshua B, Shu, Tianmin.* arXiv preprint arXiv:2308.11071, 2023. [[paper](https://arxiv.org/abs/2308.11071)]
+6. **Knowledge Distillation of Large Language Models** *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.08543)]
+7. **Metagpt: Meta programming for multi-agent collaborative framework** *Hong, Sirui, Zheng, Xiawu, Chen, Jonathan, Cheng, Yuheng, Wang, Jinlin, Zhang, Ceyao, Wang, Zili, Yau, Steven Ka Shing, Lin, Zijuan, Zhou, Liyang, others.* arXiv preprint arXiv:2308.00352, 2023. [[paper](https://arxiv.org/abs/2308.00352)]
+8. **Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents** *Wang, Zihao, Cai, Shaofei, Liu, Anji, Ma, Xiaojian, Liang, Yitao.* arXiv preprint arXiv:2302.01560, 2023. [[paper](https://arxiv.org/abs/2302.01560)]
+9. **Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors in agents** *Chen, Weize, Su, Yusheng, Zuo, Jingwei, Yang, Cheng, Yuan, Chenfei, Qian, Chen, Chan, Chi-Min, Qin, Yujia, Lu, Yaxi, Xie, Ruobing, others.* arXiv preprint arXiv:2308.10848, 2023. [[paper](https://arxiv.org/abs/2308.10848)]
+10. **Mindstorms in natural language-based societies of mind** *Zhuge, Mingchen, Liu, Haozhe, Faccio, Francesco, Ashley, Dylan R, Csord\'a.* arXiv preprint arXiv:2305.17066, 2023. [[paper](https://arxiv.org/abs/2305.17066)]
+11. **Jarvis-1: Open-world multi-task agents with memory-augmented multimodal language models** *Wang, Zihao, Cai, Shaofei, Liu, Anji, Jin, Yonggang, Hou, Jinbing, Zhang, Bowei, Lin, Haowei, He, Zhaofeng, Zheng, Zilong, Yang, Yaodong, others.* arXiv preprint arXiv:2311.05997, 2023. [[paper](https://arxiv.org/abs/2311.05997)]
+12. **Symbolic chain-of-thought distillation: Small models can also" think" step-by-step** *Li, Liunian Harold, Hessel, Jack, Yu, Youngjae, Ren, Xiang, Chang, Kai-Wei, Choi, Yejin.* arXiv preprint arXiv:2306.14050, 2023. [[paper](https://arxiv.org/abs/2306.14050)]
+13. **Distilling step-by-step! outperforming larger language models with less training data and smaller model sizes** *Hsieh, Cheng-Yu, Li, Chun-Liang, Yeh, Chih-Kuan, Nakhost, Hootan, Fujii, Yasuhisa, Ratner, Alexander, Krishna, Ranjay, Lee, Chen-Yu, Pfister, Tomas.* arXiv preprint arXiv:2305.02301, 2023. [[paper](https://arxiv.org/abs/2305.02301)]
+14. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin, Izmailov, Pavel, Kirchner, Jan Hendrik, Baker, Bowen, Gao, Leo, Aschenbrenner, Leopold, Chen, Yining, Ecoffet, Adrien, Joglekar, Manas, Leike, Jan, others.* arXiv preprint arXiv:2312.09390, 2023. [[paper](https://arxiv.org/abs/2312.09390)]
+15. **Enhancing chat language models by scaling high-quality instructional conversations** *Ding, Ning, Chen, Yulin, Xu, Bokai, Qin, Yujia, Zheng, Zhi, Hu, Shengding, Liu, Zhiyuan, Sun, Maosong, Zhou, Bowen.* arXiv preprint arXiv:2305.14233, 2023. [[paper](https://arxiv.org/abs/2305.14233)]
+16. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.12983)]
+17. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi, Xie, Yuqi, Jiang, Yunfan, Mandlekar, Ajay, Xiao, Chaowei, Zhu, Yuke, Fan, Linxi, Anandkumar, Anima.* arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
+18. **Camel: Communicative agents for" mind" exploration of large scale language model society** *Li, Guohao, Hammoud, Hasan Abed Al Kader, Itani, Hani, Khizbullin, Dmitrii, Ghanem, Bernard.* arXiv preprint arXiv:2303.17760, 2023. [[paper](https://arxiv.org/abs/2303.17760)]
+19. **Tailoring self-rationalizers with multi-reward distillation** *Ramnath, Sahana, Joshi, Brihi, Hallinan, Skyler, Lu, Ximing, Li, Liunian Harold, Chan, Aaron, Hessel, Jack, Choi, Yejin, Ren, Xiang.* arXiv preprint arXiv:2311.02805, 2023. [[paper](https://arxiv.org/abs/2311.02805)]
+20. **Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models** *Guo, Jianyuan, Chen, Hanting, Wang, Chengcheng, Han, Kai, Xu, Chang, Wang, Yunhe.* arXiv preprint arXiv:2402.03749, 2024. [[paper](https://arxiv.org/abs/2402.03749)]
+21. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig.* Presented at The Twelfth International Conference on Learning Representations, 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
 22. **Principle-driven self-alignment of language models from scratch with minimal human supervision** *Sun, Zhiqing, Shen, Yikang, Zhou, Qinhong, Zhang, Hongxin, Chen, Zhenfang, Cox, David, Yang, Yiming, Gan, Chuang.* Advances in Neural Information Processing Systems, 2024.
 23. **Mind2web: Towards a generalist agent for the web** *Deng, Xiang, Gu, Yu, Zheng, Boyuan, Chen, Shijie, Stevens, Sam, Wang, Boshi, Sun, Huan, Su, Yu.* Advances in Neural Information Processing Systems, 2024.
-24. **Towards general computer control: A multimodal agent for red dead redemption ii as a case study** *Tan, Weihao, Ding, Ziluo, Zhang, Wentao, Li, Boyu, Zhou, Bohan, Yue, Junpeng, Xia, Haochong, Jiang, Jiechuan, Zheng, Longtao, Xu, Xinrun, others.* arXiv preprint arXiv:2403.03186, 2024. [[abs](https://arxiv.org/abs/2403.03186)]
+24. **Towards general computer control: A multimodal agent for red dead redemption ii as a case study** *Tan, Weihao, Ding, Ziluo, Zhang, Wentao, Li, Boyu, Zhou, Bohan, Yue, Junpeng, Xia, Haochong, Jiang, Jiechuan, Zheng, Longtao, Xu, Xinrun, others.* arXiv preprint arXiv:2403.03186, 2024. [[paper](https://arxiv.org/abs/2403.03186)]
 
 #### 3.3.2 Interfaces to Human
 
@@ -235,92 +233,92 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 4.2 Scalable Model Architectures
 
-1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer et al* arXiv preprint arXiv:1701.06538, 2017. [[abs](https://arxiv.org/abs/1701.06538)]
-2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention** *Angelos Katharopoulos et al.* arXiv 2020. [[abs](https://arxiv.org/abs/2006.16236)]
-3. **Longformer: The Long-Document Transformer** *Iz Beltagy et al.* arXiv 2020. [[abs](https://arxiv.org/abs/2004.05150)]
-4. **LightSeq: A High Performance Inference Library for Transformers** *Xiaohui Wang et al.* arXiv 2021. [[abs](https://arxiv.org/abs/2010.13887)]
-5. **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** *William Fedus et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2101.03961)]
-6. **Efficiently Modeling Long Sequences with Structured State Spaces** *Albert Gu et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2111.00396)]
-7. **MegaBlocks: Efficient Sparse Training with Mixture-of-Experts** *Trevor Gale et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2211.15841)]
-8. **Training Compute-Optimal Large Language Models** *Jordan Hoffmann et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.15556)]
-9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.16039)]
-10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.10866)]
-11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori et al.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng et al.* arXiv preprint arXiv:2305.13048, 2023. [[abs](https://arxiv.org/abs/2305.13048)]
-13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.17157)]
-14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.10285)]
-15. **ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs** *Yujia Zhai et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2210.03052)]
-16. **Tutel: Adaptive Mixture-of-Experts at Scale** *Changho Hwang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.03382)]
-17. **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** *Albert Gu, Tri Dao.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.00752)]
-18. **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** *Daniel Y. Fu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.14052)]
+1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer et al* arXiv preprint arXiv:1701.06538, 2017. [[paper](https://arxiv.org/abs/1701.06538)]
+2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention** *Angelos Katharopoulos et al.* arXiv 2020. [[paper](https://arxiv.org/abs/2006.16236)]
+3. **Longformer: The Long-Document Transformer** *Iz Beltagy et al.* arXiv 2020. [[paper](https://arxiv.org/abs/2004.05150)]
+4. **LightSeq: A High Performance Inference Library for Transformers** *Xiaohui Wang et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2010.13887)]
+5. **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** *William Fedus et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2101.03961)]
+6. **Efficiently Modeling Long Sequences with Structured State Spaces** *Albert Gu et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2111.00396)]
+7. **MegaBlocks: Efficient Sparse Training with Mixture-of-Experts** *Trevor Gale et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2211.15841)]
+8. **Training Compute-Optimal Large Language Models** *Jordan Hoffmann et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2203.15556)]
+9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.16039)]
+10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2302.10866)]
+11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori et al.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng et al.* arXiv preprint arXiv:2305.13048, 2023. [[paper](https://arxiv.org/abs/2305.13048)]
+13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.17157)]
+14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.10285)]
+15. **ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs** *Yujia Zhai et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2210.03052)]
+16. **Tutel: Adaptive Mixture-of-Experts at Scale** *Changho Hwang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2206.03382)]
+17. **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** *Albert Gu, Tri Dao.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.00752)]
+18. **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** *Daniel Y. Fu et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.14052)]
 19. **Retentive Network: A Successor to Transformer for Large Language Models** *Yutao Sun et al.* ArXiv, 2023.
-20. **Mechanistic Design and Scaling of Hybrid Architectures** *Michael Poli et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.17844)]
+20. **Mechanistic Design and Scaling of Hybrid Architectures** *Michael Poli et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.17844)]
 
 ### 4.3 Large-scale Training
 
-1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen et al.* arXiv 2016. [[abs](https://arxiv.org/abs/1604.06174)]
-2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia et al.* arXiv 2018. [[abs](https://arxiv.org/abs/1807.05358)]
-3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang et al.* arXiv 2019. [[abs](https://arxiv.org/abs/1811.06965)]
-4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* Presented at International conference on machine learning, 2019. [Link](No URL)
-5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi et al.* arXiv 2020. [[abs](https://arxiv.org/abs/1909.08053)]
-6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2201.12023)]
-7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.00032)]
-8. **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models** *Kushal Tirumala et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2205.10770)]
-9. **SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient** *Max Ryabinin et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2301.11913)]
-10. **Training Trajectories of Language Models Across Scales** *Mengzhou Xia et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.09803)]
-11. **HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment** *Youhe Jiang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.11514)]
-12. **FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs** *Zhenheng Tang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.01172)]
-13. **Ring Attention with Blockwise Transformers for Near-Infinite Context** *Hao Liu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.01889)]
-14. **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling** *Stella Biderman et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01373)]
-15. **Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees** *Jue Wang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01299)]
-16. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** *Renrui Zhang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.16199)]
-17. **QLoRA: Efficient Finetuning of Quantized LLMs** *Tim Dettmers et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.14314)]
-18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.06180)]
-19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.02669)]
-20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.00838)]
+1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1604.06174)]
+2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1807.05358)]
+3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang et al.* arXiv 2019. [[paper](https://arxiv.org/abs/1811.06965)]
+4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* Presented at International conference on machine learning, 2019. [paper](No URL)
+5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi et al.* arXiv 2020. [[paper](https://arxiv.org/abs/1909.08053)]
+6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2201.12023)]
+7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2207.00032)]
+8. **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models** *Kushal Tirumala et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2205.10770)]
+9. **SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient** *Max Ryabinin et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2301.11913)]
+10. **Training Trajectories of Language Models Across Scales** *Mengzhou Xia et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.09803)]
+11. **HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment** *Youhe Jiang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.11514)]
+12. **FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs** *Zhenheng Tang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.01172)]
+13. **Ring Attention with Blockwise Transformers for Near-Infinite Context** *Hao Liu et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.01889)]
+14. **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling** *Stella Biderman et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.01373)]
+15. **Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees** *Jue Wang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2206.01299)]
+16. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** *Renrui Zhang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.16199)]
+17. **QLoRA: Efficient Finetuning of Quantized LLMs** *Tim Dettmers et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.14314)]
+18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.06180)]
+19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.02669)]
+20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.00838)]
 
 ### 4.4 Inference Techniques
 
 1. **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**. *Tri Dao* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.14135)]
-2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Jun Zhang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.08168)]
-3. **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems** *Xupeng Miao et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.15234)]
-4. **FlashDecoding++: Faster Large Language Model Inference on GPUs** *Ke Hong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.01282)]
-5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.17192)]
-6. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05920)]
-7. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.03285)]
-8. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-9. **Punica: Multi-Tenant LoRA Serving** *Lequn Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.18547)]
-10. **S$^3: Increasing GPU Utilization during Generative Inference for Higher Throughput** *Yunho Jin et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.06000)]
-11. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-12. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-13. **FasterTransformer** *NVIDIA.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-14. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.08671)]
-15. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.09781)]
-16. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.10774)]
+2. **Draft \& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Jun Zhang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.08168)]
+3. **Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems** *Xupeng Miao et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.15234)]
+4. **FlashDecoding++: Faster Large Language Model Inference on GPUs** *Ke Hong et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.01282)]
+5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.17192)]
+6. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.05920)]
+7. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.03285)]
+8. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+9. **Punica: Multi-Tenant LoRA Serving** *Lequn Chen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.18547)]
+10. **S$^3: Increasing GPU Utilization during Generative Inference for Higher Throughput** *Yunho Jin et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.06000)]
+11. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+12. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+13. **FasterTransformer** *NVIDIA.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+14. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.08671)]
+15. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2305.09781)]
+16. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.10774)]
 
 ### 4.5 Cost and Efficiency
 
-1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *Omar Khattab et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.14024)]
+1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *Omar Khattab et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.14024)]
 2. **Automated Machine Learning: Methods, Systems, Challenges** *Frank Hutter et al.* Springer Publishing Company, Incorporated, 2019.
-3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2203.05482)]
-4. **Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines** *Bojan Karlaš et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2204.11131)]
-5. **Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference** *Chi Wang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.04673)]
-6. **Large Language Models Are Human-Level Prompt Engineers** *Yongchao Zhou et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.01910)]
-7. **Merging by Matching Models in Task Subspaces** *Derek Tam et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.04339)]
-8. **Editing Models with Task Arithmetic** *Gabriel Ilharco et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2212.04089)]
-9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.12370)]
-10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.14933)]
-11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Omar Khattab et al.* arXiv preprint arXiv:2310.03714, 2023. [[abs](https://arxiv.org/abs/2310.03714)]
-12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.05176)]
-13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.08644)]
-14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.16971)]
-15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2307.13269)]
-16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2306.08107)]
+3. **Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time** *Mitchell Wortsman et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2203.05482)]
+4. **Data Debugging with Shapley Importance over End-to-End Machine Learning Pipelines** *Bojan Karlaš et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2204.11131)]
+5. **Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference** *Chi Wang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.04673)]
+6. **Large Language Models Are Human-Level Prompt Engineers** *Yongchao Zhou et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.01910)]
+7. **Merging by Matching Models in Task Subspaces** *Derek Tam et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.04339)]
+8. **Editing Models with Task Arithmetic** *Gabriel Ilharco et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.04089)]
+9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.12370)]
+10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.14933)]
+11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Omar Khattab et al.* arXiv preprint arXiv:2310.03714, 2023. [[paper](https://arxiv.org/abs/2310.03714)]
+12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.05176)]
+13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.08644)]
+14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.16971)]
+15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2307.13269)]
+16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2306.08107)]
 
 ### 4.6 Computing Platforms
 
-1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** *Tianqi Chen et al.* arXiv 2018. [[abs](https://arxiv.org/abs/1802.04799)]
-2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** *Norman P. Jouppi et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.01433)]
+1. **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning** *Tianqi Chen et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1802.04799)]
+2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** *Norman P. Jouppi et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.01433)]
 
 
 ## 5. AGI Alignment: Reconciling Needs with AGI
@@ -368,56 +366,56 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 5.2 Current Alignment Techniques
 
-1. **Learning to summarize with human feedback** *Stiennon, Nisan, Ouyang, Long, Wu, Jeffrey, Ziegler, Daniel, Lowe, Ryan, Voss, Chelsea, Radford, Alec, Amodei, Dario, Christiano, Paul F.* Advances in Neural Information Processing Systems, 2020. [[abs](https://arxiv.org/abs/2009.01325)]
-2. **Second thoughts are best: Learning to re-align with human values from text edits** *Liu, Ruibo, Jia, Chenyan, Zhang, Ge, Zhuang, Ziyu, Liu, Tony, Vosoughi, Soroush.* Advances in Neural Information Processing Systems, 2022. [[abs](https://arxiv.org/abs/2301.00355)]
-3. **Training language models to follow instructions with human feedback** *Ouyang, Long, Wu, Jeffrey, Jiang, Xu, Almeida, Diogo, Wainwright, Carroll, Mishkin, Pamela, Zhang, Chong, Agarwal, Sandhini, Slama, Katarina, Ray, Alex, others.* Advances in neural information processing systems, 2022. [[abs](https://arxiv.org/abs/2203.02155)]
-4. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen, He, Zexue, He, Zhankui, McAuley, Julian.* Presented at Proceedings of the AAAI Conference on Artificial Intelligence, 2022. [Link](No URL)
-5. **Aligning generative language models with human values** *Liu, Ruibo, Zhang, Ge, Feng, Xinyu, Vosoughi, Soroush.* Presented at Findings of the Association for Computational Linguistics: NAACL 2022, 2022. [Link](No URL)
-6. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao, Jones, Andy, Ndousse, Kamal, Askell, Amanda, Chen, Anna, DasSarma, Nova, Drain, Dawn, Fort, Stanislav, Ganguli, Deep, Henighan, Tom, others.* arXiv preprint arXiv:2204.05862, 2022. [[abs](https://arxiv.org/abs/2204.05862)]
-7. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao, Kadavath, Saurav, Kundu, Sandipan, Askell, Amanda, Kernion, Jackson, Jones, Andy, Chen, Anna, Goldie, Anna, Mirhoseini, Azalia, McKinnon, Cameron, others.* arXiv preprint arXiv:2212.08073, 2022. [[abs](https://arxiv.org/abs/2212.08073)]
-8. **Raft: Reward ranked finetuning for generative foundation model alignment** *Dong, Hanze, Xiong, Wei, Goyal, Deepanshu, Pan, Rui, Diao, Shizhe, Zhang, Jipeng, Shum, Kashun, Zhang, Tong.* arXiv preprint arXiv:2304.06767, 2023. [[abs](https://arxiv.org/abs/2304.06767)]
-9. **Improving Language Models with Advantage-based Offline Policy Gradients** *Baheti, Ashutosh, Lu, Ximing, Brahman, Faeze, Bras, Ronan Le, Sap, Maarten, Riedl, Mark.* arXiv preprint arXiv:2305.14718, 2023. [[abs](https://arxiv.org/abs/2305.14718)]
-10. **Training language models with language feedback at scale** *Scheurer, J\'e.* arXiv preprint arXiv:2303.16755, 2023. [[abs](https://arxiv.org/abs/2303.16755)]
-11. **A general theoretical paradigm to understand learning from human preferences** *Azar, Mohammad Gheshlaghi, Rowland, Mark, Piot, Bilal, Guo, Daniel, Calandriello, Daniele, Valko, Michal, Munos, R\'e.* arXiv preprint arXiv:2310.12036, 2023. [[abs](https://arxiv.org/abs/2310.12036)]
-12. **Let's Verify Step by Step** *Lightman, Hunter, Kosaraju, Vineet, Burda, Yura, Edwards, Harri, Baker, Bowen, Lee, Teddy, Leike, Jan, Schulman, John, Sutskever, Ilya, Cobbe, Karl.* arXiv preprint arXiv:2305.20050, 2023. [[abs](https://arxiv.org/abs/2305.20050)]
-14. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[abs](https://arxiv.org/abs/2307.15217)]
-15. **Aligning Large Language Models through Synthetic Feedback** *Kim, Sungdong, Bae, Sanghwan, Shin, Jamin, Kang, Soyoung, Kwak, Donghyun, Yoo, Kang Min, Seo, Minjoon.* arXiv preprint arXiv:2305.13735, 2023. [[abs](https://arxiv.org/abs/2305.13735)]
-16. **Rlaif: Scaling reinforcement learning from human feedback with ai feedback** *Lee, Harrison, Phatale, Samrat, Mansoor, Hassan, Lu, Kellie, Mesnard, Thomas, Bishop, Colton, Carbune, Victor, Rastogi, Abhinav.* arXiv preprint arXiv:2309.00267, 2023. [[abs](https://arxiv.org/abs/2309.00267)]
-17. **Preference ranking optimization for human alignment** *Song, Feifan, Yu, Bowen, Li, Minghao, Yu, Haiyang, Huang, Fei, Li, Yongbin, Wang, Houfeng.* arXiv preprint arXiv:2306.17492, 2023. [[abs](https://arxiv.org/abs/2306.17492)]
-18. **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Du, Yilun, Li, Shuang, Torralba, Antonio, Tenenbaum, Joshua B, Mordatch, Igor.* arXiv preprint arXiv:2305.14325, 2023. [[abs](https://arxiv.org/abs/2305.14325)]
-19. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[abs](https://arxiv.org/abs/2309.15025)]
+1. **Learning to summarize with human feedback** *Stiennon, Nisan, Ouyang, Long, Wu, Jeffrey, Ziegler, Daniel, Lowe, Ryan, Voss, Chelsea, Radford, Alec, Amodei, Dario, Christiano, Paul F.* Advances in Neural Information Processing Systems, 2020. [[paper](https://arxiv.org/abs/2009.01325)]
+2. **Second thoughts are best: Learning to re-align with human values from text edits** *Liu, Ruibo, Jia, Chenyan, Zhang, Ge, Zhuang, Ziyu, Liu, Tony, Vosoughi, Soroush.* Advances in Neural Information Processing Systems, 2022. [[paper](https://arxiv.org/abs/2301.00355)]
+3. **Training language models to follow instructions with human feedback** *Ouyang, Long, Wu, Jeffrey, Jiang, Xu, Almeida, Diogo, Wainwright, Carroll, Mishkin, Pamela, Zhang, Chong, Agarwal, Sandhini, Slama, Katarina, Ray, Alex, others.* Advances in neural information processing systems, 2022. [[paper](https://arxiv.org/abs/2203.02155)]
+4. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen, He, Zexue, He, Zhankui, McAuley, Julian.* Presented at Proceedings of the AAAI Conference on Artificial Intelligence, 2022. [paper](No URL)
+5. **Aligning generative language models with human values** *Liu, Ruibo, Zhang, Ge, Feng, Xinyu, Vosoughi, Soroush.* Presented at Findings of the Association for Computational Linguistics: NAACL 2022, 2022. [paper](No URL)
+6. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao, Jones, Andy, Ndousse, Kamal, Askell, Amanda, Chen, Anna, DasSarma, Nova, Drain, Dawn, Fort, Stanislav, Ganguli, Deep, Henighan, Tom, others.* arXiv preprint arXiv:2204.05862, 2022. [[paper](https://arxiv.org/abs/2204.05862)]
+7. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao, Kadavath, Saurav, Kundu, Sandipan, Askell, Amanda, Kernion, Jackson, Jones, Andy, Chen, Anna, Goldie, Anna, Mirhoseini, Azalia, McKinnon, Cameron, others.* arXiv preprint arXiv:2212.08073, 2022. [[paper](https://arxiv.org/abs/2212.08073)]
+8. **Raft: Reward ranked finetuning for generative foundation model alignment** *Dong, Hanze, Xiong, Wei, Goyal, Deepanshu, Pan, Rui, Diao, Shizhe, Zhang, Jipeng, Shum, Kashun, Zhang, Tong.* arXiv preprint arXiv:2304.06767, 2023. [[paper](https://arxiv.org/abs/2304.06767)]
+9. **Improving Language Models with Advantage-based Offline Policy Gradients** *Baheti, Ashutosh, Lu, Ximing, Brahman, Faeze, Bras, Ronan Le, Sap, Maarten, Riedl, Mark.* arXiv preprint arXiv:2305.14718, 2023. [[paper](https://arxiv.org/abs/2305.14718)]
+10. **Training language models with language feedback at scale** *Scheurer, J\'e.* arXiv preprint arXiv:2303.16755, 2023. [[paper](https://arxiv.org/abs/2303.16755)]
+11. **A general theoretical paradigm to understand learning from human preferences** *Azar, Mohammad Gheshlaghi, Rowland, Mark, Piot, Bilal, Guo, Daniel, Calandriello, Daniele, Valko, Michal, Munos, R\'e.* arXiv preprint arXiv:2310.12036, 2023. [[paper](https://arxiv.org/abs/2310.12036)]
+12. **Let's Verify Step by Step** *Lightman, Hunter, Kosaraju, Vineet, Burda, Yura, Edwards, Harri, Baker, Bowen, Lee, Teddy, Leike, Jan, Schulman, John, Sutskever, Ilya, Cobbe, Karl.* arXiv preprint arXiv:2305.20050, 2023. [[paper](https://arxiv.org/abs/2305.20050)]
+14. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[paper](https://arxiv.org/abs/2307.15217)]
+15. **Aligning Large Language Models through Synthetic Feedback** *Kim, Sungdong, Bae, Sanghwan, Shin, Jamin, Kang, Soyoung, Kwak, Donghyun, Yoo, Kang Min, Seo, Minjoon.* arXiv preprint arXiv:2305.13735, 2023. [[paper](https://arxiv.org/abs/2305.13735)]
+16. **Rlaif: Scaling reinforcement learning from human feedback with ai feedback** *Lee, Harrison, Phatale, Samrat, Mansoor, Hassan, Lu, Kellie, Mesnard, Thomas, Bishop, Colton, Carbune, Victor, Rastogi, Abhinav.* arXiv preprint arXiv:2309.00267, 2023. [[paper](https://arxiv.org/abs/2309.00267)]
+17. **Preference ranking optimization for human alignment** *Song, Feifan, Yu, Bowen, Li, Minghao, Yu, Haiyang, Huang, Fei, Li, Yongbin, Wang, Houfeng.* arXiv preprint arXiv:2306.17492, 2023. [[paper](https://arxiv.org/abs/2306.17492)]
+18. **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Du, Yilun, Li, Shuang, Torralba, Antonio, Tenenbaum, Joshua B, Mordatch, Igor.* arXiv preprint arXiv:2305.14325, 2023. [[paper](https://arxiv.org/abs/2305.14325)]
+19. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[paper](https://arxiv.org/abs/2309.15025)]
 20. **Direct preference optimization: Your language model is secretly a reward model** *Rafailov, Rafael, Sharma, Archit, Mitchell, Eric, Manning, Christopher D, Ermon, Stefano, Finn, Chelsea.* Advances in Neural Information Processing Systems, 2024.
-21. **Lima: Less is more for alignment** *Zhou, Chunting, Liu, Pengfei, Xu, Puxin, Iyer, Srinivasan, Sun, Jiao, Mao, Yuning, Ma, Xuezhe, Efrat, Avia, Yu, Ping, Yu, Lili, others.* Advances in Neural Information Processing Systems, 2024. [[abs](https://arxiv.org/abs/2305.11206)]
+21. **Lima: Less is more for alignment** *Zhou, Chunting, Liu, Pengfei, Xu, Puxin, Iyer, Srinivasan, Sun, Jiao, Mao, Yuning, Ma, Xuezhe, Efrat, Avia, Yu, Ping, Yu, Lili, others.* Advances in Neural Information Processing Systems, 2024. [[paper](https://arxiv.org/abs/2305.11206)]
 
 ### 5.3 How to approach AGI Alignments
 
-1. **Ethical and social risks of harm from Language**  *Weidinger, Mellor, Rauh, Griffin, Uesato, Huang, Cheng, others*. arXiv 2021. [[abs](https://arxiv.org/abs/2112.04359)]
-2. **Beijing AI Safety International Consensus** *Beijing Academy of Artificial Intelligence.* 2024. [Link](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)
+1. **Ethical and social risks of harm from Language**  *Weidinger, Mellor, Rauh, Griffin, Uesato, Huang, Cheng, others*. arXiv 2021. [[paper](https://arxiv.org/abs/2112.04359)]
+2. **Beijing AI Safety International Consensus** *Beijing Academy of Artificial Intelligence.* 2024. [[paper](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)]
 3. **Counterfactual explanations without opening the black box: Automated decisions and the GDPR** *Wachter, Sandra, Mittelstadt, Brent, Russell, Chris.* Harvard Journal of Law \& Technology, 2017.
-4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan, Krueger, David, Everitt, Tom, Martic, Miljan, Maini, Vishal, Legg, Shane.* arXiv preprint arXiv:1811.07871, 2018. [[abs](https://arxiv.org/abs/1811.07871)]
-5. **Building ethics into artificial intelligence** *Yu, Han, Shen, Zhiqi, Miao, Chunyan, Leung, Cyril, Lesser, Victor R, Yang, Qiang.* Presented at Proceedings of the 27th International Joint Conference on Artificial Intelligence, 2018. [Link](No URL)
-6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [Link](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)
-7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [Link](https://link.springer.com/book/10.1007/978-3-030-30371-6)
-8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F, Michael, Katina, Pitt, Jeremy, Evers, Vanessa.* Proceedings of the IEEE, 2019. [Link](https://ieeexplore.ieee.org/document/8662743)
-9. **Open problems in cooperative AI** *Dafoe, Allan, Hughes, Edward, Bachrach, Yoram, Collins, Tantum, McKee, Kevin R, Leibo, Joel Z, Larson, Kate, Graepel, Thore.* arXiv preprint arXiv:2012.08630, 2020. [[abs](https://arxiv.org/abs/2012.08630)]
-10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[abs](https://arxiv.org/abs/2001.09768)]
-12. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan, Bachrach, Yoram, Hadfield, Gillian, Horvitz, Eric, Larson, Kate, Graepel, Thore.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
-13. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben, Sinclair, Thomas.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
-14. **X-risk analysis for ai research** *Hendrycks, Dan, Mazeika, Mantas.* arXiv preprint arXiv:2206.05862, 2022. [[abs](https://arxiv.org/abs/2206.05862)]
-15. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* arXiv 2023. [[abs](https://arxiv.org/abs/No eprint ID)]
-16. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin, Izmailov, Pavel, Kirchner, Jan Hendrik, Baker, Bowen, Gao, Leo, Aschenbrenner, Leopold, Chen, Yining, Ecoffet, Adrien, Joglekar, Manas, Leike, Jan, others.* arXiv preprint arXiv:2312.09390, 2023. [[abs](https://arxiv.org/abs/2312.09390)]
-17. **Whose opinions do language models reflect?** *Santurkar, Shibani, Durmus, Esin, Ladhak, Faisal, Lee, Cinoo, Liang, Percy, Hashimoto, Tatsunori.* Presented at International Conference on Machine Learning, 2023. [Link](No URL)
-18. **Ai alignment: A comprehensive survey** *Ji, Jiaming, Qiu, Tianyi, Chen, Boyuan, Zhang, Borong, Lou, Hantao, Wang, Kaile, Duan, Yawen, He, Zhonghao, Zhou, Jiayi, Zhang, Zhaowei, others.* arXiv preprint arXiv:2310.19852, 2023. [[abs](https://arxiv.org/abs/2310.19852)]
-19. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[abs](https://arxiv.org/abs/2307.15217)]
-20. **The unlocking spell on base llms: Rethinking alignment via in-context learning** *Lin, Bill Yuchen, Ravichander, Abhilasha, Lu, Ximing, Dziri, Nouha, Sclar, Melanie, Chandu, Khyathi, Bhagavatula, Chandra, Choi, Yejin.* arXiv preprint arXiv:2312.01552, 2023. [[abs](https://arxiv.org/abs/2312.01552)]
-21. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[abs](https://arxiv.org/abs/2309.15025)]
+4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan, Krueger, David, Everitt, Tom, Martic, Miljan, Maini, Vishal, Legg, Shane.* arXiv preprint arXiv:1811.07871, 2018. [[paper](https://arxiv.org/abs/1811.07871)]
+5. **Building ethics into artificial intelligence** *Yu, Han, Shen, Zhiqi, Miao, Chunyan, Leung, Cyril, Lesser, Victor R, Yang, Qiang.* Presented at Proceedings of the 27th International Joint Conference on Artificial Intelligence, 2018. [paper](No URL)
+6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [[paper](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)]
+7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [[paper](https://link.springer.com/book/10.1007/978-3-030-30371-6)]
+8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F, Michael, Katina, Pitt, Jeremy, Evers, Vanessa.* Proceedings of the IEEE, 2019. [[paper](https://ieeexplore.ieee.org/document/8662743)]
+9. **Open problems in cooperative AI** *Dafoe, Allan, Hughes, Edward, Bachrach, Yoram, Collins, Tantum, McKee, Kevin R, Leibo, Joel Z, Larson, Kate, Graepel, Thore.* arXiv preprint arXiv:2012.08630, 2020. [[paper](https://arxiv.org/abs/2012.08630)]
+10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[paper](https://arxiv.org/abs/2001.09768)]
+12. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan, Bachrach, Yoram, Hadfield, Gillian, Horvitz, Eric, Larson, Kate, Graepel, Thore.* arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
+13. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben, Sinclair, Thomas.* arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
+14. **X-risk analysis for ai research** *Hendrycks, Dan, Mazeika, Mantas.* arXiv preprint arXiv:2206.05862, 2022. [[paper](https://arxiv.org/abs/2206.05862)]
+15. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+16. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin, Izmailov, Pavel, Kirchner, Jan Hendrik, Baker, Bowen, Gao, Leo, Aschenbrenner, Leopold, Chen, Yining, Ecoffet, Adrien, Joglekar, Manas, Leike, Jan, others.* arXiv preprint arXiv:2312.09390, 2023. [[paper](https://arxiv.org/abs/2312.09390)]
+17. **Whose opinions do language models reflect?** *Santurkar, Shibani, Durmus, Esin, Ladhak, Faisal, Lee, Cinoo, Liang, Percy, Hashimoto, Tatsunori.* Presented at International Conference on Machine Learning, 2023. [paper](No URL)
+18. **Ai alignment: A comprehensive survey** *Ji, Jiaming, Qiu, Tianyi, Chen, Boyuan, Zhang, Borong, Lou, Hantao, Wang, Kaile, Duan, Yawen, He, Zhonghao, Zhou, Jiayi, Zhang, Zhaowei, others.* arXiv preprint arXiv:2310.19852, 2023. [[paper](https://arxiv.org/abs/2310.19852)]
+19. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen, Davies, Xander, Shi, Claudia, Gilbert, Thomas Krendl, Scheurer, J\'e.* arXiv preprint arXiv:2307.15217, 2023. [[paper](https://arxiv.org/abs/2307.15217)]
+20. **The unlocking spell on base llms: Rethinking alignment via in-context learning** *Lin, Bill Yuchen, Ravichander, Abhilasha, Lu, Ximing, Dziri, Nouha, Sclar, Melanie, Chandu, Khyathi, Bhagavatula, Chandra, Choi, Yejin.* arXiv preprint arXiv:2312.01552, 2023. [[paper](https://arxiv.org/abs/2312.01552)]
+21. **Large language model alignment: A survey** *Shen, Tianhao, Jin, Renren, Huang, Yufei, Liu, Chuang, Dong, Weilong, Guo, Zishan, Wu, Xinwei, Liu, Yan, Xiong, Deyi.* arXiv preprint arXiv:2309.15025, 2023. [[paper](https://arxiv.org/abs/2309.15025)]
 
 ## 6. Approach AGI Responsibly
 
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 
-1. **Sparks of artificial general intelligence: Early experiments with gpt-4** *Bubeck, S\'e.* arXiv preprint arXiv:2303.12712, 2023. [[abs](https://arxiv.org/abs/2303.12712)]
-2. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[abs](https://arxiv.org/abs/2311.02462)]
+1. **Sparks of artificial general intelligence: Early experiments with gpt-4** *Bubeck, S\'e.* arXiv preprint arXiv:2303.12712, 2023. [[paper](https://arxiv.org/abs/2303.12712)]
+2. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
 
 
 ### 6.2 AGI Evaluation
@@ -427,68 +425,67 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 1. **Towards the systematic reporting of the energy and carbon footprints of machine learning** *Peter Henderson et al.* Journal of Machine Learning Research, 2020.
 2. **Green ai** *Roy Schwartz* Communications of the ACM, 2020.
 3. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
-4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv preprint arXiv:2104.08758, 2021. [[abs](https://arxiv.org/abs/2104.08758)]
-5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv preprint arXiv:2108.07258, 2021. [[abs](https://arxiv.org/abs/2108.07258)]
+4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv preprint arXiv:2104.08758, 2021. [[paper](https://arxiv.org/abs/2104.08758)]
+5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv preprint arXiv:2108.07258, 2021. [[paper](https://arxiv.org/abs/2108.07258)]
 6. **Human-like systematic generalization through a meta-learning neural network** *Brenden M Lake et al.* Nature, 2023.
 7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023.
-8. **Holistic Evaluation of Language Models** *Percy Liang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2211.09110)]
+8. **Holistic Evaluation of Language Models** *Percy Liang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.09110)]
 
 
 #### 6.2.2 Current Evaluation Frameworks and Limitations
 
-1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar et al.* arXiv 2016. [[abs](https://arxiv.org/abs/1606.05250)]
-2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi et al.* arXiv 2017. [[abs](https://arxiv.org/abs/1705.03551)]
+1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1606.05250)]
+2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi et al.* arXiv 2017. [[paper](https://arxiv.org/abs/1705.03551)]
 3. **Coqa: A conversational question answering challenge** *Siva Reddy et al.* Transactions of the Association for Computational Linguistics, 2019.
 4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* Advances in neural information processing systems, 2019.
-5. **Measuring massive multitask language understanding** *Dan Hendrycks et al.* arXiv preprint arXiv:2009.03300, 2020. [[abs](https://arxiv.org/abs/2009.03300)]
-6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [Link](No URL)
-7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Jiazhan Feng et al.* arXiv preprint arXiv:2211.05719, 2022. [[abs](https://arxiv.org/abs/2211.05719)]
-8. **Self-instruct: Aligning language models with self-generated instructions** *Yizhong Wang et al.* arXiv preprint arXiv:2212.10560, 2022. [[abs](https://arxiv.org/abs/2212.10560)]
-9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Yizhong Wang et al.* arXiv preprint arXiv:2204.07705, 2022. [[abs](https://arxiv.org/abs/2204.07705)]
-10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges** *Chenhang Cui et al.* arXiv preprint arXiv:2311.03287, 2023. [[abs](https://arxiv.org/abs/2311.03287)]
-11. **Evaluating the Robustness to Instructions of Large Language Models** *Yuansheng Ni et al.* arXiv preprint arXiv:2308.14306, 2023. [[abs](https://arxiv.org/abs/2308.14306)]
-12. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12983)]
+5. **Measuring massive multitask language understanding** *Dan Hendrycks et al.* arXiv preprint arXiv:2009.03300, 2020. [[paper](https://arxiv.org/abs/2009.03300)]
+6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [paper](No URL)
+7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Jiazhan Feng et al.* arXiv preprint arXiv:2211.05719, 2022. [[paper](https://arxiv.org/abs/2211.05719)]
+8. **Self-instruct: Aligning language models with self-generated instructions** *Yizhong Wang et al.* arXiv preprint arXiv:2212.10560, 2022. [[paper](https://arxiv.org/abs/2212.10560)]
+9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Yizhong Wang et al.* arXiv preprint arXiv:2204.07705, 2022. [[paper](https://arxiv.org/abs/2204.07705)]
+10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges** *Chenhang Cui et al.* arXiv preprint arXiv:2311.03287, 2023. [[paper](https://arxiv.org/abs/2311.03287)]
+11. **Evaluating the Robustness to Instructions of Large Language Models** *Yuansheng Ni et al.* arXiv preprint arXiv:2308.14306, 2023. [[paper](https://arxiv.org/abs/2308.14306)]
+12. **GAIA: a benchmark for General AI Assistants** *Grégoire Mialon et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.12983)]
 13. **A comprehensive evaluation framework for deep model robustness** *Jun Guo et al.* Pattern Recognition, 2023.
-14. **Agieval: A human-centric benchmark for evaluating foundation models** *Wanjun Zhong et al.* arXiv preprint arXiv:2304.06364, 2023. [[abs](https://arxiv.org/abs/2304.06364)]
-15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Xiang et al.* arXiv preprint arXiv:2311.16502, 2023. [[abs](https://arxiv.org/abs/2311.16502)]
-16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Murray Shanahan et al.* arXiv preprint arXiv:2312.03746, 2023. [[abs](https://arxiv.org/abs/2312.03746)]
-17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* Presented at The Twelfth International Conference on Learning Representations, 2024. [Link](https://openreview.net/forum?id=zAdUB0aCTQ)
-18. **Assessing and Understanding Creativity in Large Language Models** *Yunpu Zhao et al.* arXiv preprint arXiv:2401.12491, 2024. [[abs](https://arxiv.org/abs/2401.12491)]
+14. **Agieval: A human-centric benchmark for evaluating foundation models** *Wanjun Zhong et al.* arXiv preprint arXiv:2304.06364, 2023. [[paper](https://arxiv.org/abs/2304.06364)]
+15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Xiang et al.* arXiv preprint arXiv:2311.16502, 2023. [[paper](https://arxiv.org/abs/2311.16502)]
+16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Murray Shanahan et al.* arXiv preprint arXiv:2312.03746, 2023. [[paper](https://arxiv.org/abs/2312.03746)]
+17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* Presented at The Twelfth International Conference on Learning Representations, 2024. [[paper](https://openreview.net/forum?id=zAdUB0aCTQ)]
+18. **Assessing and Understanding Creativity in Large Language Models** *Yunpu Zhao et al.* arXiv preprint arXiv:2401.12491, 2024. [[paper](https://arxiv.org/abs/2401.12491)]
 19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Lianmin Zheng et al.* Advances in Neural Information Processing Systems, 2024.
 
-
-### 6.3 Potential Ways to Future AGI
+<!-- ### 6.3 Potential Ways to Future AGI -->
 
 ## 7. Case Studies
 
 ### 7.1 AI for Science Discovery and Research
 
-1. **Highly accurate protein structure prediction with AlphaFold** *Jumper, John, Evans, Richard, Pritzel, Alexander, Green, Tim, Figurnov, Michael, Ronneberger, Olaf, Tunyasuvunakool, Kathryn, Bates, Russ, Z.* Nature, 2021. [[link](https://www.nature.com/articles/s41586-021-03819-2)]
-2. **Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems** *Kramer, Stefan, Cerrato, Mattia, Dz.* arXiv preprint arXiv:2305.02251, 2023. [[abs](https://arxiv.org/abs/2305.02251)]
-3. **Predicting effects of noncoding variants with deep learning--based sequence model** *Zhou, Jian, Troyanskaya, Olga G.* Nature methods, 2015. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299/]
-4. **Learning to See Physics via Visual De-animation** *Wu, Jiajun, Lu, Erika, Kohli, Pushmeet, Freeman, Bill, Tenenbaum, Josh.* Presented at Advances in Neural Information Processing Systems, 2017. [[link](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
-5. **Deep learning for real-time gravitational wave detection and parameter estimation: Results with Advanced LIGO data** *George, Daniel, Huerta, EA.* Physics Letters B, 2018. [[link](https://www.sciencedirect.com/science/article/pii/S0370269317310390)]
-6. **Identifying quantum phase transitions with adversarial neural networks** *Rem, Bart-Jan, Käming, Niklas, Tarnowski, Matthias, Asteria, Luca, Fläschner, Nick, Becker, Christoph, Sengstock, Klaus, Weitenberg, Christof.* Nature Physics, 2019. [[link](https://arxiv.org/pdf/1710.08382)]
-7. **OpenAGI: When LLM Meets Domain Experts** *Ge, Yingqiang, Hua, Wenyue, Mei, Kai, Ji, Jianchao, Tan, Juntao, Xu, Shuyuan, Li, Zelong, Zhang, Yongfeng.* NeurIPS, 2023. [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf)
-8. **From dark matter to galaxies with convolutional networks** *Zhang, Xinyue, Wang, Yueying, Zhang, Weishan, Sun, Yuanyuan, He, Siyu, Contardo, Gabriella, Villaescusa-Navarro, Francisco, Ho, Shirley.* arXiv preprint arXiv:1902.05965, 2019. [[link](https://arxiv.org/pdf/1902.05965)]
-9. **Global optimization of quantum dynamics with AlphaZero deep exploration** *Dalgaard, Mogens, Motzoi, Felix, Sørensen, Jesper Hasseriis, Sherson, Jacob.* npj Quantum Information, 2020. [[link](https://www.nature.com/articles/s41534-019-0241-0)]
-10. **Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing** *Shruthi Bannur, Stephanie Hyland, Qianchu Liu, Fernando Pérez-García, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay.* CVPR, 2023. [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)
-11. **Mathbert: A pre-trained language model for general nlp tasks in mathematics education** *Shen, Jia Tracy, Yamashita, Michiharu, Prihar, Ethan, Heffernan, Neil, Wu, Xintao, Graff, Ben, Lee, Dongwon.* arXiv preprint arXiv:2106.07340, 2021. [[abs](https://arxiv.org/abs/2106.07340)]
-12. **Molecular Optimization using Language Models** *Maziarz, Krzysztof, Zerdes, Iulian, Rastogi, Apoorv, Yang, Xiaofeng, Wang, Jun, Aristo, Allen.* arXiv preprint arXiv:2210.00299, 2022. [[abs](https://arxiv.org/abs/2210.00299)]
-13. **RetroTRAE: retrosynthetic translation of atomic environments with Transformer** *Ucak, Umit Volkan, Ashyrmamatov, Islambek, Ko, Junsu, Lee, Juyong.* No journal, 2022.[[link](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/61f177d7e59d8731714a6a9d/original/retro-trae-retrosynthetic-translation-of-atomic-environments-with-transformer.pdf)]
-14. **ScholarBERT: bigger is not always better** *Hong, Zhi, Ajith, Aswathy, Pauloski, Gregory, Duede, Eamon, Malamud, Carl, Magoulas, Roger, Chard, Kyle, Foster, Ian.* arXiv preprint arXiv:2205.11342, 2022. [[abs](https://arxiv.org/abs/2205.11342)]
-15. **Galactica: A large language model for science** *Taylor, Ross, Kardas, Marcin, Cucurull, Guillem, Scialom, Thomas, Hartshorn, Anthony, Saravia, Elvis, Poulton, Andrew, Kerkez, Viktor, Stojnic, Robert.* arXiv preprint arXiv:2211.09085, 2022. [[abs](https://arxiv.org/abs/2211.09085)]
-16. **Formal mathematics statement curriculum learning** *Polu, Stanislas, Sutskever, Ilya.* arXiv preprint arXiv:2202.01344, 2022. [[abs](https://arxiv.org/abs/2202.01344)]
-17. **Proof Artifact Co-Training for Theorem Proving with Language Models** *Jesse Michael Han, Jason Rute, Yuhuai Wu, Edward Ayers, Stanislas Polu.* Presented at International Conference on Learning Representations, 2022. [[link](https://openreview.net/forum?id=rpxJc9j04U)]
-18. **Solving quantitative reasoning problems with language models** *Lewkowycz, Aitor, Andreassen, Anders, Dohan, David, Dyer, Ethan, Michalewski, Henryk, Ramasesh, Vinay, Slone, Ambrose, Anil, Cem, Schlag, Imanol, Gutman-Solo, Theo, others.* arXiv preprint arXiv:2206.14858, 2022. [[abs](https://arxiv.org/abs/2206.14858)]
+1. **Highly accurate protein structure prediction with AlphaFold** *Jumper, John, Evans, Richard, Pritzel, Alexander, Green, Tim, Figurnov, Michael, Ronneberger, Olaf, Tunyasuvunakool, Kathryn, Bates, Russ, Z.* Nature, 2021. [[paper](https://www.nature.com/articles/s41586-021-03819-2)]
+2. **Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems** *Kramer, Stefan, Cerrato, Mattia, Dz.* arXiv preprint arXiv:2305.02251, 2023. [[paper](https://arxiv.org/abs/2305.02251)]
+3. **Predicting effects of noncoding variants with deep learning--based sequence model** *Zhou, Jian, Troyanskaya, Olga G.* Nature methods, 2015. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299/]
+4. **Learning to See Physics via Visual De-animation** *Wu, Jiajun, Lu, Erika, Kohli, Pushmeet, Freeman, Bill, Tenenbaum, Josh.* Presented at Advances in Neural Information Processing Systems, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
+5. **Deep learning for real-time gravitational wave detection and parameter estimation: Results with Advanced LIGO data** *George, Daniel, Huerta, EA.* Physics Letters B, 2018. [[paper](https://www.sciencedirect.com/science/article/pii/S0370269317310390)]
+6. **Identifying quantum phase transitions with adversarial neural networks** *Rem, Bart-Jan, Käming, Niklas, Tarnowski, Matthias, Asteria, Luca, Fläschner, Nick, Becker, Christoph, Sengstock, Klaus, Weitenberg, Christof.* Nature Physics, 2019. [[paper](https://arxiv.org/pdf/1710.08382)]
+7. **OpenAGI: When LLM Meets Domain Experts** *Ge, Yingqiang, Hua, Wenyue, Mei, Kai, Ji, Jianchao, Tan, Juntao, Xu, Shuyuan, Li, Zelong, Zhang, Yongfeng.* NeurIPS, 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf)]
+8. **From dark matter to galaxies with convolutional networks** *Zhang, Xinyue, Wang, Yueying, Zhang, Weishan, Sun, Yuanyuan, He, Siyu, Contardo, Gabriella, Villaescusa-Navarro, Francisco, Ho, Shirley.* arXiv preprint arXiv:1902.05965, 2019. [[paper](https://arxiv.org/pdf/1902.05965)]
+9. **Global optimization of quantum dynamics with AlphaZero deep exploration** *Dalgaard, Mogens, Motzoi, Felix, Sørensen, Jesper Hasseriis, Sherson, Jacob.* npj Quantum Information, 2020. [[paper](https://www.nature.com/articles/s41534-019-0241-0)]
+10. **Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing** *Shruthi Bannur, Stephanie Hyland, Qianchu Liu, Fernando Pérez-García, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay.* CVPR, 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.pdf)]
+11. **Mathbert: A pre-trained language model for general nlp tasks in mathematics education** *Shen, Jia Tracy, Yamashita, Michiharu, Prihar, Ethan, Heffernan, Neil, Wu, Xintao, Graff, Ben, Lee, Dongwon.* arXiv preprint arXiv:2106.07340, 2021. [[paper](https://arxiv.org/abs/2106.07340)]
+12. **Molecular Optimization using Language Models** *Maziarz, Krzysztof, Zerdes, Iulian, Rastogi, Apoorv, Yang, Xiaofeng, Wang, Jun, Aristo, Allen.* arXiv preprint arXiv:2210.00299, 2022. [[paper](https://arxiv.org/abs/2210.00299)]
+13. **RetroTRAE: retrosynthetic translation of atomic environments with Transformer** *Ucak, Umit Volkan, Ashyrmamatov, Islambek, Ko, Junsu, Lee, Juyong.* No journal, 2022.[[paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/61f177d7e59d8731714a6a9d/original/retro-trae-retrosynthetic-translation-of-atomic-environments-with-transformer.pdf)]
+14. **ScholarBERT: bigger is not always better** *Hong, Zhi, Ajith, Aswathy, Pauloski, Gregory, Duede, Eamon, Malamud, Carl, Magoulas, Roger, Chard, Kyle, Foster, Ian.* arXiv preprint arXiv:2205.11342, 2022. [[paper](https://arxiv.org/abs/2205.11342)]
+15. **Galactica: A large language model for science** *Taylor, Ross, Kardas, Marcin, Cucurull, Guillem, Scialom, Thomas, Hartshorn, Anthony, Saravia, Elvis, Poulton, Andrew, Kerkez, Viktor, Stojnic, Robert.* arXiv preprint arXiv:2211.09085, 2022. [[paper](https://arxiv.org/abs/2211.09085)]
+16. **Formal mathematics statement curriculum learning** *Polu, Stanislas, Sutskever, Ilya.* arXiv preprint arXiv:2202.01344, 2022. [[paper](https://arxiv.org/abs/2202.01344)]
+17. **Proof Artifact Co-Training for Theorem Proving with Language Models** *Jesse Michael Han, Jason Rute, Yuhuai Wu, Edward Ayers, Stanislas Polu.* Presented at International Conference on Learning Representations, 2022. [[paper](https://openreview.net/forum?id=rpxJc9j04U)]
+18. **Solving quantitative reasoning problems with language models** *Lewkowycz, Aitor, Andreassen, Anders, Dohan, David, Dyer, Ethan, Michalewski, Henryk, Ramasesh, Vinay, Slone, Ambrose, Anil, Cem, Schlag, Imanol, Gutman-Solo, Theo, others.* arXiv preprint arXiv:2206.14858, 2022. [[paper](https://arxiv.org/abs/2206.14858)]
 19. **BioGPT: generative pre-trained transformer for biomedical text generation and mining** *Luo, Renqian, Sun, Liai, Xia, Yingce, Qin, Tao, Zhang, Sheng, Poon, Hoifung, Liu, Tie-Yan.* Briefings in bioinformatics, 2022. 
-20. **ChemCrow: Augmenting large-language models with chemistry tools** *Bran, Andres M, Cox, Sam, White, Andrew D, Schwaller, Philippe.* arXiv preprint arXiv:2304.05376, 2023. [[abs](https://arxiv.org/abs/2304.05376)]
-21. **Autonomous chemical research with large language models** *Boiko, Daniil A, MacKnight, Robert, Kline, Ben, Gomes, Gabe.* Nature, 2023. [[link](https://www.nature.com/articles/s41586-023-06792-0)]
-22. **Emergent autonomous scientific research capabilities of large language models** *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* arXiv 2023. [[abs](https://arxiv.org/abs/2304.05332)]
-23. **MathPrompter: Mathematical Reasoning using Large Language Models** *Imani, Shima, Du, Liang, Shrivastava, Harsh.* Presented at Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track), 2023. [[link](https://arxiv.org/pdf/2303.05398)]
-24. **Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing** *Shruthi Bannur, Stephanie Hyland, Qianchu Liu, Fernando Pérez-García, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay.* arXiv 2023. [[abs](https://arxiv.org/abs/2301.04558)]
-25. **LLMs for Science: Usage for Code Generation and Data Analysis** *Nejjar, Mohamed, Zacharias, Luca, Stiehle, Fabian, Weber, Ingo.* arXiv preprint arXiv:2311.16733, 2023. [[abs](https://arxiv.org/abs/2311.16733)]
-26. **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** *Xiangru Tang, Anni Zou, Zhuosheng Zhang, Ziming Li, Yilun Zhao, Xingyao Zhang, Arman Cohan, Mark Gerstein.* arXiv 2024. [[abs](https://arxiv.org/abs/2311.10537)]
+20. **ChemCrow: Augmenting large-language models with chemistry tools** *Bran, Andres M, Cox, Sam, White, Andrew D, Schwaller, Philippe.* arXiv preprint arXiv:2304.05376, 2023. [[paper](https://arxiv.org/abs/2304.05376)]
+21. **Autonomous chemical research with large language models** *Boiko, Daniil A, MacKnight, Robert, Kline, Ben, Gomes, Gabe.* Nature, 2023. [[paper](https://www.nature.com/articles/s41586-023-06792-0)]
+22. **Emergent autonomous scientific research capabilities of large language models** *Daniil A. Boiko, Robert MacKnight, Gabe Gomes.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.05332)]
+23. **MathPrompter: Mathematical Reasoning using Large Language Models** *Imani, Shima, Du, Liang, Shrivastava, Harsh.* Presented at Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track), 2023. [[paper](https://arxiv.org/pdf/2303.05398)]
+24. **Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing** *Shruthi Bannur, Stephanie Hyland, Qianchu Liu, Fernando Pérez-García, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay.* arXiv 2023. [[paper](https://arxiv.org/abs/2301.04558)]
+25. **LLMs for Science: Usage for Code Generation and Data Analysis** *Nejjar, Mohamed, Zacharias, Luca, Stiehle, Fabian, Weber, Ingo.* arXiv preprint arXiv:2311.16733, 2023. [[paper](https://arxiv.org/abs/2311.16733)]
+26. **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** *Xiangru Tang, Anni Zou, Zhuosheng Zhang, Ziming Li, Yilun Zhao, Xingyao Zhang, Arman Cohan, Mark Gerstein.* arXiv 2024. [[paper](https://arxiv.org/abs/2311.10537)]
 
 
 ### 7.2 Generative Visual Intelligence
@@ -511,53 +508,53 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 7.3 World Models
 
-1. **Learning to See Physics via Visual De-animation** *Wu, Jiajun, Lu, Erika, Kohli, Pushmeet, Freeman, Bill, Tenenbaum, Josh.* Presented at Advances in Neural Information Processing Systems, 2017. [[link](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
-2. **Safe model-based reinforcement learning with stability guarantees** *Berkenkamp, Felix, Turchetta, Matteo, Schoellig, Angela, Krause, Andreas.* NeurIPS, 2017. [[link](https://proceedings.neurips.cc/paper_files/paper/2017/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf)]
-3. **SimNet: Learning Simulation-Based World Models for Physical Reasoning** *Vicol, Paul, Menapace, William, Srinivasan, Kaushik, Gulcehre, Caglar, Rezende, Danilo, Battaglia, Peter.* Presented at International Conference on Learning Representations, 2022. [[link](https://dl.acm.org/doi/pdf/10.1145/3530891)]
-4. **DreamIX: DreamFusion via Iterative Spatiotemporal Mixing** *Khalifa, Anji, Elsayed, Gamaleldin, Baek, Minsu, Shazeer, Noam, Neverova, Natalia.* arXiv preprint arXiv:2212.04508, 2022. [[abs](https://arxiv.org/abs/2212.04508)]
-5. **General-Purpose Embodied AI Agent via Reinforcement Learning with Internet-Scale Knowledge** *Guo, Xiaoxiao, Gao, Pengcheng, Liu, Chang, Schott, Matthias, Lai, Yao-Hung Hubert, Mao, Jie, Rao, Yongming, Chiu, Yen-Cheng, Fernández-Granda, Carlos, Shen, Yujia, others.* arXiv preprint arXiv:2212.09710, 2022. [[abs](https://arxiv.org/abs/2212.09710)]
-6. **VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance** *Crowson, Katherine.* arXiv preprint arXiv:2204.08583, 2022. [[abs](https://arxiv.org/abs/2204.08583)]
-7. **A Path Towards Autonomous Machine Intelligence** *Lecun Yann* Openreview, 2022. [[link](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
-8. **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* Presented at Thirty-seventh Conference on Neural Information Processing Systems, 2023. [[link](https://openreview.net/forum?id=SVBR6xBaMl)]
-9. **Mastering Diverse Domains through World Models** *Hafner, Danijar, Lee, Jungseock, Fischer, Ian, Abbeel, Pieter.* arXiv preprint arXiv:2301.04104, 2023. [[abs](https://arxiv.org/abs/2301.04104)]
-10. **Acquisition of Multimodal Models via Retrieval** *Reed, Scott, Zeng, Andy, de Freitas, Nando, Szlam, Arthur.* arXiv preprint arXiv:2302.02916, 2023. [[abs](https://arxiv.org/abs/2302.02916)]
-11. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *Dohan, David, Xu, Winnie, Lewkowycz, Aitor, Michalewski, Henryk, Feichtenhofer, Christoph, Bieber, David, Sutton, Charles, Vinyals, Oriol.* arXiv preprint arXiv:2302.04754, 2023. [[abs](https://arxiv.org/abs/2302.04754)]
-12. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning** *Zhiting Hu, Tianmin Shu.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.05230)]
-13. **Reasoning with language model is planning with world model** *Hao, Shibo, Gu, Yi, Ma, Haodi, Hong, Joshua Jiahua, Wang, Zhen, Wang, Daisy Zhe, Hu, Zhiting.* arXiv preprint arXiv:2305.14992, 2023. [[abs](https://arxiv.org/abs/2305.14992)]
-14. **MetaSim: Learning to Generate Synthetic Datasets** *Zhang, Yuxuan, Eykholt, Kevin, Ren, Shaoqing, Lee, Michelle, Radenovic, Filip, Fua, Pascal, Garg, Animesh.* arXiv preprint arXiv:2302.03213, 2023. [[abs](https://arxiv.org/abs/2302.03213)]
-15. **World Model on Million-Length Video And Language With RingAttention** *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.08268)]
-16. **Genie: Generative Interactive Environments** *Jake Bruce et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2402.15391)]
+1. **Learning to See Physics via Visual De-animation** *Wu, Jiajun, Lu, Erika, Kohli, Pushmeet, Freeman, Bill, Tenenbaum, Josh.* Presented at Advances in Neural Information Processing Systems, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
+2. **Safe model-based reinforcement learning with stability guarantees** *Berkenkamp, Felix, Turchetta, Matteo, Schoellig, Angela, Krause, Andreas.* NeurIPS, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf)]
+3. **SimNet: Learning Simulation-Based World Models for Physical Reasoning** *Vicol, Paul, Menapace, William, Srinivasan, Kaushik, Gulcehre, Caglar, Rezende, Danilo, Battaglia, Peter.* Presented at International Conference on Learning Representations, 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3530891)]
+4. **DreamIX: DreamFusion via Iterative Spatiotemporal Mixing** *Khalifa, Anji, Elsayed, Gamaleldin, Baek, Minsu, Shazeer, Noam, Neverova, Natalia.* arXiv preprint arXiv:2212.04508, 2022. [[paper](https://arxiv.org/abs/2212.04508)]
+5. **General-Purpose Embodied AI Agent via Reinforcement Learning with Internet-Scale Knowledge** *Guo, Xiaoxiao, Gao, Pengcheng, Liu, Chang, Schott, Matthias, Lai, Yao-Hung Hubert, Mao, Jie, Rao, Yongming, Chiu, Yen-Cheng, Fernández-Granda, Carlos, Shen, Yujia, others.* arXiv preprint arXiv:2212.09710, 2022. [[paper](https://arxiv.org/abs/2212.09710)]
+6. **VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance** *Crowson, Katherine.* arXiv preprint arXiv:2204.08583, 2022. [[paper](https://arxiv.org/abs/2204.08583)]
+7. **A Path Towards Autonomous Machine Intelligence** *Lecun Yann* Openreview, 2022. [[paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
+8. **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *Jiannan Xiang, Tianhua Tao, Yi Gu, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu.* Presented at Thirty-seventh Conference on Neural Information Processing Systems, 2023. [[paper](https://openreview.net/forum?id=SVBR6xBaMl)]
+9. **Mastering Diverse Domains through World Models** *Hafner, Danijar, Lee, Jungseock, Fischer, Ian, Abbeel, Pieter.* arXiv preprint arXiv:2301.04104, 2023. [[paper](https://arxiv.org/abs/2301.04104)]
+10. **Acquisition of Multimodal Models via Retrieval** *Reed, Scott, Zeng, Andy, de Freitas, Nando, Szlam, Arthur.* arXiv preprint arXiv:2302.02916, 2023. [[paper](https://arxiv.org/abs/2302.02916)]
+11. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *Dohan, David, Xu, Winnie, Lewkowycz, Aitor, Michalewski, Henryk, Feichtenhofer, Christoph, Bieber, David, Sutton, Charles, Vinyals, Oriol.* arXiv preprint arXiv:2302.04754, 2023. [[paper](https://arxiv.org/abs/2302.04754)]
+12. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning** *Zhiting Hu, Tianmin Shu.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.05230)]
+13. **Reasoning with language model is planning with world model** *Hao, Shibo, Gu, Yi, Ma, Haodi, Hong, Joshua Jiahua, Wang, Zhen, Wang, Daisy Zhe, Hu, Zhiting.* arXiv preprint arXiv:2305.14992, 2023. [[paper](https://arxiv.org/abs/2305.14992)]
+14. **MetaSim: Learning to Generate Synthetic Datasets** *Zhang, Yuxuan, Eykholt, Kevin, Ren, Shaoqing, Lee, Michelle, Radenovic, Filip, Fua, Pascal, Garg, Animesh.* arXiv preprint arXiv:2302.03213, 2023. [[paper](https://arxiv.org/abs/2302.03213)]
+15. **World Model on Million-Length Video And Language With RingAttention** *Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.08268)]
+16. **Genie: Generative Interactive Environments** *Jake Bruce et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.15391)]
 
 
 ### 7.4 Decentralized LLM
 
-1. **Petals: Collaborative Inference and Fine-tuning of Large Models** *Alexander Borzunov et al.* arXiv preprint arXiv:2209.01188, 2022. [[abs](https://arxiv.org/abs/2209.01188)]
-2. **Blockchain for Deep Learning: Review and Open Challenges** *The Economic Times.* arXiv 2021. [[abs](https://arxiv.org/abs/No eprint ID)]
-3. **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** *Ying Sheng et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2303.06865)]
-4. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2206.01288)]
+1. **Petals: Collaborative Inference and Fine-tuning of Large Models** *Alexander Borzunov et al.* arXiv preprint arXiv:2209.01188, 2022. [[paper](https://arxiv.org/abs/2209.01188)]
+2. **Blockchain for Deep Learning: Review and Open Challenges** *The Economic Times.* arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
+3. **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** *Ying Sheng et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.06865)]
+4. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2206.01288)]
 
 ### 7.5 AI for Coding
 
-1. **A framework for the evaluation of code generation models** *Ben Allal et al.* arXiv. [[abs](https://arxiv.org/abs/No eprint ID)]
+1. **A framework for the evaluation of code generation models** *Ben Allal et al.* arXiv. [[paper](https://arxiv.org/abs/No eprint ID)]
 2. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
-3. **Program Synthesis with Large Language Models** *Jacob Austin et al.* arXiv 2021. [[abs](https://arxiv.org/abs/2108.07732)]
+3. **Program Synthesis with Large Language Models** *Jacob Austin et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2108.07732)]
 4. **Competition-level code generation with AlphaCode** *Yujia Li et al.* Science, 2022.
-5. **Efficient Training of Language Models to Fill in the Middle** *Mohammad Bavarian et al.* arXiv 2022. [[abs](https://arxiv.org/abs/2207.14255)]
+5. **Efficient Training of Language Models to Fill in the Middle** *Mohammad Bavarian et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2207.14255)]
 6. **SantaCoder: don't reach for the stars!** *Loubna Ben Allal et al.* Mind, 2023.
-7. **StarCoder: may the source be with you!** *Raymond Li et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2305.06161)]
-8. **Large Language Models for Compiler Optimization** *Chris Cummins et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2309.07062)]
-9. **Textbooks Are All You Need** *Suriya Gunasekar et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.11644)]
-10. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** *John Yang et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2306.14898)]
-11. **Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation** *Benjamin Steenhoek et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.02368)]
-12. **InCoder: A Generative Model for Code Infilling and Synthesis** *Daniel Fried et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2204.05999)]
-13. **Refining Decompiled C Code with Large Language Models** *Wai Kin Wong et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06530)]
-14. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** *Carlos E et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.06770)]
-15. **EvoPrompting: Language Models for Code-Level Neural Architecture Search** *Angelica Chen et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2302.14838)]
-16. **Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet** *Saad Ullah et al.* arXiv 2023. [[abs](https://arxiv.org/abs/2312.12575)]
-17. **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** *Ziniu Hu et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.01248)]
-18. **DebugBench: Evaluating Debugging Capability of Large Language Models** *Runchu Tian et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2401.04621)]
-19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2305.12050)]
-20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière et al.* arXiv 2024. [[abs](https://arxiv.org/abs/2308.12950)]
+7. **StarCoder: may the source be with you!** *Raymond Li et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.06161)]
+8. **Large Language Models for Compiler Optimization** *Chris Cummins et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.07062)]
+9. **Textbooks Are All You Need** *Suriya Gunasekar et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.11644)]
+10. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** *John Yang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.14898)]
+11. **Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation** *Benjamin Steenhoek et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.02368)]
+12. **InCoder: A Generative Model for Code Infilling and Synthesis** *Daniel Fried et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2204.05999)]
+13. **Refining Decompiled C Code with Large Language Models** *Wai Kin Wong et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.06530)]
+14. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** *Carlos E et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.06770)]
+15. **EvoPrompting: Language Models for Code-Level Neural Architecture Search** *Angelica Chen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2302.14838)]
+16. **Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet** *Saad Ullah et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.12575)]
+17. **SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code** *Ziniu Hu et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.01248)]
+18. **DebugBench: Evaluating Debugging Capability of Large Language Models** *Runchu Tian et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.04621)]
+19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2305.12050)]
+20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2308.12950)]
 21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Jinyang Li et al.* Advances in Neural Information Processing Systems, 2024.
 
 
@@ -565,15 +562,15 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 1. **The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies** *Brynjolfsson, Erik, McAfee, Andrew.* W. W. Norton \& Company, 2014.
 2. **Rise of the Robots: Technology and the Threat of a Jobless Future** *Ford, Martin.* Basic Books, 2015.
-3. **Lessons from the amazon picking challenge: Four aspects of building robotic systems.** *Eppner, Clemens, H\"o.* Presented at Robotics: science and systems, 2016. [[Link](https://m.roboticsproceedings.org/rss12/p36.pdf)]
+3. **Lessons from the amazon picking challenge: Four aspects of building robotic systems.** *Eppner, Clemens, H\"o.* Presented at Robotics: science and systems, 2016. [[paper](https://m.roboticsproceedings.org/rss12/p36.pdf)]
 4. **Life 3.0: Being Human in the Age of Artificial Intelligence** *Tegmark, Max.* Knopf, 2017.
-5. **A Language Agent for Autonomous Driving** *Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone, Yue Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.10813)]
-6. **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration** *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi.* arXiv 2023. [[abs](https://arxiv.org/abs/2311.12015)]
-7. **NOIR** *Ruohan Zhang, Sharon Lee, Minjune Hwang, Ayano Hiranaka, Chen Wang, Wensi Ai, Jin Jie Ryan Tan, Shreya Gupta, Yilun Hao, Gabrael Levine, Ruohan Gao, Anthony Norcia, Li Fei-Fei, Jiajun Wu.* Presented at 7th Annual Conference on Robot Learning, 2023. [[link](https://openreview.net/forum?id=eyykI3UIHa)]
-8. **GPT-Driver: Learning to Drive with GPT** *Jiageng Mao, Yuxi Qian, Junjie Ye, Hang Zhao, Yue Wang.* arXiv 2023. [[abs](https://arxiv.org/abs/2310.01415)]
-9. **Yell At Your Robot: Improving On-the-Fly from Language Corrections** *Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn.* arXiv 2024. [[abs](https://arxiv.org/abs/2403.12910)]
-10. **DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models** *Licheng Wen, Daocheng Fu, Xin Li, Xinyu Cai, Tao MA, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao.* ICLR, 2024. [[link](https://openreview.net/forum?id=OqTMUPuLuC)]
-11. **AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning** *Senkang Hu, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang.* arXiv 2024. [[abs](https://arxiv.org/abs/2404.06345)]
+5. **A Language Agent for Autonomous Driving** *Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone, Yue Wang.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.10813)]
+6. **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration** *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.12015)]
+7. **NOIR** *Ruohan Zhang, Sharon Lee, Minjune Hwang, Ayano Hiranaka, Chen Wang, Wensi Ai, Jin Jie Ryan Tan, Shreya Gupta, Yilun Hao, Gabrael Levine, Ruohan Gao, Anthony Norcia, Li Fei-Fei, Jiajun Wu.* Presented at 7th Annual Conference on Robot Learning, 2023. [[paper](https://openreview.net/forum?id=eyykI3UIHa)]
+8. **GPT-Driver: Learning to Drive with GPT** *Jiageng Mao, Yuxi Qian, Junjie Ye, Hang Zhao, Yue Wang.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.01415)]
+9. **Yell At Your Robot: Improving On-the-Fly from Language Corrections** *Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.12910)]
+10. **DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models** *Licheng Wen, Daocheng Fu, Xin Li, Xinyu Cai, Tao MA, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao.* ICLR, 2024. [[paper](https://openreview.net/forum?id=OqTMUPuLuC)]
+11. **AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning** *Senkang Hu, Zhengru Fang, Zihan Fang, Xianhao Chen, Yuguang Fang.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.06345)]
 
 
 ### 7.7 Human-AI Collaboration
