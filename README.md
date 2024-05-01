@@ -2,6 +2,9 @@
 
 Must-read Papers on Artifical General Intelligence with foundation models.
 
+<p align="center">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.jpg" alt="Abstract Image">
+</p>
 ---
 
 # 📜Content
