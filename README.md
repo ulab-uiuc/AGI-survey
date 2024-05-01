@@ -3,7 +3,7 @@
 Must-read Papers on Artifical General Intelligence with foundation models.
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.jpg" alt="Abstract Image">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.jpg" alt="Abstract Image" width="500" >
 </p>
 ---
 
@@ -11,7 +11,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 - [Awesom-AGI Survey Papers](#awesom-agi-survey-papers)
 - [📜 Content](#content)
-  <!-- - [1. Introduction](#1-introduction) -->
+  - [1. Introduction](#1-introduction)
   - [2. 🧠 AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
     - [2.1 Perception](#21-perception)
     - [2.2 Reasoning](#22-reasoning)
@@ -51,9 +51,17 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     - [7.6 AI for Robotics in Real World Applications](#76-ai-for-robotics-in-real-world-applications)
     - [7.7 Human-AI Collaboration](#77-human-ai-collaboration)
 
-<!-- ## 1. Introduction -->
+## 1. Introduction
+
+<p align="center">
+  <iframe src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.pdf" width="600" height="500"></iframe>
+</p>
 
 ## 2. AGI Internal: Unveiling the Mind of AGI
+
+<p align="center">
+  <iframe src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/internal.pdf" width="600" height="500"></iframe>
+</p>
 
 ### 2.1 Perception
 
@@ -130,6 +138,11 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution** *Cheng Qian, Shihao Liang, Yujia Qin, Yining Ye, Xin Cong, Yankai Lin, Yesai Wu, Zhiyuan Liu, Maosong Sun.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)]
 
 ## 3. AGI Interface: Connecting the World with AGI
+
+<p align="center">
+  <iframe src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/interface.pdf" width="600" height="500"></iframe>
+</p>
+
 
 ### 3.1 Interfaces to Digital World
 
@@ -232,6 +245,10 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     *Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman*. CHI 2020. [[paper](https://dl.acm.org/doi/10.1145/3313831.3376301)]
 
 ## 4. AGI Systems: Implementing the Mechanism of AGI
+
+<p align="center">
+  <iframe src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system.pdf" width="600" height="500"></iframe>
+</p>
 
 ### 4.2 Scalable Model Architectures
 
