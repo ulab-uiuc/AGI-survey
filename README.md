@@ -158,20 +158,20 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 3.1 Interfaces to Digital World
 
-1. **Principles of mixed-initiative user interfaces** *Horvitz, Eric.* SIGCHI, 1999. [[paper](https://dl.acm.org/doi/pdf/10.1145/302979.303030)]
-2. **The rise and potential of large language model based agents: A survey** *Xi, Zhiheng* et al. arXiv preprint arXiv:2309.07864, 2023. [[paper](https://arxiv.org/abs/2309.07864)]
-3. **Tool learning with foundation models** *Qin, Yujia* et al. arXiv preprint arXiv:2304.08354, 2023. [[paper](https://arxiv.org/abs/2304.08354)]
-4. **Creator: Disentangling abstract and concrete reasonings of large language models through tool creation** *Qian, Cheng* et al. arXiv preprint arXiv:2305.14318, 2023. [[paper](https://arxiv.org/abs/2305.14318)]
-5. **AppAgent: Multimodal Agents as Smartphone Users** *Yang, Zhao* et al. arXiv preprint arXiv:2312.13771, 2023. [[paper](https://arxiv.org/abs/2312.13771)]
-6. **Mind2Web: Towards a Generalist Agent for the Web** *Xiang Deng* et al. NeurIPS benchmark, 2023. [[paper](https://openreview.net/forum?id=kiYqbO3wqw)]
-7. **ToolQA: A Dataset for LLM Question Answering with External Tools** *Zhuang, Yuchen* et al. arXiv preprint arXiv:2306.13304, 2023. [[paper](https://arxiv.org/abs/2306.13304)]
-8. **Generative agents: Interactive simulacra of human behavior** *Park, Joon Sung* et al. arXiv preprint arXiv:2304.03442, 2023. [[paper](https://arxiv.org/abs/2304.03442)]
-9. **Toolformer: Language models can teach themselves to use tools** *Schick, Timo* et al. arXiv preprint arXiv:2302.04761, 2023. [[paper](https://arxiv.org/abs/2302.04761)]
-10. **Gorilla: Large language model connected with massive apis** *Patil, Shishir G, Zhang* et al. arXiv preprint arXiv:2305.15334, 2023. [[paper](https://arxiv.org/abs/2305.15334)]
-11. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi* et al. arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
-12. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** *Zhiyong Wu* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2402.07456)]
-13. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou* et al. ICLR, 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
-14. **Large Language Models as Tool Makers** *Tianle Cai* et al. ICLR, 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
+1. **Principles of mixed-initiative user interfaces** *Eric Horvitz.* SIGCHI, 1999. [[paper](https://dl.acm.org/doi/pdf/10.1145/302979.303030)]
+2. **The rise and potential of large language model based agents: A survey** *Zhiheng Xi et al.* arXiv preprint arXiv:2309.07864, 2023. [[paper](https://arxiv.org/abs/2309.07864)]
+3. **Tool learning with foundation models** *Yujia Qin et al.* arXiv preprint arXiv:2304.08354, 2023. [[paper](https://arxiv.org/abs/2304.08354)]
+4. **Creator: Disentangling abstract and concrete reasonings of large language models through tool creation** *Cheng Qian et al.* arXiv preprint arXiv:2305.14318, 2023. [[paper](https://arxiv.org/abs/2305.14318)]
+5. **AppAgent: Multimodal Agents as Smartphone Users** *Zhao Yang et al.* arXiv preprint arXiv:2312.13771, 2023. [[paper](https://arxiv.org/abs/2312.13771)]
+6. **Mind2Web: Towards a Generalist Agent for the Web** *Xiang Deng et al.* NeurIPS benchmark, 2023. [[paper](https://openreview.net/forum?id=kiYqbO3wqw)]
+7. **ToolQA: A Dataset for LLM Question Answering with External Tools** *Yuchen Zhuang et al.* arXiv preprint arXiv:2306.13304, 2023. [[paper](https://arxiv.org/abs/2306.13304)]
+8. **Generative agents: Interactive simulacra of human behavior** *Joon Sung Park et al.* arXiv preprint arXiv:2304.03442, 2023. [[paper](https://arxiv.org/abs/2304.03442)]
+9. **Toolformer: Language models can teach themselves to use tools** *Timo Schick et al.* arXiv preprint arXiv:2302.04761, 2023. [[paper](https://arxiv.org/abs/2302.04761)]
+10. **Gorilla: Large language model connected with massive apis** *Shishir G Patil et al.* arXiv preprint arXiv:2305.15334, 2023. [[paper](https://arxiv.org/abs/2305.15334)]
+11. **Voyager: An open-ended embodied agent with large language models** *Guanzhi Wang et al.* arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
+12. **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement** *Zhiyong Wu et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.07456)]
+13. **WebArena: A Realistic Web Environment for Building Autonomous Agents** *Shuyan Zhou et al.* ICLR, 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
+14. **Large Language Models as Tool Makers** *Tianle Cai et al.* ICLR, 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
 
 
 ### 3.2 Interfaces to Physical World
