@@ -70,24 +70,24 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 2.1 Perception
 
-1. **Flamingo: a visual language model for few-shot learning** *Alayrac, Jean-Baptiste* et al. NeurIPS, 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf)]
-2. **Otter: A multi-modal model with in-context instruction tuning** *Li, Bo* et al. arXiv preprint arXiv:2305.03726, 2023. [[paper](https://arxiv.org/abs/2305.03726)]
-3. **Videochat: Chat-centric video understanding** *Li, KunChang* et al. arXiv preprint arXiv:2305.06355, 2023. [[paper](https://arxiv.org/abs/2305.06355)]
-4. **mplug-owl: Modularization empowers large language models with multimodality** *Ye, Qinghao* et al. arXiv preprint arXiv:2304.14178, 2023. [[paper](https://arxiv.org/abs/2304.14178)]
-5. **A Survey on Multimodal Large Language Models** *Yin, Shukang* et al. arXiv preprint arXiv:2306.13549, 2023. [[paper](https://arxiv.org/abs/2306.13549)]
-6. **Pandagpt: One model to instruction-follow them all** *Su, Yixuan* et al. arXiv preprint arXiv:2305.16355, 2023. [[paper](https://arxiv.org/abs/2305.16355)]
-7. **Minigpt-4: Enhancing vision-language understanding with advanced large language models** *Zhu, Deyao* et al. arXiv preprint arXiv:2304.10592, 2023. [[paper](https://arxiv.org/abs/2304.10592)]
-8. **Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models** *Li, Junnan, Li, Dongxu, Savarese, Silvio, Hoi, Steven.* ICML, 2023. [[paper](https://proceedings.mlr.press/v202/li23q/li23q.pdf)]
-9. **Llama-adapter: Efficient fine-tuning of language models with zero-init attention** *Zhang, Renrui* et al. arXiv preprint arXiv:2303.16199, 2023. [[paper](https://arxiv.org/abs/2303.16199)]
-10. **Visual instruction tuning** *Liu, Haotian* et al. arXiv preprint arXiv:2304.08485, 2023. [[paper](https://arxiv.org/abs/2304.08485)]
-11. **Gemini: a family of highly capable multimodal models** *Team, Gemini* et al. arXiv preprint arXiv:2312.11805, 2023. [[paper](https://arxiv.org/abs/2312.11805)]
-12. **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic** *Chen, Keqin* et al. arXiv preprint arXiv:2306.15195, 2023. [[paper](https://arxiv.org/abs/2306.15195)]
-13. **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models** *Ziyi Lin* et al. ArXiv, 2023.
-14. **Gpt4tools: Teaching large language model to use tools via self-instruction** *Yang, Rui* et al. arXiv preprint arXiv:2305.18752, 2023. [[paper](https://arxiv.org/abs/2305.18752)]
-15. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment** *Zhu* et al. arXiv preprint arXiv:2310.01852, 2023. [[paper](https://arxiv.org/abs/2310.01852)]
-16. **Imagebind: One embedding space to bind them all** *Girdhar, Rohit* et al. CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf)
-17. **Mobilevlm: A fast, reproducible and strong vision language assistant for mobile devices** *Chu, Xiangxiang* et al. arXiv preprint arXiv:2312.16886, 2023. [[paper](https://arxiv.org/abs/2312.16886)]
-18. **What Makes for Good Visual Tokenizers for Large Language Models?** *Wang, Guangzhi* et al. arXiv preprint arXiv:2305.12223, 2023. [[paper](https://arxiv.org/abs/2305.12223)]
+1. **Flamingo: a Visual Language Model for Few-Shot Learning**. *Jean-Baptiste Alayrac* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2204.14198)]
+2. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. *Junnan Li* et al. ICML 2023. [[paper](https://arxiv.org/abs/2301.12597)]
+3. **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**. *Ziyi Lin* et al. EMNLP 2023. [[paper](https://arxiv.org/abs/2311.07575)]
+4. **Visual Instruction Tuning**. *Haotian Liu* et al. NeurIPS 2023. [[paper](https://arxiv.org/abs/2304.08485)]
+5. **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**. *Rui Yang* et al. NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.18752)]
+6. **Otter: A Multi-Modal Model with In-Context Instruction Tuning**. *Bo Li* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.03726)]
+7. **VideoChat: Chat-Centric Video Understanding**. *KunChang Li* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.06355)]
+8. **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**. *Qinghao Ye* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.14178)]
+9. **A Survey on Multimodal Large Language Models**. *Shukang Yin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2306.13549)]
+10. **PandaGPT: One Model To Instruction-Follow Them All**. *Yixuan Su* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.16355)]
+11. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**. *Renrui Zhang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2303.16199)]
+12. **Gemini: A Family of Highly Capable Multimodal Models**. *Rohan Anil* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.11805)]
+13. **Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**. *Keqin Chen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2306.15195)]
+14. **ImageBind: One Embedding Space To Bind Them All**. *Rohit Girdhar* et al. CVPR 2023. [paper](https://arxiv.org/abs/2305.05665)
+15. **MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**. *Xiangxiang Chu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.16886)]
+16. **What Makes for Good Visual Tokenizers for Large Language Models?**. *Guangzhi Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.12223)]
+17. **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**. *Deyao Zhu* et al. ICLR 2024. [[paper](https://arxiv.org/abs/2304.10592)]
+18. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**. *Bin Zhu* et al. ICLR 2024. [[paper](https://arxiv.org/abs/2310.01852)]
 
 ### 2.2 Reasoning
 
