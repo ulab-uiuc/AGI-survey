@@ -600,14 +600,14 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 7.6 AI for Robotics in Real World Applications
 
-1. **The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies** *Brynjolfsson, Erik, McAfee, Andrew.* W. W. Norton \& Company, 2014.
+1. **The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies** *Brynjolfsson, Erik* W. W. Norton \& Company, 2014.
 2. **Rise of the Robots: Technology and the Threat of a Jobless Future** *Ford, Martin.* Basic Books, 2015.
 3. **Lessons from the amazon picking challenge: Four aspects of building robotic systems.** *Eppner, Clemens, H\"o.* Presented at Robotics: science and systems, 2016. [[paper](https://m.roboticsproceedings.org/rss12/p36.pdf)]
 4. **Life 3.0: Being Human in the Age of Artificial Intelligence** *Tegmark, Max.* Knopf, 2017.
 5. **A Language Agent for Autonomous Driving** *Jiageng Mao* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2311.10813)]
 6. **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration** *Naoki Wake* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2311.12015)]
 7. **NOIR** *Ruohan Zhang* et al. Presented at 7th Annual Conference on Robot Learning, 2023. [[paper](https://openreview.net/forum?id=eyykI3UIHa)]
-8. **GPT-Driver: Learning to Drive with GPT** *Jiageng Mao, Yuxi Qian, Junjie Ye, Hang Zhao, Yue Wang.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.01415)]
+8. **GPT-Driver: Learning to Drive with GPT** *Jiageng Mao* arXiv 2023. [[paper](https://arxiv.org/abs/2310.01415)]
 9. **Yell At Your Robot: Improving On-the-Fly from Language Corrections** *Lucy Xiaoyang Shi* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.12910)]
 10. **DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models** *Licheng Wen* et al. ICLR, 2024. [[paper](https://openreview.net/forum?id=OqTMUPuLuC)]
 11. **AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning** *Senkang Hu* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.06345)]
