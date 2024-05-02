@@ -51,16 +51,26 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     - [7.6 AI for Robotics in Real World Applications](#76-ai-for-robotics-in-real-world-applications)
     - [7.7 Human-AI Collaboration](#77-human-ai-collaboration)
 
+<p align="center">
+  <figure>
+    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/intro.jpg" alt="intro">
+    <figcaption>The framework design of our paper.</figcaption>
+  </figure>
+</p>
+
 ## 1. Introduction
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png">
 </p>
-
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/intro.jpg">
+  <figure>
+    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png" alt="agi_progress">
+    <figcaption>Proportion of Human Activities Surpassed by AI.</figcaption>
+  </figure>
 </p>
+
 
 ## 2. AGI Internal: Unveiling the Mind of AGI
 
