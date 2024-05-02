@@ -56,9 +56,8 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/intro.jpg" alt="intro">
   </figure>
 </p>
-<div align="center" style="font-weight:bold; font-size:24px;">
-**The framework design of our paper.**
-</div>
+
+-> **The framework design of our paper.** <-
 
 
 ## 1. Introduction
@@ -68,9 +67,8 @@ Must-read Papers on Artifical General Intelligence with foundation models.
     <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png" alt="agi_progress">
   </figure>
 </p>
-<div align="center" style="font-weight:bold; font-size:24px;">
-**Proportion of Human Activities Surpassed by AI.**
-</div>
+
+-> **Proportion of Human Activities Surpassed by AI.** <-
 
 
 ## 2. AGI Internal: Unveiling the Mind of AGI
