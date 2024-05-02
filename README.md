@@ -57,7 +57,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
   </figure>
 </p>
 <div align="center" style="font-weight:bold; font-size:24px;">
-The framework design of our paper.
+**The framework design of our paper.**
 </div>
 
 
@@ -69,7 +69,7 @@ The framework design of our paper.
   </figure>
 </p>
 <div align="center" style="font-weight:bold; font-size:24px;">
-Proportion of Human Activities Surpassed by AI.
+**Proportion of Human Activities Surpassed by AI.**
 </div>
 
 
