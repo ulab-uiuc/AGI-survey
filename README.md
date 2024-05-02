@@ -126,21 +126,19 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 ### 2.4 Metacognition
 
-1. **Does the chimpanzee have a theory of mind?** *David Premack* et al. Behavioral and brain sciences, 1978. [[paper](https://www.researchgate.net/profile/Guy-Woodruff/publication/232003352_Does_a_chimpanzee_have_a_theory_of_mind/links/61e7fad48d338833e37df26a/Does-a-chimpanzee-have-a-theory-of-mind.pdf)]
-2. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning** *Choudrie, Jyoti* et al. HICSS, 2006. [[paper](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
-3. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching** *Nam Le.* arXiv 2019. [[paper](https://arxiv.org/abs/1906.08865)]
-4. **Making pre-trained language models better few-shot learners** *Gao, Tianyu* et al. arXiv preprint arXiv:2012.15723, 2020. [[paper](https://arxiv.org/abs/2012.15723)]
-5. **Evaluating and Inducing Personality in Pre-trained Language Models** *Jiang, Guangyuan* et al. NeurIPS, 2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf)]
-6. **Identifying and manipulating the personality traits of language models** *Caron, Graham* et al. arXiv preprint arXiv:2212.10276, 2022. [[paper](https://arxiv.org/abs/2212.10276)]
-7. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can* et al. arXiv preprint arXiv:2304.12244, 2023. [[paper](https://arxiv.org/abs/2304.12244)]
-8. **Self-Instruct: Aligning Language Models with Self-Generated Instructions** *Yizhong Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2212.10560)]
-9. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent** *Renat Aksitov* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.10003)]
-10. **The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?** *Jin, Chuanyang* et al. arXiv preprint arXiv:2308.14242, 2023. [[paper](https://arxiv.org/abs/2308.14242)]
-11. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness** *Patrick Butlin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.08708)]
-12. **Voyager: An open-ended embodied agent with large language models** *Wang, Guanzhi* et al. arXiv preprint arXiv:2305.16291, 2023. [[paper](https://arxiv.org/abs/2305.16291)]
-13. **ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models** *Huang, Jen-tse* et al. arXiv preprint arXiv:2305.19926, 2023. [[paper](https://arxiv.org/abs/2305.19926)]
-14. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
-15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution** *Cheng Qian* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)]
+1. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning**. *Jyoti Choudrie* et al. HICSS 2006. [[paper](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
+2. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching**. *Nam Le*. arXiv 2019. [[paper](https://arxiv.org/abs/1906.08865)]
+3. **Making pre-trained language models better few-shot learners**. *Tianyu Gao* et al. ACL 2021. [[paper](https://arxiv.org/abs/2012.15723)]
+4. **Identifying and Manipulating the Personality Traits of Language Models**. *Graham Caron* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2212.10276)]
+5. **WizardLM: Empowering Large Language Models to Follow Complex Instructions**. *Can Xu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.12244)]
+6. **Self-Instruct: Aligning Language Models with Self-Generated Instructions**. *Yizhong Wang* et al. ACL 2023. [[paper](https://arxiv.org/abs/2212.10560)]
+7. **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**. *Renat Aksitov* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.10003)]
+8. **The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?**. *Chuanyang Jin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.14242)]
+9. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness**. *Patrick Butlin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.08708)]
+10. **Revisiting the Reliability of Psychological Scales on Large Language Models**. *Jen-tse Huang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.19926)]
+11. **Evaluating and Inducing Personality in Pre-trained Language Models**. *Guangyuan Jiang* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2206.07550)]
+12. **Levels of AGI: Operationalizing Progress on the Path to AGI**. *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
+13. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution**. *Cheng Qian* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)]
 
 ## 3. AGI Interface: Connecting the World with AGI
 
