@@ -64,7 +64,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 
 <p align="center">
   <figure>
-    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png" alt="agi_progress">
+    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png" width="500">
   </figure>
 </p>
 
@@ -74,7 +74,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 2. AGI Internal: Unveiling the Mind of AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/internal.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/internal.jpg" width="500">
 </p>
 
 ### 2.1 Perception
@@ -152,7 +152,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 3. AGI Interface: Connecting the World with AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/interface.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/interface.jpg" width="500">
 </p>
 
 
@@ -259,11 +259,11 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 4. AGI Systems: Implementing the Mechanism of AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system.jpg" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system_taxonomy.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system_taxonomy.jpg" width="500">
 </p>
 
 ### 4.2 Scalable Model Architectures
@@ -359,7 +359,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ## 5. AGI Alignment: Reconciling Needs with AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/alignment.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/alignment.jpg" width="500">
 </p>
 
 
@@ -461,7 +461,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 ### 6.2 AGI Evaluation
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/levels.jpg">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/levels.jpg" width="500">
 </p>
 
 #### 6.2.1 What Do We Expect from AGI Evaluations
