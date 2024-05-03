@@ -262,6 +262,10 @@ Must-read Papers on Artifical General Intelligence with foundation models.
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system.jpg">
 </p>
 
+<p align="center">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system_taxonomy.jpg">
+</p>
+
 ### 4.2 Scalable Model Architectures
 
 1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer* et al. arXiv preprint arXiv:1701.06538, 2017. [[paper](https://arxiv.org/abs/1701.06538)]
