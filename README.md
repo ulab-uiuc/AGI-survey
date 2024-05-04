@@ -437,7 +437,7 @@ Must-read Papers on Artifical General Intelligence with foundation models.
 6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [[paper](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)]
 7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [[paper](https://link.springer.com/book/10.1007/978-3-030-30371-6)]
 8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F* et al. Proceedings of the IEEE, 2019. [[paper](https://ieeexplore.ieee.org/document/8662743)]
-9. **Open problems in cooperative AI** *Dafoe, Allan* et al. arXiv preprint arXiv:2012.08630, 2020. [[paper](https://arxiv.org/abs/2012.08630)]
+9. **Open problems in cooperative AI** *Dafoe, Allan* et al. arXiv 2020. [[paper](https://arxiv.org/abs/2012.08630)]
 10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[paper](https://arxiv.org/abs/2001.09768)]
 11. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan* et al. arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
 12. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben* et al. arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
