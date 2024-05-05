@@ -2,7 +2,7 @@
 
 Must-read Papers on Artificial General Intelligence with foundation models.
 
-We plan to add more work soon, and we welcome pull requests!
+🔥 Our project is an ongoing, open initiative that will continue to evolve in line with advancements in AGI. We plan to add more work soon, and we welcome pull requests!
 
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image" width="500" >
