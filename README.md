@@ -1,6 +1,8 @@
-# Awesom-AGI Survey Papers
+# Awesome-AGI Survey Papers
 
-Must-read Papers on Artifical General Intelligence with foundation models.
+Must-read Papers on Artificial General Intelligence with foundation models.
+
+We plan to add more work soon, and we welcome pull requests!
 
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image" width="500" >
