@@ -11,40 +11,37 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 
 # 📜Content
 
-- [Awesom-AGI Survey Papers](#awesom-agi-survey-papers)
-- [📜 Content](#content)
+- [Awesome-AGI Survey Papers](#awesome-agi-survey-papers)
+  - [](#)
+- [📜Content](#content)
   - [1. Introduction](#1-introduction)
-  - [2. 🧠 AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
+  - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
     - [2.1 Perception](#21-perception)
     - [2.2 Reasoning](#22-reasoning)
     - [2.3 Memory](#23-memory)
     - [2.4 Metacognition](#24-metacognition)
-  - [3. 🗺️ AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
+  - [3. AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
     - [3.1 Interfaces to Digital World](#31-interfaces-to-digital-world)
     - [3.2 Interfaces to Physical World](#32-interfaces-to-physical-world)
     - [3.3 Interfaces to Intelligence](#33-interfaces-to-intelligence)
       - [3.3.1 Interfaces to AI Agents](#331-interfaces-to-ai-agents)
       - [3.3.2 Interfaces to Human](#332-interfaces-to-human)
-  - [4. 💻 AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
+  - [4. AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
     - [4.2 Scalable Model Architectures](#42-scalable-model-architectures)
     - [4.3 Large-scale Training](#43-large-scale-training)
     - [4.4 Inference Techniques](#44-inference-techniques)
     - [4.5 Cost and Efficiency](#45-cost-and-efficiency)
     - [4.6 Computing Platforms](#46-computing-platforms)
-  - [5. 🫂 AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
+  - [5. AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
     - [5.1 Expectations of AGI Alignment](#51-expectations-of-agi-alignment)
     - [5.2 Current Alignment Techniques](#52-current-alignment-techniques)
     - [5.3 How to approach AGI Alignments](#53-how-to-approach-agi-alignments)
-  - [6. 🦺 Approach AGI Responsibly](#6-approach-agi-responsibly)
+  - [6. Approach AGI Responsibly](#6-approach-agi-responsibly)
     - [6.1 AI Levels: Charting the Evolution of Artificial Intelligence](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
-      - [6.1.1 AGI Levels](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
-      - [6.1.2 Constraints and Challenges of Ultimate AGI](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
-      - [6.1.3 How Do We Get to the Next Level of AGI?](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
     - [6.2 AGI Evaluation](#62-agi-evaluation)
       - [6.2.1 What Do We Expect from AGI Evaluations](#621-what-do-we-expect-from-agi-evaluations)
       - [6.2.2 Current Evaluation Frameworks and Limitations](#622-current-evaluation-frameworks-and-limitations)
-      <!-- - [6.3 Potential Ways to Future AGI](#63-potential-ways-to-future-agi) -->
-  - [7. 📚 Case Studies](#7-case-studies)
+  - [7. Case Studies](#7-case-studies)
     - [7.1 AI for Science Discovery and Research](#71-ai-for-science-discovery-and-research)
     - [7.2 Generative Visual Intelligence](#72-generative-visual-intelligence)
     - [7.3 World Models](#73-world-models)
@@ -335,6 +332,12 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 14. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.08671)]
 15. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2305.09781)]
 16. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.10774)]
+17. **Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs** *Suyu Ge et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=uNrFpDPMyo)]
+18. **Efficient Streaming Language Models with Attention Sinks** *Guangxuan Xiao et al.* ICLR 2024. [[paper](https://arxiv.org/abs/2309.17453)]
+19. **DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference** *Jinwei Yao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.00242)]
+20. **Efficiently Programming Large Language Models using SGLang** *Lianmin Zheng et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.07104)]
+21. **SPEED: Speculative Pipelined Execution for Efficient Decoding** *Coleman Hooper et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.12072)]
+22. **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding** *Zhuoming Chen et al.* arXiv 2024. [[paper](https://arxiv.org/pdf/2402.12374)]
 
 ### 4.5 Cost and Efficiency
 
