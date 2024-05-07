@@ -63,7 +63,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 
 <p align="center">
   <figure>
-    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_progress.png" width="500">
+    <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/f2-1.png" width="500">
   </figure>
 </p>
 
@@ -73,7 +73,11 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ## 2. AGI Internal: Unveiling the Mind of AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/internal.jpg" width="500">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/2a-1.png" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/2b-1.png" width="500">
 </p>
 
 ### 2.1 Perception
@@ -154,7 +158,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ## 3. AGI Interface: Connecting the World with AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/interface.jpg" width="500">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/interface-1.png" width="500">
 </p>
 
 
@@ -261,7 +265,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ## 4. AGI Systems: Implementing the Mechanism of AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system.jpg" width="500">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/system-1.png" width="500">
 </p>
 
 <p align="center">
@@ -367,7 +371,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ## 5. AGI Alignment: Reconciling Needs with AGI
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/alignment.jpg" width="500">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/AGI_Alignment-1.png" width="500">
 </p>
 
 
