@@ -473,7 +473,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ### 6.2 AGI Evaluation
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/levels.jpg" width="500">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/levels-1.png" width="500">
 </p>
 
 #### 6.2.1 What Do We Expect from AGI Evaluations
