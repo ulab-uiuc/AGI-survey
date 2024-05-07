@@ -280,7 +280,7 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 8. **Training Compute-Optimal Large Language Models** *Jordan Hoffmann* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2203.15556)]
 9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.16039)]
 10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2302.10866)]
-11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori* et al. arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori* et al. GitHub 2023. [[code](https://github.com/tatsu-lab/stanford_alpaca)]
 12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng* et al. arXiv preprint arXiv:2305.13048, 2023. [[paper](https://arxiv.org/abs/2305.13048)]
 13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2310.17157)]
 14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.10285)]
@@ -323,12 +323,12 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 5. **Fast Inference from Transformers via Speculative Decoding** *Yaniv Leviathan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.17192)]
 6. **Fast Distributed Inference Serving for Large Language Models** *Bingyang Wu et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.05920)]
 7. **S-LoRA: Serving Thousands of Concurrent LoRA Adapters** *Ying Sheng et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.03285)]
-8. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+8. **TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference** *NVIDIA.* GitHub 2023. [[code](https://github.com/NVIDIA/TensorRT-LLM)]
 9. **Punica: Multi-Tenant LoRA Serving** *Lequn Chen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.18547)]
 10. **S$^3: Increasing GPU Utilization during Generative Inference for Higher Throughput** *Yunho Jin et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.06000)]
-11. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
-12. **Prompt Lookup Decoding** *Apoorv Saxena.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
-13. **FasterTransformer** *NVIDIA.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+11. **Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs** *Predibase.* GitHub 2023. [[code](https://github.com/predibase/lorax)]
+12. **Prompt Lookup Decoding** *Apoorv Saxena.* GitHub 2023. [[code](https://github.com/apoorvumang/prompt-lookup-decoding)]
+13. **FasterTransformer** *NVIDIA.* GitHub 2021. [[paper](https://github.com/NVIDIA/FasterTransformer)]
 14. **DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference** *Connor Holmes et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.08671)]
 15. **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification** *Xupeng Miao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2305.09781)]
 16. **Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** *Tianle Cai et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.10774)]
@@ -447,10 +447,10 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F* et al. Proceedings of the IEEE, 2019. [[paper](https://ieeexplore.ieee.org/document/8662743)]
 9. **Open problems in cooperative AI** *Dafoe, Allan* et al. arXiv 2020. [[paper](https://arxiv.org/abs/2012.08630)]
 10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[paper](https://arxiv.org/abs/2001.09768)]
-11. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan* et al. arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
-12. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben* et al. arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
+11. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan* et al. Nature 2021. [[paper](https://www.nature.com/articles/d41586-021-01170-0)]
+12. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben* et al. arXiv 2021. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ccs2.12027)]
 13. **X-risk analysis for ai research** *Hendrycks, Dan* et al. arXiv preprint arXiv:2206.05862, 2022. [[paper](https://arxiv.org/abs/2206.05862)]
-14. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* arXiv 2023. [[paper](https://arxiv.org/abs/No eprint ID)]
+14. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* blog 2023. [[blog](https://www.lesswrong.com/posts/FFz6H35Gy6BArHxkc/ais-101-task-decomposition-for-scalable-oversight)]
 15. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin* et al. arXiv preprint arXiv:2312.09390, 2023. [[paper](https://arxiv.org/abs/2312.09390)]
 16. **Whose opinions do language models reflect?** *Santurkar, Shibani* et al. ICML, 2023. [[paper](https://arxiv.org/abs/2303.17548)]
 17. **Ai alignment: A comprehensive survey** *Ji, Jiaming* et al. arXiv preprint arXiv:2310.19852, 2023. [[paper](https://arxiv.org/abs/2310.19852)]
@@ -581,18 +581,18 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 ### 7.4 Decentralized LLM
 
 1. **Petals: Collaborative Inference and Fine-tuning of Large Models** *Alexander Borzunov* et al. arXiv preprint arXiv:2209.01188, 2022. [[paper](https://arxiv.org/abs/2209.01188)]
-2. **Blockchain for Deep Learning: Review and Open Challenges** *The Economic Times.* arXiv 2021. [[paper](https://arxiv.org/abs/No eprint ID)]
+2. **Blockchain for Deep Learning: Review and Open Challenges** *The Economic Times.* Cluster Computing 2021. [[paper](https://link.springer.com/article/10.1007/s10586-022-03582-7)]
 3. **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** *Ying Sheng* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2303.06865)]
 4. **Decentralized Training of Foundation Models in Heterogeneous Environments** *Binhang Yuan* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2206.01288)]
 
 ### 7.5 AI for Coding
 
-1. **A framework for the evaluation of code generation models** *Ben Allal* et al. arXiv. [[paper](https://arxiv.org/abs/No eprint ID)]
-2. **Evaluating Large Language Models Trained on Code** *Mark Chen* et al. No journal, 2021.
+1. **A framework for the evaluation of code generation models** *Ben Allal* et al. GitHub, 2023. [[code](https://github.com/bigcode-project/bigcode-evaluation-harness)]
+2. **Evaluating Large Language Models Trained on Code** *Mark Chen* et al. arxiv 2021. [[paper](https://arxiv.org/abs/2107.03374)]
 3. **Program Synthesis with Large Language Models** *Jacob Austin* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2108.07732)]
-4. **Competition-level code generation with AlphaCode** *Yujia Li* et al. Science, 2022.
+4. **Competition-level code generation with AlphaCode** *Yujia Li* et al. Science, 2022. [[paper](https://arxiv.org/abs/2203.07814)]
 5. **Efficient Training of Language Models to Fill in the Middle** *Mohammad Bavarian* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2207.14255)]
-6. **SantaCoder: don't reach for the stars!** *Loubna Ben Allal* et al. Mind, 2023.
+6. **SantaCoder: don't reach for the stars!** *Loubna Ben Allal* et al. Mind, 2023. [[paper](https://arxiv.org/abs/2301.03988)]
 7. **StarCoder: may the source be with you!** *Raymond Li* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.06161)]
 8. **Large Language Models for Compiler Optimization** *Chris Cummins* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.07062)]
 9. **Textbooks Are All You Need** *Suriya Gunasekar* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2306.11644)]
