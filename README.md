@@ -4,6 +4,18 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 
 🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
+🥳 Our survey is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf)
+
+BibTex citation if you find our work/resources useful:
+
+```bibtex
+@misc{feng2024how,
+  title={How Far Are We From AGI?},
+  author={Feng, Tao and Jin, Chuanyang and Liu, Jingyu and Zhu, Kunlun and Tu, Haoqin and Cheng, Zirui and Lin, Guanyu and You, Jiaxuan},
+  year={2024},
+}
+```
+
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image" width="500" >
 </p>
