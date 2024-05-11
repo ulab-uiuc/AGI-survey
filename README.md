@@ -1,16 +1,14 @@
-# Awesome-AGI Survey Papers
+## Awesome AGI Survey<br><sub>Must-read papers on Artificial General Intelligence</sub>
 
-Must-read Papers on Artificial General Intelligence with foundation models.
-
-🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
+<p align="center">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image">
+</p>
 
 🥳 We are organizing an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
 
-🎉 Early access to our survey is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An Arxiv version will be released soon.
+🎉 Early access to our survey/position paper is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An Arxiv version will be released soon.
 
-
-
- Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
+🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
 BibTex citation if you find our work/resources useful:
 
@@ -23,14 +21,8 @@ BibTex citation if you find our work/resources useful:
 }
 ```
 
-<p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image" width="500" >
-</p>
----
-
 # 📜Content
 
-- [Awesome-AGI Survey Papers](#awesome-agi-survey-papers)
 - [📜Content](#content)
   - [1. Introduction](#1-introduction)
   - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
