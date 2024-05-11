@@ -286,7 +286,7 @@ BibTex citation if you find our work/resources useful:
 
 ### 4.2 Scalable Model Architectures
 
-1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer* et al. arXiv preprint arXiv:1701.06538, 2017. [[paper](https://arxiv.org/abs/1701.06538)]
+1. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer** *Noam Shazeer* et al. arXiv 2017. [[paper](https://arxiv.org/abs/1701.06538)]
 2. **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention** *Angelos Katharopoulos* et al. arXiv 2020. [[paper](https://arxiv.org/abs/2006.16236)]
 3. **Longformer: The Long-Document Transformer** *Iz Beltagy* et al. arXiv 2020. [[paper](https://arxiv.org/abs/2004.05150)]
 4. **LightSeq: A High Performance Inference Library for Transformers** *Xiaohui Wang* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2010.13887)]
@@ -297,7 +297,7 @@ BibTex citation if you find our work/resources useful:
 9. **Effective Long-Context Scaling of Foundation Models** *Wenhan Xiong* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.16039)]
 10. **Hyena Hierarchy: Towards Larger Convolutional Language Models** *Michael Poli* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2302.10866)]
 11. **Stanford Alpaca: An Instruction-following LLaMA model** *Rohan Taori* et al. GitHub 2023. [[code](https://github.com/tatsu-lab/stanford_alpaca)]
-12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng* et al. arXiv preprint arXiv:2305.13048, 2023. [[paper](https://arxiv.org/abs/2305.13048)]
+12. **Rwkv: Reinventing rnns for the transformer era** *Bo Peng* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.13048)]
 13. **Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time** *Zichang Liu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2310.17157)]
 14. **Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity** *Haojun Xia* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.10285)]
 15. **ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs** *Yujia Zhai* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2210.03052)]
@@ -367,7 +367,7 @@ BibTex citation if you find our work/resources useful:
 8. **Editing Models with Task Arithmetic** *Gabriel Ilharco et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.04089)]
 9. **PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning** *Neeratyoy Mallik et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2306.12370)]
 10. **An Empirical Study of Multimodal Model Merging** *Yi-Lin Sung et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.14933)]
-11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Omar Khattab et al.* arXiv preprint arXiv:2310.03714, 2023. [[paper](https://arxiv.org/abs/2310.03714)]
+11. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** *Omar Khattab et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.03714)]
 12. **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** *Lingjiao Chen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2305.05176)]
 13. **Tandem Transformers for Inference Efficient LLMs** *Aishwarya P S et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.08644)]
 14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.16971)]
@@ -435,19 +435,19 @@ BibTex citation if you find our work/resources useful:
 3. **Training language models to follow instructions with human feedback**  *Ouyang, Long* et al. NeurIPS, 2022. [[paper](https://arxiv.org/abs/2203.02155)]
 4. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen* et al. AAAI, 2022. [paper](No URL)
 5. **Aligning generative language models with human values** *Liu, Ruibo* et al. NAACL, 2022. [[paper](https://aclanthology.org/2022.findings-naacl.18/)]
-6. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao* et al. arXiv preprint arXiv:2204.05862, 2022. [[paper](https://arxiv.org/abs/2204.05862)]
-7. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao* et al. arXiv preprint arXiv:2212.08073, 2022. [[paper](https://arxiv.org/abs/2212.08073)]
-8. **Raft: Reward ranked finetuning for generative foundation model alignment** *Dong, Hanze* et al. arXiv preprint arXiv:2304.06767, 2023. [[paper](https://arxiv.org/abs/2304.06767)]
-9. **Improving Language Models with Advantage-based Offline Policy Gradients** *Baheti, Ashutosh* et al. arXiv preprint arXiv:2305.14718, 2023. [[paper](https://arxiv.org/abs/2305.14718)]
-10. **Training language models with language feedback at scale** *Scheurer, J\'e.* arXiv preprint arXiv:2303.16755, 2023. [[paper](https://arxiv.org/abs/2303.16755)]
-11. **A general theoretical paradigm to understand learning from human preferences** *Azar, Mohammad Gheshlaghi* et al. arXiv preprint arXiv:2310.12036, 2023. [[paper](https://arxiv.org/abs/2310.12036)]
-12. **Let's Verify Step by Step** *Lightman, Hunter* et al. arXiv preprint arXiv:2305.20050, 2023. [[paper](https://arxiv.org/abs/2305.20050)]
-14. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen* et al. arXiv preprint arXiv:2307.15217, 2023. [[paper](https://arxiv.org/abs/2307.15217)]
-15. **Aligning Large Language Models through Synthetic Feedback** *Kim, Sungdong* et al. arXiv preprint arXiv:2305.13735, 2023. [[paper](https://arxiv.org/abs/2305.13735)]
-16. **Rlaif: Scaling reinforcement learning from human feedback with ai feedback** *Lee, Harrison* et al. arXiv preprint arXiv:2309.00267, 2023. [[paper](https://arxiv.org/abs/2309.00267)]
-17. **Preference ranking optimization for human alignment** *Song, Feifan* et al. arXiv preprint arXiv:2306.17492, 2023. [[paper](https://arxiv.org/abs/2306.17492)]
-18. **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Du, Yilun* et al. arXiv preprint arXiv:2305.14325, 2023. [[paper](https://arxiv.org/abs/2305.14325)]
-19. **Large language model alignment: A survey** *Shen, Tianhao* et al. arXiv preprint arXiv:2309.15025, 2023. [[paper](https://arxiv.org/abs/2309.15025)]
+6. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2204.05862)]
+7. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2212.08073)]
+8. **Raft: Reward ranked finetuning for generative foundation model alignment** *Dong, Hanze* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.06767)]
+9. **Improving Language Models with Advantage-based Offline Policy Gradients** *Baheti, Ashutosh* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.14718)]
+10. **Training language models with language feedback at scale** *Scheurer, J\'e.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.16755)]
+11. **A general theoretical paradigm to understand learning from human preferences** *Azar, Mohammad Gheshlaghi* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2310.12036)]
+12. **Let's Verify Step by Step** *Lightman, Hunter* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.20050)]
+14. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2307.15217)]
+15. **Aligning Large Language Models through Synthetic Feedback** *Kim, Sungdong* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.13735)]
+16. **Rlaif: Scaling reinforcement learning from human feedback with ai feedback** *Lee, Harrison* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.00267)]
+17. **Preference ranking optimization for human alignment** *Song, Feifan* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2306.17492)]
+18. **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Du, Yilun* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.14325)]
+19. **Large language model alignment: A survey** *Shen, Tianhao* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.15025)]
 20. **Direct preference optimization: Your language model is secretly a reward model** *Rafailov, Rafael* et al. NeurIPS, 2024. [[paper](https://arxiv.org/abs/2305.18290)]
 21. **Lima: Less is more for alignment** *Zhou, Chunting* et al. NeurIPS, 2024. [[paper](https://arxiv.org/abs/2305.11206)]
 
@@ -456,7 +456,7 @@ BibTex citation if you find our work/resources useful:
 1. **Ethical and social risks of harm from Language**  *Weidinger, Mellor* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2112.04359)]
 2. **Beijing AI Safety International Consensus** *Beijing Academy of Artificial Intelligence.* 2024. [[paper](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)]
 3. **Counterfactual explanations without opening the black box: Automated decisions and the GDPR** *Wachter, Sandra* et al. Harvard Journal of Law \& Technology, 2017.
-4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan* et al. arXiv preprint arXiv:1811.07871, 2018. [[paper](https://arxiv.org/abs/1811.07871)]
+4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan* et al. arXiv 2018. [[paper](https://arxiv.org/abs/1811.07871)]
 5. **Building ethics into artificial intelligence** *Yu, Han* et al. IJCAI, 2018. [paper](No URL)
 6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [[paper](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)]
 7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [[paper](https://link.springer.com/book/10.1007/978-3-030-30371-6)]
@@ -465,20 +465,20 @@ BibTex citation if you find our work/resources useful:
 10. **Artificial intelligence, values, and alignment** *Gabriel, Iason.* Minds and Machines, 2020. [[paper](https://arxiv.org/abs/2001.09768)]
 11. **Cooperative AI: machines must learn to find common ground** *Dafoe, Allan* et al. Nature 2021. [[paper](https://www.nature.com/articles/d41586-021-01170-0)]
 12. **Machine morality, moral progress, and the looming environmental disaster** *Kenward, Ben* et al. arXiv 2021. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ccs2.12027)]
-13. **X-risk analysis for ai research** *Hendrycks, Dan* et al. arXiv preprint arXiv:2206.05862, 2022. [[paper](https://arxiv.org/abs/2206.05862)]
+13. **X-risk analysis for ai research** *Hendrycks, Dan* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2206.05862)]
 14. **Task decomposition for scalable oversight (AGISF Distillation)** *Charbel-Raphaël Segerie.* blog 2023. [[blog](https://www.lesswrong.com/posts/FFz6H35Gy6BArHxkc/ais-101-task-decomposition-for-scalable-oversight)]
-15. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin* et al. arXiv preprint arXiv:2312.09390, 2023. [[paper](https://arxiv.org/abs/2312.09390)]
+15. **Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision** *Burns, Collin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.09390)]
 16. **Whose opinions do language models reflect?** *Santurkar, Shibani* et al. ICML, 2023. [[paper](https://arxiv.org/abs/2303.17548)]
-17. **Ai alignment: A comprehensive survey** *Ji, Jiaming* et al. arXiv preprint arXiv:2310.19852, 2023. [[paper](https://arxiv.org/abs/2310.19852)]
-18. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen* et al. arXiv preprint arXiv:2307.15217, 2023. [[paper](https://arxiv.org/abs/2307.15217)]
-19. **The unlocking spell on base llms: Rethinking alignment via in-context learning** *Lin, Bill Yuchen* et al. arXiv preprint arXiv:2312.01552, 2023. [[paper](https://arxiv.org/abs/2312.01552)]
-20. **Large Language Model Alignment: A Survey** *Tianhao Shen* et al. arXiv preprint arXiv:2309.15025, 2023. [[paper](https://arxiv.org/abs/2309.15025)]
+17. **Ai alignment: A comprehensive survey** *Ji, Jiaming* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2310.19852)]
+18. **Open problems and fundamental limitations of reinforcement learning from human feedback** *Casper, Stephen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2307.15217)]
+19. **The unlocking spell on base llms: Rethinking alignment via in-context learning** *Lin, Bill Yuchen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.01552)]
+20. **Large Language Model Alignment: A Survey** *Tianhao Shen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.15025)]
 
 ## 6. Approach AGI Responsibly
 
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 
-1. **Sparks of artificial general intelligence: Early experiments with gpt-4** *Bubeck, S\'e.* arXiv preprint arXiv:2303.12712, 2023. [[paper](https://arxiv.org/abs/2303.12712)]
+1. **Sparks of artificial general intelligence: Early experiments with gpt-4** *Bubeck, S\'e.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
 2. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
 
 
@@ -493,8 +493,8 @@ BibTex citation if you find our work/resources useful:
 1. **Towards the systematic reporting of the energy and carbon footprints of machine learning** *Peter Henderson et al.* Journal of Machine Learning Research, 2020.
 2. **Green ai** *Roy Schwartz* Communications of the ACM, 2020.
 3. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
-4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv preprint arXiv:2104.08758, 2021. [[paper](https://arxiv.org/abs/2104.08758)]
-5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv preprint arXiv:2108.07258, 2021. [[paper](https://arxiv.org/abs/2108.07258)]
+4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2104.08758)]
+5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2108.07258)]
 6. **Human-like systematic generalization through a meta-learning neural network** *Brenden M Lake et al.* Nature, 2023.
 7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023.
 8. **Holistic Evaluation of Language Models** *Percy Liang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.09110)]
