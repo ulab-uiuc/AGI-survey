@@ -12,6 +12,7 @@ BibTex citation if you find our work/resources useful:
 @misc{feng2024how,
   title={How Far Are We From AGI?},
   author={Feng, Tao and Jin, Chuanyang and Liu, Jingyu and Zhu, Kunlun and Tu, Haoqin and Cheng, Zirui and Lin, Guanyu and You, Jiaxuan},
+  howpublished={Preprint in the 'How far are we From AGI' ICLR 2024 website},
   year={2024},
 }
 ```
