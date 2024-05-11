@@ -4,7 +4,13 @@ Must-read Papers on Artificial General Intelligence with foundation models.
 
 🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
-🥳 Our survey is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf)
+🥳 We are organizing an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
+
+🎉 Early access to our survey is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An Arxiv version will be released soon.
+
+
+
+ Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
 BibTex citation if you find our work/resources useful:
 
