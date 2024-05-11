@@ -24,7 +24,6 @@ BibTex citation if you find our work/resources useful:
 # 📜Content
 
 - [Awesome-AGI Survey Papers](#awesome-agi-survey-papers)
-  - [](#)
 - [📜Content](#content)
   - [1. Introduction](#1-introduction)
   - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
