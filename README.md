@@ -8,7 +8,7 @@
 
 🥳 We are organizing an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
 
-🎉 Early access to our survey/position paper is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An arViv version will be released soon.
+🎉 Early access to our survey/position paper is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An arXiv version will be released soon.
 
 🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
@@ -495,7 +495,7 @@ BibTex citation if you find our work/resources useful:
 3. **Evaluating Large Language Models Trained on Code** *Mark Chen et al.* No journal, 2021.
 4. **Documenting large webtext corpora: A case study on the colossal clean crawled corpus** *Jesse Dodge et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2104.08758)]
 5. **On the opportunities and risks of foundation models** *Rishi Bommasani et al.* arXiv 2021. [[paper](https://arxiv.org/abs/2108.07258)]
-6. **Human-like systematic generalization through a meta-learning neural network** *Brenden M Lake et al.* Nature, 2023.
+6. **Human-like systematic generalization through a meta-learning neural network** *Brenden M Lake et al.* Nature, 2023. [[paper](https://www.nature.com/articles/s41586-023-06668-3)]
 7. **SuperBench is Measuring LLMs in The Open: A Critical Analysis** *SuperBench Team.* arXiv 2023.
 8. **Holistic Evaluation of Language Models** *Percy Liang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.09110)]
 
@@ -505,7 +505,7 @@ BibTex citation if you find our work/resources useful:
 1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1606.05250)]
 2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi et al.* arXiv 2017. [[paper](https://arxiv.org/abs/1705.03551)]
 3. **Coqa: A conversational question answering challenge** *Siva Reddy et al.* Transactions of the Association for Computational Linguistics, 2019.
-4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* NeurIPS 2019.
+4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* NeurIPS 2019. [[paper](https://arxiv.org/abs/1907.01003)]
 5. **Measuring massive multitask language understanding** *Dan Hendrycks et al.* arXiv 2020. [[paper](https://arxiv.org/abs/2009.03300)]
 6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [paper](https://arxiv.org/abs/2010.15100)
 7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Jiazhan Feng et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2211.05719)]
@@ -520,7 +520,7 @@ BibTex citation if you find our work/resources useful:
 16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Murray Shanahan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.03746)]
 17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=zAdUB0aCTQ)]
 18. **Assessing and Understanding Creativity in Large Language Models** *Yunpu Zhao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.12491)]
-19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Lianmin Zheng et al.* NeurIPS 2024.
+19. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena** *Lianmin Zheng et al.* NeurIPS 2024. [[paper](https://arxiv.org/abs/2306.05685)]
 
 <!-- ### 6.3 Potential Ways to Future AGI -->
 
