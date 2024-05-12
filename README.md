@@ -312,7 +312,7 @@ BibTex citation if you find our work/resources useful:
 1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1604.06174)]
 2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1807.05358)]
 3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang et al.* arXiv 2019. [[paper](https://arxiv.org/abs/1811.06965)]
-4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* ICML 2019. [paper](No URL)
+4. **Parameter-Efficient Transfer Learning for NLP** *Neil Houlsby et al.* ICML 2019. [paper](https://arxiv.org/abs/1902.00751)
 5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi et al.* arXiv 2020. [[paper](https://arxiv.org/abs/1909.08053)]
 6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2201.12023)]
 7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2207.00032)]
@@ -433,7 +433,7 @@ BibTex citation if you find our work/resources useful:
 1. **Learning to summarize with human feedback** *Stiennon, Nisan* et al. NeurIPS, 2020. [[paper](https://arxiv.org/abs/2009.01325)]
 2. **Second thoughts are best: Learning to re-align with human values from text edits** *Liu, Ruibo* et al. NeurIPS, 2022. [[paper](https://arxiv.org/abs/2301.00355)]
 3. **Training language models to follow instructions with human feedback**  *Ouyang, Long* et al. NeurIPS, 2022. [[paper](https://arxiv.org/abs/2203.02155)]
-4. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen* et al. AAAI, 2022. [paper](No URL)
+4. **Leashing the Inner Demons: Self-Detoxification for Language Models** *Xu, Canwen* et al. AAAI, 2022. [paper](https://arxiv.org/abs/2203.03072)
 5. **Aligning generative language models with human values** *Liu, Ruibo* et al. NAACL, 2022. [[paper](https://aclanthology.org/2022.findings-naacl.18/)]
 6. **Training a helpful and harmless assistant with reinforcement learning from human feedback** *Bai, Yuntao* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2204.05862)]
 7. **Constitutional ai: Harmlessness from ai feedback** *Bai, Yuntao* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2212.08073)]
@@ -455,9 +455,9 @@ BibTex citation if you find our work/resources useful:
 
 1. **Ethical and social risks of harm from Language**  *Weidinger, Mellor* et al. arXiv 2021. [[paper](https://arxiv.org/abs/2112.04359)]
 2. **Beijing AI Safety International Consensus** *Beijing Academy of Artificial Intelligence.* 2024. [[paper](https://news.cgtn.com/news/2024-03-14/VHJhbnNjcmlwdDc3NzI1/index.html)]
-3. **Counterfactual explanations without opening the black box: Automated decisions and the GDPR** *Wachter, Sandra* et al. Harvard Journal of Law \& Technology, 2017.
+3. **Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR** *Wachter, Sandra* et al. Harvard Journal of Law \& Technology, 2017. [[paper](https://arxiv.org/abs/1711.00399)]
 4. **Scalable agent alignment via reward modeling: a research direction** *Leike, Jan* et al. arXiv 2018. [[paper](https://arxiv.org/abs/1811.07871)]
-5. **Building ethics into artificial intelligence** *Yu, Han* et al. IJCAI, 2018. [paper](No URL)
+5. **Building Ethics into Artificial Intelligence** *Yu, Han* et al. IJCAI, 2018. [paper](https://arxiv.org/abs/1812.02953)
 6. **Human Compatible: Artificial Intelligence and the Problem of Control** *Russell, Stuart.* Viking, 2019. [[paper](https://people.eecs.berkeley.edu/~russell/papers/mi19book-hcai.pdf)]
 7. **Responsible artificial intelligence: How to develop and use AI in a responsible way** *Dignum, Virginia.* Springer Nature, 2019. [[paper](https://link.springer.com/book/10.1007/978-3-030-30371-6)]
 8. **Machine ethics: The design and governance of ethical AI and autonomous systems** *Winfield, Alan F* et al. Proceedings of the IEEE, 2019. [[paper](https://ieeexplore.ieee.org/document/8662743)]
@@ -478,8 +478,8 @@ BibTex citation if you find our work/resources useful:
 
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 
-1. **Sparks of artificial general intelligence: Early experiments with gpt-4** *Bubeck, S\'e.* arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
-2. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris, Jascha Sohl-dickstein, Noah Fiedel, Tris Warkentin, Allan Dafoe, Aleksandra Faust, Clement Farabet, Shane Legg.* arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
+1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4** *Sébastien Bubeck* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
+2. **Levels of AGI: Operationalizing Progress on the Path to AGI** *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
 
 
 ### 6.2 AGI Evaluation
