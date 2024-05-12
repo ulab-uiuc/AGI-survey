@@ -312,7 +312,7 @@ BibTex citation if you find our work/resources useful:
 1. **Training Deep Nets with Sublinear Memory Cost** *Tianqi Chen et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1604.06174)]
 2. **Beyond Data and Model Parallelism for Deep Neural Networks** *Zhihao Jia et al.* arXiv 2018. [[paper](https://arxiv.org/abs/1807.05358)]
 3. **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism** *Yanping Huang et al.* arXiv 2019. [[paper](https://arxiv.org/abs/1811.06965)]
-4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* Presented at International conference on machine learning, 2019. [paper](No URL)
+4. **Parameter-efficient transfer learning for NLP** *Neil Houlsby et al.* ICML 2019. [paper](No URL)
 5. **Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism** *Mohammad Shoeybi et al.* arXiv 2020. [[paper](https://arxiv.org/abs/1909.08053)]
 6. **Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** *Lianmin Zheng et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2201.12023)]
 7. **DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale** *Reza Yazdani Aminabadi et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2207.00032)]
@@ -505,9 +505,9 @@ BibTex citation if you find our work/resources useful:
 1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text** *Pranav Rajpurkar et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1606.05250)]
 2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension** *Mandar Joshi et al.* arXiv 2017. [[paper](https://arxiv.org/abs/1705.03551)]
 3. **Coqa: A conversational question answering challenge** *Siva Reddy et al.* Transactions of the Association for Computational Linguistics, 2019.
-4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* Advances in neural information processing systems, 2019.
+4. **Accurate, reliable and fast robustness evaluation** *Wieland Brendel et al.* NeurIPS 2019.
 5. **Measuring massive multitask language understanding** *Dan Hendrycks et al.* arXiv 2020. [[paper](https://arxiv.org/abs/2009.03300)]
-6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [paper](No URL)
+6. **Evaluating model robustness and stability to dataset shift** *Adarsh Subbaswamy et al.* Presented at International conference on artificial intelligence and statistics, 2021. [paper](https://arxiv.org/abs/2010.15100)
 7. **Mmdialog: A large-scale multi-turn dialogue dataset towards multi-modal open-domain conversation** *Jiazhan Feng et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2211.05719)]
 8. **Self-instruct: Aligning language models with self-generated instructions** *Yizhong Wang et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2212.10560)]
 9. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks** *Yizhong Wang et al.* arXiv 2022. [[paper](https://arxiv.org/abs/2204.07705)]
@@ -518,9 +518,9 @@ BibTex citation if you find our work/resources useful:
 14. **Agieval: A human-centric benchmark for evaluating foundation models** *Wanjun Zhong et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.06364)]
 15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi** *Xiang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.16502)]
 16. **Evaluating Large Language Model Creativity from a Literary Perspective** *Murray Shanahan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.03746)]
-17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* Presented at The Twelfth International Conference on Learning Representations, 2024. [[paper](https://openreview.net/forum?id=zAdUB0aCTQ)]
+17. **AgentBench: Evaluating LLM** *Xiao Liu et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=zAdUB0aCTQ)]
 18. **Assessing and Understanding Creativity in Large Language Models** *Yunpu Zhao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.12491)]
-19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Lianmin Zheng et al.* Advances in Neural Information Processing Systems, 2024.
+19. **Judging llm-as-a-judge with mt-bench and chatbot arena** *Lianmin Zheng et al.* NeurIPS 2024.
 
 <!-- ### 6.3 Potential Ways to Future AGI -->
 
@@ -531,7 +531,7 @@ BibTex citation if you find our work/resources useful:
 1. **Highly accurate protein structure prediction with AlphaFold** *Jumper, John* et al. Nature, 2021. [[paper](https://www.nature.com/articles/s41586-021-03819-2)]
 2. **Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems** *Kramer, Stefan* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.02251)]
 3. **Predicting effects of noncoding variants with deep learning--based sequence model** *Zhou, Jian* et al. Nature methods, 2015. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299/]
-4. **Learning to See Physics via Visual De-animation** *Wu, Jiajun* et al. Presented at Advances in Neural Information Processing Systems, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
+4. **Learning to See Physics via Visual De-animation** *Wu, Jiajun* et al. NeurIPS 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
 5. **Deep learning for real-time gravitational wave detection and parameter estimation: Results with Advanced LIGO data** *George, Daniel* et al. Physics Letters B, 2018. [[paper](https://www.sciencedirect.com/science/article/pii/S0370269317310390)]
 6. **Identifying quantum phase transitions with adversarial neural networks** *Rem, Bart-Jan* et al. Nature Physics, 2019. [[paper](https://arxiv.org/pdf/1710.08382)]
 7. **OpenAGI: When LLM Meets Domain Experts** *Ge, Yingqiang* et al. NeurIPS, 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf)]
@@ -544,7 +544,7 @@ BibTex citation if you find our work/resources useful:
 14. **ScholarBERT: bigger is not always better** *Hong, Zhi* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2205.11342)]
 15. **Galactica: A large language model for science** *Taylor, Ross* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2211.09085)]
 16. **Formal mathematics statement curriculum learning** *Polu, Stanislas* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2202.01344)]
-17. **Proof Artifact Co-Training for Theorem Proving with Language Models** *Jesse Michael Han* et al. Presented at International Conference on Learning Representations, 2022. [[paper](https://openreview.net/forum?id=rpxJc9j04U)]
+17. **Proof Artifact Co-Training for Theorem Proving with Language Models** *Jesse Michael Han* et al. ICLR 2022. [[paper](https://openreview.net/forum?id=rpxJc9j04U)]
 18. **Solving quantitative reasoning problems with language models** *Lewkowycz, Aitor* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2206.14858)]
 19. **BioGPT: generative pre-trained transformer for biomedical text generation and mining** *Luo, Renqian* et al. Briefings in bioinformatics, 2022. 
 20. **ChemCrow: Augmenting large-language models with chemistry tools** *Bran, Andres M* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.05376)]
@@ -576,14 +576,14 @@ BibTex citation if you find our work/resources useful:
 
 ### 7.3 World Models
 
-1. **Learning to See Physics via Visual De-animation** *Wu, Jiajun* et al. Presented at Advances in Neural Information Processing Systems, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
+1. **Learning to See Physics via Visual De-animation** *Wu, Jiajun* et al. NeurIPS 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf)]
 2. **Safe model-based reinforcement learning with stability guarantees** *Berkenkamp, Felix* et al. NeurIPS, 2017. [[paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf)]
-3. **SimNet: Learning Simulation-Based World Models for Physical Reasoning** *Vicol, Paul, Menapace* et al. Presented at International Conference on Learning Representations, 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3530891)]
+3. **SimNet: Learning Simulation-Based World Models for Physical Reasoning** *Vicol, Paul, Menapace* et al. ICLR 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3530891)]
 4. **DreamIX: DreamFusion via Iterative Spatiotemporal Mixing** *Khalifa, Anji* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2212.04508)]
 5. **General-Purpose Embodied AI Agent via Reinforcement Learning with Internet-Scale Knowledge** *Guo, Xiaoxiao* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2212.09710)]
 6. **VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance** *Crowson, Katherine.* arXiv 2022. [[paper](https://arxiv.org/abs/2204.08583)]
 7. **A Path Towards Autonomous Machine Intelligence** *Lecun Yann* Openreview, 2022. [[paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)]
-8. **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *Jiannan Xiang* et al. Presented at Thirty-seventh Conference on Neural Information Processing Systems, 2023. [[paper](https://openreview.net/forum?id=SVBR6xBaMl)]
+8. **Language Models Meet World Models: Embodied Experiences Enhance Language Models** *Jiannan Xiang* et al. NeurIPS 2023. [[paper](https://openreview.net/forum?id=SVBR6xBaMl)]
 9. **Mastering Diverse Domains through World Models** *Hafner, Danijar* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2301.04104)]
 10. **Acquisition of Multimodal Models via Retrieval** *Reed, Scott* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2302.02916)]
 11. **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents** *Dohan, David* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2302.04754)]
@@ -623,7 +623,7 @@ BibTex citation if you find our work/resources useful:
 18. **DebugBench: Evaluating Debugging Capability of Large Language Models** *Runchu Tian* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.04621)]
 19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2305.12050)]
 20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2308.12950)]
-21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Jinyang Li* et al. Advances in Neural Information Processing Systems, 2024.
+21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Jinyang Li* et al. NeurIPS 2024.
 
 
 ### 7.6 AI for Robotics in Real World Applications
