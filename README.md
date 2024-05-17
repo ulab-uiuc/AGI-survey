@@ -1,5 +1,5 @@
 ## Awesome AGI Survey<br><sub>Must-read papers on Artificial General Intelligence</sub>
-
+![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/sinclaircoder/AGI-survey?style=social) 
 ### [Paper](https://arxiv.org/pdf/2405.10313) | [Workshop](https://agiworkshop.github.io/)
 
 <p align="center">
