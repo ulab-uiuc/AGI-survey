@@ -15,11 +15,13 @@
 BibTex citation if you find our work/resources useful:
 
 ```bibtex
-@misc{feng2024how,
-  title={How Far Are We From AGI?},
-  author={Feng, Tao and Jin, Chuanyang and Liu, Jingyu and Zhu, Kunlun and Tu, Haoqin and Cheng, Zirui and Lin, Guanyu and You, Jiaxuan},
-  howpublished={Preprint},
-  year={2024},
+@misc{feng2024far,
+      title={How Far Are We From AGI}, 
+      author={Tao Feng and Chuanyang Jin and Jingyu Liu and Kunlun Zhu and Haoqin Tu and Zirui Cheng and Guanyu Lin and Jiaxuan You},
+      year={2024},
+      eprint={2405.10313},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 
