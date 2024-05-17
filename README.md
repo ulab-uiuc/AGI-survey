@@ -733,7 +733,7 @@ BibTex citation if you find our work/resources useful:
 
 ### Contributing to this paper list
 
-⭐" **Join us in improving this repository!** Please contribute if you know of any important work we've missed. Your efforts are highly valued!   "
+⭐ **Join us in improving this repository!** Please contribute if you know of any important work we've missed. Your efforts are highly valued!
 
 ### Contributors
 
