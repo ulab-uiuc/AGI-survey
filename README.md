@@ -722,6 +722,18 @@ BibTex citation if you find our work/resources useful:
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (Multi-modal LLM) -->
 
 
+## 🎉 Contribution
+
+### Contributing to this paper list
+
+⭐" **Join us in improving this repository!** Please contribute if you know of any important work we've missed. Your efforts are highly valued!   "
+
+### Contributors
+
+<a href="https://github.com/zjunlp/LLMAgentPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ulab-uiuc/AGI-survey" />
+</a>
+
 ---
 
 <p align="center">
