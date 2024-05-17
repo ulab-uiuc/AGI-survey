@@ -139,7 +139,8 @@ BibTex citation if you find our work/resources useful:
 17. **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**. *Bo Liu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2304.11477)]
 18. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**. *Zhiting Hu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.05230)]
 19. **MMToM-QA: Multimodal Theory of Mind Question Answering**. *Chuanyang Jin* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.08743)]
-20. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)] 
+20. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)]
+21. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.14963)]
 
 ### 2.3 Memory
 
@@ -152,6 +153,7 @@ BibTex citation if you find our work/resources useful:
 7. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 8. **Voyager: An Open-Ended Embodied Agent with Large Language Models**. *Guanzhi Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.16291)]
 9. **A Survey on the Memory Mechanism of Large Language Model based Agents**. *Zeyu Zhang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.13501)]
+10. **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**. *Qingyue Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.15022)]
 
 ### 2.4 Metacognition
 
@@ -311,6 +313,8 @@ BibTex citation if you find our work/resources useful:
 18. **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** *Daniel Y. Fu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2212.14052)]
 19. **Retentive Network: A Successor to Transformer for Large Language Models** *Yutao Sun* et al. ArXiv, 2023.
 20. **Mechanistic Design and Scaling of Hybrid Architectures** *Michael Poli* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.17844)]
+21. **Revisiting Knowledge Distillation for Autoregressive Language Models** *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2402.11890)]
+22. **DB-LLM: Accurate Dual-Binarization for Efficient LLMs** *Hong Chen* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2402.11960)]
 
 ### 4.3 Large-scale Training
 
@@ -334,6 +338,7 @@ BibTex citation if you find our work/resources useful:
 18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.06180)]
 19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.02669)]
 20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.00838)]
+21. **On Efficient Training of Large-Scale Deep Learning Models: A Literature Review** *Li Shen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.03589)]
 
 ### 4.4 Inference Techniques
 
@@ -378,6 +383,7 @@ BibTex citation if you find our work/resources useful:
 14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.16971)]
 15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2307.13269)]
 16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2306.08107)]
+17. **Merging Experts into One: Improving Computational Efficiency of Mixture of Experts** *Shwai He et al.* EMNLP 2023. [[paper](https://arxiv.org/abs/2310.09832)]
 
 ### 4.6 Computing Platforms
 
@@ -632,6 +638,7 @@ BibTex citation if you find our work/resources useful:
 19. **AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation** *Vijayaraghavan Murali* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2305.12050)]
 20. **Code Llama: Open Foundation Models for Code** *Baptiste Rozière* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2308.12950)]
 21. **Can llm already serve as a database interface? a big bench for large-scale database grounded text-to-sqls** *Jinyang Li* et al. NeurIPS 2024.
+22. **OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models** *Shuai Wang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.06628)]
 
 
 ### 7.6 AI for Robotics in Real World Applications
