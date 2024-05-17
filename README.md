@@ -1,8 +1,8 @@
 ## Awesome AGI Survey<br><sub>Must-read papers on Artificial General Intelligence</sub>
 [![Arxiv Paper](https://img.shields.io/badge/Arxiv-Paper-brightred)](https://arxiv.org/pdf/2405.10313)
+[![Workshop Link](https://img.shields.io/badge/Workshop-link-darkyellow)](https://agiworkshop.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/ulab-uiuc/AGI-survey?style=social) 
-### [Paper](https://arxiv.org/pdf/2405.10313) | [Workshop](https://agiworkshop.github.io/)
 
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image">
