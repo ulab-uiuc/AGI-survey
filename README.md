@@ -719,3 +719,17 @@ BibTex citation if you find our work/resources useful:
 - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) (Agent)
 - [Awesome-AI-Agents](https://github.com/e2b-dev/awesome-ai-agents) (Agent)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (Multi-modal LLM) -->
+
+
+---
+
+<p align="center">
+<a href="https://star-history.com/#Significant-Gravitas/AutoGPT">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ulab-uiuc/AGI-survey&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ulab-uiuc/AGI-survey&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date" />
+  </picture>
+</a>
+</p>
+
