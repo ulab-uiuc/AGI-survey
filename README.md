@@ -8,7 +8,7 @@
 
 🥳 We are organizing an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
 
-🎉 Early access to our survey/position paper is released! See [How Far Are We From AGI?](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf). An arXiv version will be released soon.
+🎉 Our survey/position paper is released! See [How Far Are We From AGI?](https://arxiv.org/abs/2405.10313).
 
 🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
