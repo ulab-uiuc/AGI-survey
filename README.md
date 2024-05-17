@@ -737,8 +737,8 @@ BibTex citation if you find our work/resources useful:
 
 ### Contributors
 
-<a href="https://github.com/zjunlp/LLMAgentPapers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ulab-uiuc/AGI-survey" />
+<a href="https://github.com/ulab-uiuc/AGI-survey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ulab-uiuc/AGI-survey"/>
 </a>
 
 ---
