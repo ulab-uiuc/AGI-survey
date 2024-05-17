@@ -8,9 +8,10 @@
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image">
 </p>
 
-🥳 We are organizing an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
+## 🔔 News
 
-🎉 Our survey/position paper is released! See [How Far Are We From AGI?](https://arxiv.org/abs/2405.10313).
+- **[2024-05]** 🎉 We released our paper in arxiv: "[How Far Are We From AGI?](https://arxiv.org/pdf/2405.10313)".
+- **[2024-05]** 🥳 We had organized an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
 
 🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
 
