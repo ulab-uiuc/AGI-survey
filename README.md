@@ -140,7 +140,7 @@ BibTex citation if you find our work/resources useful:
 18. **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**. *Zhiting Hu* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.05230)]
 19. **MMToM-QA: Multimodal Theory of Mind Question Answering**. *Chuanyang Jin* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.08743)]
 20. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)]
-21. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.14963)]
+21. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.14963)] **pending**
 
 ### 2.3 Memory
 
@@ -153,7 +153,7 @@ BibTex citation if you find our work/resources useful:
 7. **Cognitive Architectures for Language Agents**. *Theodore R. Sumers* et al. TMLR 2024. [[paper](https://arxiv.org/abs/2309.02427)]
 8. **Voyager: An Open-Ended Embodied Agent with Large Language Models**. *Guanzhi Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.16291)]
 9. **A Survey on the Memory Mechanism of Large Language Model based Agents**. *Zeyu Zhang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.13501)]
-10. **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**. *Qingyue Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.15022)]
+10. **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**. *Qingyue Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.15022)] **pending**
 
 ### 2.4 Metacognition
 
@@ -170,8 +170,8 @@ BibTex citation if you find our work/resources useful:
 11. **Consciousness in Artificial Intelligence: Insights from the Science of Consciousness**. *Patrick Butlin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.08708)]
 12. **Revisiting the Reliability of Psychological Scales on Large Language Models**. *Jen-tse Huang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2305.19926)]
 13. **Evaluating and Inducing Personality in Pre-trained Language Models**. *Guangyuan Jiang* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2206.07550)]
-14. **Levels of AGI: Operationalizing Progress on the Path to AGI**. *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)]
-15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution**. *Cheng Qian* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)]
+14. **Levels of AGI: Operationalizing Progress on the Path to AGI**. *Meredith Ringel Morris* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2311.02462)] **pending**
+15. **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution**. *Cheng Qian* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2401.13996)] **pending**
 
 
 ## 3. AGI Interface: Connecting the World with AGI
@@ -338,7 +338,7 @@ BibTex citation if you find our work/resources useful:
 18. **Efficient Memory Management for Large Language Model Serving with PagedAttention** *Woosuk Kwon et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.06180)]
 19. **Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache** *Bin Lin et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2401.02669)]
 20. **OLMo: Accelerating the Science of Language Models** *Dirk Groeneveld et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2402.00838)]
-21. **On Efficient Training of Large-Scale Deep Learning Models: A Literature Review** *Li Shen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.03589)]
+21. **On Efficient Training of Large-Scale Deep Learning Models: A Literature Review** *Li Shen et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.03589)] **pending**
 
 ### 4.4 Inference Techniques
 
@@ -363,8 +363,8 @@ BibTex citation if you find our work/resources useful:
 19. **DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference** *Jinwei Yao et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.00242)]
 20. **Efficiently Programming Large Language Models using SGLang** *Lianmin Zheng et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.07104)]
 21. **SPEED: Speculative Pipelined Execution for Efficient Decoding** *Coleman Hooper et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2310.12072)]
-22. **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding** *Zhuoming Chen et al.* arXiv 2024. [[paper](https://arxiv.org/pdf/2402.12374)]
-
+22. **Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding** *Zhuoming Chen et al.* arXiv 2024. [[paper](https://arxiv.org/pdf/2402.12374)] **pending**
+    
 ### 4.5 Cost and Efficiency
 
 1. **Demonstrate-Search-Predict: Composing Retrieval and Language Models for Knowledge-Intensive NLP** *Omar Khattab et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2212.14024)]
@@ -383,7 +383,7 @@ BibTex citation if you find our work/resources useful:
 14. **AIOS: LLM Agent Operating System** *Kai Mei et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2403.16971)]
 15. **LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition** *Chengsong Huang et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2307.13269)]
 16. **AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks** *Alexander Tornede et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2306.08107)]
-17. **Merging Experts into One: Improving Computational Efficiency of Mixture of Experts** *Shwai He et al.* EMNLP 2023. [[paper](https://arxiv.org/abs/2310.09832)]
+17. **Merging Experts into One: Improving Computational Efficiency of Mixture of Experts** *Shwai He et al.* EMNLP 2023. [[paper](https://arxiv.org/abs/2310.09832)] **pending**
 
 ### 4.6 Computing Platforms
 
