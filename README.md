@@ -534,7 +534,7 @@ BibTex citation if you find our work/resources useful:
 19. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena** *Lianmin Zheng et al.* NeurIPS 2024. [[paper](https://arxiv.org/abs/2306.05685)]
 
 <p align="center">
-  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_stat.jpg" width="600">
+  <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_stat.jpg" width="300">
 </p>
 <!-- ### 6.3 Potential Ways to Future AGI -->
 
