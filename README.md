@@ -1,6 +1,6 @@
 ## Awesome AGI Survey<br><sub>Must-read papers on Artificial General Intelligence</sub>
 
-### [Paper](https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf) | [Workshop](https://agiworkshop.github.io/)
+### [Paper](https://arxiv.org/pdf/2405.10313) | [Workshop](https://agiworkshop.github.io/)
 
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/abstract.png" alt="Abstract Image">
