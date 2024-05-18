@@ -33,16 +33,16 @@ BibTex citation if you find our work/resources useful:
 - [📜Content](#content)
   - [1. Introduction](#1-introduction)
   - [2. AGI Internal: Unveiling the Mind of AGI](#2-agi-internal-unveiling-the-mind-of-agi)
-    - [2.1 Perception](#21-perception)
-    - [2.2 Reasoning](#22-reasoning)
-    - [2.3 Memory](#23-memory)
-    - [2.4 Metacognition](#24-metacognition)
+    - [2.1 AI Perception](#21-ai-perception)
+    - [2.2 AI Reasoning](#22-ai-reasoning)
+    - [2.3 AI Memory](#23-ai-memory)
+    - [2.4 AI Metacognition](#24-ai-metacognition)
   - [3. AGI Interface: Connecting the World with AGI](#3-agi-interface-connecting-the-world-with-agi)
-    - [3.1 Interfaces to Digital World](#31-interfaces-to-digital-world)
-    - [3.2 Interfaces to Physical World](#32-interfaces-to-physical-world)
-    - [3.3 Interfaces to Intelligence](#33-interfaces-to-intelligence)
-      - [3.3.1 Interfaces to AI Agents](#331-interfaces-to-ai-agents)
-      - [3.3.2 Interfaces to Human](#332-interfaces-to-human)
+    - [3.1 AI Interfaces to Digital World](#31-ai-interfaces-to-digital-world)
+    - [3.2 AI Interfaces to Physical World](#32-ai-interfaces-to-physical-world)
+    - [3.3 AI Interfaces to Intelligence](#33-ai-interfaces-to-intelligence)
+      - [3.3.1 AI Interfaces to AI Agents](#331-ai-interfaces-to-ai-agents)
+      - [3.3.2 AI Interfaces to Human](#332-ai-interfaces-to-human)
   - [4. AGI Systems: Implementing the Mechanism of AGI](#4-agi-systems-implementing-the-mechanism-of-agi)
     - [4.2 Scalable Model Architectures](#42-scalable-model-architectures)
     - [4.3 Large-scale Training](#43-large-scale-training)
@@ -97,7 +97,7 @@ BibTex citation if you find our work/resources useful:
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/2b-1.png" width="600">
 </p>
 
-### 2.1 Perception
+### 2.1 AI Perception
 
 1. **Flamingo: a Visual Language Model for Few-Shot Learning**. *Jean-Baptiste Alayrac* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2204.14198)]
 2. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. *Junnan Li* et al. ICML 2023. [[paper](https://arxiv.org/abs/2301.12597)]
@@ -118,7 +118,7 @@ BibTex citation if you find our work/resources useful:
 17. **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**. *Deyao Zhu* et al. ICLR 2024. [[paper](https://arxiv.org/abs/2304.10592)]
 18. **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**. *Bin Zhu* et al. ICLR 2024. [[paper](https://arxiv.org/abs/2310.01852)]
 
-### 2.2 Reasoning
+### 2.2 AI Reasoning
 
 1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. *Jason Wei* et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
 2. **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**. *Maarten Sap* et al. EMNLP 2022. [[paper](https://arxiv.org/abs/2210.13312)]
@@ -142,7 +142,7 @@ BibTex citation if you find our work/resources useful:
 20. **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**. *Maciej Besta* et al. AAAI 2024. [[paper](https://arxiv.org/abs/2308.09687)]
 21. **Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.14963)] **pending**
 
-### 2.3 Memory
+### 2.3 AI Memory
 
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin* et al. EMNLP 2020. [[paper](https://arxiv.org/abs/2004.04906)]
 2. **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**. *Patrick Lewis* et al. NeurIPS 2020. [[paper](https://arxiv.org/abs/2005.11401)]
@@ -155,7 +155,7 @@ BibTex citation if you find our work/resources useful:
 9. **A Survey on the Memory Mechanism of Large Language Model based Agents**. *Zeyu Zhang* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2404.13501)]
 10. **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**. *Qingyue Wang* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2308.15022)] **pending**
 
-### 2.4 Metacognition
+### 2.4 AI Metacognition
 
 1. **The Consideration of Meta-Abilities in Tacit Knowledge Externalization and Organizational Learning**. *Jyoti Choudrie* et al. HICSS 2006. [[paper](https://uhra.herts.ac.uk/bitstream/handle/2299/8839/901794.pdf?sequence=1&isAllowed=y)]
 2. **Evolving Self-supervised Neural Networks Autonomous Intelligence from Evolved Self-teaching**. *Nam Le*. arXiv 2019. [[paper](https://arxiv.org/abs/1906.08865)]
@@ -181,7 +181,7 @@ BibTex citation if you find our work/resources useful:
 </p>
 
 
-### 3.1 Interfaces to Digital World
+### 3.1 AI Interfaces to Digital World
 
 1. **Principles of mixed-initiative user interfaces**. *Eric Horvitz.* SIGCHI 1999. [[paper](https://dl.acm.org/doi/pdf/10.1145/302979.303030)]
 2. **The rise and potential of large language model based agents: A survey**. *Zhiheng Xi et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2309.07864)]
@@ -199,7 +199,7 @@ BibTex citation if you find our work/resources useful:
 14. **Large Language Models as Tool Makers**. *Tianle Cai et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
 
 
-### 3.2 Interfaces to Physical World
+### 3.2 AI Interfaces to Physical World
 
 1. **Lessons from the amazon picking challenge: Four aspects of building robotic systems**. *Clemens Eppner* et al. RSS 2016. [[paper](https://m.roboticsproceedings.org/rss12/p36.pdf)]
 2. **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**. *Mohit Shridhar* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2209.05451)]
@@ -217,9 +217,9 @@ BibTex citation if you find our work/resources useful:
 14. **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation**. *Chengshu Li* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.09227)]
 
 
-### 3.3 Interfaces to Intelligence
+### 3.3 AI Interfaces to Intelligence
 
-#### 3.3.1 Interfaces to AI Agents
+#### 3.3.1 AI Interfaces to AI Agents
 
 1. **Counterfactual multi-agent policy gradients**. *Jakob Foerster* et al. AAAI 2018. [[paper](https://arxiv.org/abs/1705.08926)]
 2. **Explanations from large language models make small reasoners better**. *Shiyang Li* et al. arXiv 2022. [[paper](https://arxiv.org/abs/2210.06726)]
@@ -246,7 +246,7 @@ BibTex citation if you find our work/resources useful:
 23. **Mind2web: Towards a generalist agent for the web**. *Xiang Deng* et al. NeurIPS 2024. [[paper](https://arxiv.org/abs/2306.06070)]
 24. **Towards general computer control: A multimodal agent for red dead redemption ii as a case study**. *Weihao Tan* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.03186)]
 
-#### 3.3.2 Interfaces to Human
+#### 3.3.2 AI Interfaces to Human
 
 1. **Guidelines for Human-AI Interaction**.
    *Saleema Amershi* et al. CHI 2019. [[paper](https://dl.acm.org/doi/10.1145/3290605.3300233)]
