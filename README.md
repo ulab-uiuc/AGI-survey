@@ -49,15 +49,16 @@ BibTex citation if you find our work/resources useful:
     - [4.4 Inference Techniques](#44-inference-techniques)
     - [4.5 Cost and Efficiency](#45-cost-and-efficiency)
     - [4.6 Computing Platforms](#46-computing-platforms)
-  - [5. AGI Alignment: Reconciling Needs with AGI](#5-agi-alignment-reconciling-needs-with-agi)
+  - [5. AGI Alignment: Ensuring AGI Meets Various Needs](#5-agi-alignment-ensuring-agi-meets-various-needs)
     - [5.1 Expectations of AGI Alignment](#51-expectations-of-agi-alignment)
     - [5.2 Current Alignment Techniques](#52-current-alignment-techniques)
     - [5.3 How to approach AGI Alignments](#53-how-to-approach-agi-alignments)
-  - [6. Approach AGI Responsibly](#6-approach-agi-responsibly)
+  - [6. AGI Roadmap: Responsibly Approaching AGI](#6-agi-roadmap-responsibly-approaching-agi)
     - [6.1 AI Levels: Charting the Evolution of Artificial Intelligence](#61-ai-levels-charting-the-evolution-of-artificial-intelligence)
     - [6.2 AGI Evaluation](#62-agi-evaluation)
-      - [6.2.1 What Do We Expect from AGI Evaluations](#621-what-do-we-expect-from-agi-evaluations)
-      - [6.2.2 Current Evaluation Frameworks and Limitations](#622-current-evaluation-frameworks-and-limitations)
+      - [6.2.1 Expectations for AGI Evaluation](#621-expectations-for-agi-evaluation)
+      - [6.2.2 Current Evaluations and Their Limitations](#622-current-evaluations-and-their-limitations)
+    - [6.5 Further Considerations during AGI Development](#65-further-considerations-during-agi-development)
   - [7. Case Studies](#7-case-studies)
     - [7.1 AI for Science Discovery and Research](#71-ai-for-science-discovery-and-research)
     - [7.2 Generative Visual Intelligence](#72-generative-visual-intelligence)
@@ -391,7 +392,7 @@ BibTex citation if you find our work/resources useful:
 2. **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings**. *Norman P. Jouppi et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.01433)]
 
 
-## 5. AGI Alignment: Reconciling Needs with AGI
+## 5. AGI Alignment: Ensuring AGI Meets Various Needs
 
 <p align="center">
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/AGI_Alignment-1.png" width="600">
@@ -485,7 +486,7 @@ BibTex citation if you find our work/resources useful:
 19. **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning**. *Bill Yuchen Lin* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.01552)]
 20. **Large Language Model Alignment: A Survey**. *Tianhao Shen* et al. arXiv 2023. [[paper](https://arxiv.org/abs/2309.15025)]
 
-## 6. Approach AGI Responsibly
+## 6. AGI Roadmap: Responsibly Approaching AGI
 
 ### 6.1 AI Levels: Charting the Evolution of Artificial Intelligence
 
@@ -499,7 +500,7 @@ BibTex citation if you find our work/resources useful:
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/levels-1.png" width="600">
 </p>
 
-#### 6.2.1 What Do We Expect from AGI Evaluations
+#### 6.2.1 Expectations for AGI Evaluation
 
 1. **Towards the systematic reporting of the energy and carbon footprints of machine learning**. *Peter Henderson et al.* Journal of Machine Learning Research, 2020.
 2. **Green ai**. *Roy Schwartz* Communications of the ACM, 2020.
@@ -511,7 +512,7 @@ BibTex citation if you find our work/resources useful:
 8. **Holistic Evaluation of Language Models**. *Percy Liang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2211.09110)]
 
 
-#### 6.2.2 Current Evaluation Frameworks and Limitations
+#### 6.2.2 Current Evaluations and Their Limitations
 
 1. **SQuAD: 100,000+ Questions for Machine Comprehension of Text**. *Pranav Rajpurkar et al.* arXiv 2016. [[paper](https://arxiv.org/abs/1606.05250)]
 2. **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension**. *Mandar Joshi et al.* arXiv 2017. [[paper](https://arxiv.org/abs/1705.03551)]
@@ -537,6 +538,9 @@ BibTex citation if you find our work/resources useful:
   <img src="https://github.com/JiaxuanYou/LLM-AGI/blob/main/assets/fig/agi_stat.jpg" width="300">
 </p>
 <!-- ### 6.3 Potential Ways to Future AGI -->
+
+###  6.5 Further Considerations during AGI Development
+
 
 ## 7. Case Studies
 
