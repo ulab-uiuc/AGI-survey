@@ -316,6 +316,8 @@ BibTex citation if you find our work/resources useful:
 20. **Mechanistic Design and Scaling of Hybrid Architectures**. *Michael Poli* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.17844)]
 21. **Revisiting Knowledge Distillation for Autoregressive Language Models**. *Qihuang Zhong* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2402.11890)]
 22. **DB-LLM: Accurate Dual-Binarization for Efficient LLMs**. *Hong Chen* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2402.11960)]
+23. **Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**. *William Brandon* et al. arXiv 2024.[[paper](https://arxiv.org/abs/2405.12981)]
+24. **You Only Cache Once: Decoder-Decoder Architectures for Language Models** *Yutao Sun* et al. arXiv 2024. [[paper](https://arxiv.org/abs/2405.05254)]
 
 ### 4.3 Large-scale Training
 
