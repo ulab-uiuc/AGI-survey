@@ -528,7 +528,7 @@ BibTex citation if you find our work/resources useful:
 10. **Holistic analysis of hallucination in gpt-4v (ision): Bias and interference challenges**. *Chenhang Cui et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.03287)]
 11. **Evaluating the Robustness to Instructions of Large Language Models**. *Yuansheng Ni et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2308.14306)]
 12. **GAIA: a benchmark for General AI Assistants**. *Grégoire Mialon et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.12983)]
-13. **A comprehensive evaluation framework for deep model robustness**. *Jun Guo et al.* Pattern Recognition, 2023.
+13. **A Comprehensive Evaluation Framework for Deep Model Robustness**. *Jun Guo et al.* Pattern Recognition, 2023. [[paper](https://arxiv.org/abs/2101.09617)]
 14. **Agieval: A human-centric benchmark for evaluating foundation models**. *Wanjun Zhong et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2304.06364)]
 15. **Mmmu: A massive multi-discipline multimodal understanding and reasoning benchmark for expert agi**. *Xiang et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2311.16502)]
 16. **Evaluating Large Language Model Creativity from a Literary Perspective**. *Murray Shanahan et al.* arXiv 2023. [[paper](https://arxiv.org/abs/2312.03746)]
@@ -542,6 +542,10 @@ BibTex citation if you find our work/resources useful:
 <!-- ### 6.3 Potential Ways to Future AGI -->
 
 ###  6.5 Further Considerations during AGI Development
+
+1. **Foundational Challenges in Assuring Alignment and Safety of Large Language Models**. *Usman Anwar et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.09932)]
+2. **Best Practices and Lessons Learned on Synthetic Data for Language Models**. *Ruibo Liu et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.07503)]
+3. **Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions**. *Leena Mathur et al.* arXiv 2024. [[paper](https://arxiv.org/abs/2404.11023)]
 
 
 ## 7. Case Studies
