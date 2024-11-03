@@ -10,10 +10,10 @@
 
 ## 🔔 News
 
-- **[2024-05]** 🎉 We released our paper in arxiv: "[How Far Are We From AGI?](https://arxiv.org/pdf/2405.10313)".
-- **[2024-05]** 🥳 We organized an ICLR 2024 Workshop on "How Far Are We From AGI". [Learn more about the workshop](https://agiworkshop.github.io).
+- **[2024-10]** 🎉 Our [paper](https://arxiv.org/pdf/2405.10313) was accepted by TMLR 2024.
+- **[2024-05]** 🥳 We are organizing an [AGI Workshop at ICLR 2024](https://agiworkshop.github.io) and have released our position paper, ["How Far Are We From AGI?"](https://arxiv.org/pdf/2405.10313).
 
-🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We plan to add more work soon, and we highly welcome pull requests!
+🔥 Our project is an ongoing, open initiative that will evolve in parallel with advancements in AGI. We warmly welcome feedback and pull requests from the community and plan to update our paper annually. Contributors on the project website will be gratefully acknowledged in future revisions.
 
 BibTex citation if you find our work/resources useful:
 
