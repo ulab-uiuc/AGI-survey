@@ -215,6 +215,7 @@ BibTex citation if you find our work/resources useful:
 13. **WebArena: A Realistic Web Environment for Building Autonomous Agents**. *Shuyan Zhou et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=oKn9c6ytLx)]
 14. **Large Language Models as Tool Makers**. *Tianle Cai et al.* ICLR 2024. [[paper](https://openreview.net/forum?id=qV83K9d5WB)]
 15. **Cybergod: God is in your computer**. *James Brown* December 2024. [[paper](https://james4ever0.github.io/Cybergod__God_is_in_your_computer.html)] [[code](https://james4ever0.github.io)]
+16. **ClawBench: Can AI Agents Complete Everyday Online Tasks?**. *Yuxuan Zhang et al.* arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)]
 
 </details>
 
